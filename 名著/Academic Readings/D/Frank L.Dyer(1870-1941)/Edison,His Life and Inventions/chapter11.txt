@@ -1,0 +1,2206 @@
+
+
+
+
+
+CHAPTER XI
+
+
+
+THE INVENTION OF THE INCANDESCENT LAMP
+
+
+
+IT is possible to imagine a time to come when the
+
+hours of work and rest will once more be regulated
+
+by the sun. But the course of civilization has been
+
+marked by an artificial lengthening of the day, and by a
+
+constant striving after more perfect means of illumination.
+
+Why mankind should sleep through several hours
+
+of sunlight in the morning, and stay awake through
+
+a needless time in the evening, can probably only
+
+be attributed to total depravity. It is certainly a
+
+most stupid, expensive, and harmful habit. In no
+
+one thing has man shown greater fertility of invention
+
+than in lighting; to nothing does he cling more
+
+tenaciously than to his devices for furnishing light.
+
+Electricity to-day reigns supreme in the field of
+
+illumination, but every other kind of artificial light
+
+that has ever been known is still in use somewhere.
+
+Toward its light-bringers the race has assumed an
+
+attitude of veneration, though it has forgotten, if it
+
+ever heard, the names of those who first brightened
+
+its gloom and dissipated its darkness. If the tallow
+
+candle, hitherto unknown, were now invented, its
+
+creator would be hailed as one of the greatest
+
+benefactors of the present age.
+
+
+
+Up to the close of the eighteenth century, the means
+
+of house and street illumination were of two generic
+
+kinds--grease and oil; but then came a swift and
+
+revolutionary change in the adoption of gas. The
+
+ideas and methods of Murdoch and Lebon soon took
+
+definite shape, and "coal smoke" was piped from its
+
+place of origin to distant points of consumption. As
+
+early as 1804, the first company ever organized for
+
+gas lighting was formed in London, one side of Pall
+
+Mall being lit up by the enthusiastic pioneer, Winsor,
+
+in 1807. Equal activity was shown in America, and
+
+Baltimore began the practice of gas lighting in 1816.
+
+It is true that there were explosions, and distinguished
+
+men like Davy and Watt opined that the illuminant
+
+was too dangerous; but the "spirit of coal" had
+
+demonstrated its usefulness convincingly, and a
+
+commercial development began, which, for extent
+
+and rapidity, was not inferior to that marking the
+
+concurrent adoption of steam in industry and transportation.
+
+
+
+Meantime the wax candle and the Argand oil lamp
+
+held their own bravely. The whaling fleets, long after
+
+gas came into use, were one of the greatest sources
+
+of our national wealth. To New Bedford, Massachusetts,
+
+alone, some three or four hundred ships
+
+brought their whale and sperm oil, spermaceti, and
+
+whalebone; and at one time that port was accounted
+
+the richest city in the United States in proportion
+
+to its population. The ship-owners and refiners of
+
+that whaling metropolis were slow to believe that
+
+their monopoly could ever be threatened by newer
+
+sources of illumination; but gas had become available
+
+in the cities, and coal-oil and petroleum were now
+
+added to the list of illuminating materials. The
+
+American whaling fleet, which at the time of Edison's
+
+birth mustered over seven hundred sail, had dwindled
+
+probably to a bare tenth when he took up the problem
+
+of illumination; and the competition of oil from
+
+the ground with oil from the sea, and with coal-gas,
+
+had made the artificial production of light cheaper
+
+than ever before, when up to the middle of the century
+
+it had remained one of the heaviest items of
+
+domestic expense. Moreover, just about the time
+
+that Edison took up incandescent lighting, water-gas
+
+was being introduced on a large scale as a commercial
+
+illuminant that could be produced at a much lower
+
+cost than coal-gas.
+
+
+
+Throughout the first half of the nineteenth century
+
+the search for a practical electric light was almost
+
+wholly in the direction of employing methods analogous
+
+to those already familiar; in other words, obtaining
+
+the illumination from the actual consumption of
+
+the light-giving material. In the third quarter of
+
+the century these methods were brought to practicality,
+
+but all may be referred back to the brilliant
+
+demonstrations of Sir Humphry Davy at the Royal
+
+Institution, circa 1809-10, when, with the current
+
+from a battery of two thousand cells, he produced an
+
+intense voltaic arc between the points of consuming
+
+sticks of charcoal. For more than thirty years the
+
+arc light remained an expensive laboratory experiment;
+
+but the coming of the dynamo placed that
+
+illuminant on a commercial basis. The mere fact
+
+that electrical energy from the least expensive chemical
+
+battery using up zinc and acids costs twenty
+
+times as much as that from a dynamo--driven by
+
+steam-engine--is in itself enough to explain why so
+
+many of the electric arts lingered in embryo after
+
+their fundamental principles had been discovered.
+
+Here is seen also further proof of the great truth
+
+that one invention often waits for another.
+
+
+
+From 1850 onward the improvements in both the
+
+arc lamp and the dynamo were rapid; and under the
+
+superintendence of the great Faraday, in 1858, protecting
+
+beams of intense electric light from the voltaic
+
+arc were shed over the waters of the Straits of Dover
+
+from the beacons of South Foreland and Dungeness.
+
+By 1878 the arc-lighting industry had sprung into
+
+existence in so promising a manner as to engender
+
+an extraordinary fever and furor of speculation. At
+
+the Philadelphia Centennial Exposition of 1876,
+
+Wallace-Farmer dynamos built at Ansonia, Connecticut,
+
+were shown, with the current from which arc
+
+lamps were there put in actual service. A year or
+
+two later the work of Charles F. Brush and Edward
+
+Weston laid the deep foundation of modern arc lighting
+
+in America, securing as well substantial recognition
+
+abroad.
+
+
+
+Thus the new era had been ushered in, but it was
+
+based altogether on the consumption of some material
+
+--carbon--in a lamp open to the air. Every
+
+lamp the world had ever known did this, in one way
+
+or another. Edison himself began at that point,
+
+and his note-books show that he made various experiments
+
+with this type of lamp at a very early stage.
+
+Indeed, his experiments had led him so far as to
+
+anticipate in 1875 what are now known as "flaming
+
+arcs," the exceedingly bright and generally orange
+
+or rose-colored lights which have been introduced
+
+within the last few years, and are now so frequently
+
+seen in streets and public places. While the arcs
+
+with plain carbons are bluish-white, those with carbons
+
+containing calcium fluoride have a notable
+
+golden glow.
+
+
+
+He was convinced, however, that the greatest field
+
+of lighting lay in the illumination of houses and other
+
+comparatively enclosed areas, to replace the ordinary
+
+gas light, rather than in the illumination of streets
+
+and other outdoor places by lights of great volume
+
+and brilliancy. Dismissing from his mind quickly
+
+the commercial impossibility of using arc lights for
+
+general indoor illumination, he arrived at the conclusion
+
+that an electric lamp giving light by incandescence
+
+was the solution of the problem.
+
+
+
+Edison was familiar with the numerous but
+
+impracticable and commercially unsuccessful efforts
+
+that had been previously made by other inventors
+
+and investigators to produce electric light by incandescence,
+
+and at the time that he began his experiments,
+
+in 1877, almost the whole scientific world
+
+had pronounced such an idea as impossible of fulfilment.
+
+The leading electricians, physicists, and experts
+
+of the period had been studying the subject
+
+for more than a quarter of a century, and with but
+
+one known exception had proven mathematically and
+
+by close reasoning that the "Subdivision of the
+
+Electric Light," as it was then termed, was practically
+
+beyond attainment. Opinions of this nature
+
+have ever been but a stimulus to Edison when he
+
+has given deep thought to a subject, and has become
+
+impressed with strong convictions of possibility, and
+
+in this particular case he was satisfied that the subdivision
+
+of the electric light--or, more correctly, the
+
+subdivision of the electric current--was not only
+
+possible but entirely practicable.
+
+
+
+It will have been perceived from the foregoing
+
+chapters that from the time of boyhood, when he
+
+first began to rub against the world, his commercial
+
+instincts were alert and predominated in almost all
+
+of the enterprises that he set in motion. This
+
+characteristic trait had grown stronger as he matured,
+
+having received, as it did, fresh impetus and strength
+
+from his one lapse in the case of his first patented
+
+invention, the vote-recorder. The lesson he then
+
+learned was to devote his inventive faculties only to
+
+things for which there was a real, genuine demand,
+
+and that would subserve the actual necessities of
+
+humanity; and it was probably a fortunate circumstance
+
+that this lesson was learned at the outset of
+
+his career as an inventor. He has never assumed to
+
+be a philosopher or "pure scientist."
+
+
+
+In order that the reader may grasp an adequate
+
+idea of the magnitude and importance of Edison's
+
+invention of the incandescent lamp, it will be necessary
+
+to review briefly the "state of the art" at the
+
+time he began his experiments on that line. After
+
+the invention of the voltaic battery, early in the last
+
+century, experiments were made which determined
+
+that heat could be produced by the passage of the
+
+electric current through wires of platinum and other
+
+metals, and through pieces of carbon, as noted al-
+
+ready, and it was, of course, also observed that if
+
+sufficient current were passed through these conductors
+
+they could be brought from the lower stage
+
+of redness up to the brilliant white heat of incandescence.
+
+As early as 1845 the results of these experiments
+
+were taken advantage of when Starr, a
+
+talented American who died at the early age of
+
+twenty-five, suggested, in his English patent of that
+
+year, two forms of small incandescent electric lamps,
+
+one having a burner made from platinum foil placed
+
+under a glass cover without excluding the air; and
+
+the other composed of a thin plate or pencil of carbon
+
+enclosed in a Torricellian vacuum. These suggestions
+
+of young Starr were followed by many other experimenters,
+
+whose improvements consisted principally
+
+in devices to increase the compactness and portability
+
+of the lamp, in the sealing of the lamp chamber
+
+to prevent the admission of air, and in means
+
+for renewing the carbon burner when it had been consumed.
+
+Thus Roberts, in 1852, proposed to cement
+
+the neck of the glass globe into a metallic cup, and
+
+to provide it with a tube or stop-cock for exhaustion
+
+by means of a hand-pump. Lodyguine, Konn, Kosloff,
+
+and Khotinsky, between 1872 and 1877, proposed
+
+various ingenious devices for perfecting the
+
+joint between the metal base and the glass globe, and
+
+also provided their lamps with several short carbon
+
+pencils, which were automatically brought into circuit
+
+successively as the pencils were consumed. In
+
+1876 or 1877, Bouliguine proposed the employment
+
+of a long carbon pencil, a short section only of
+
+which was in circuit at any one time and formed the
+
+burner, the lamp being provided with a mechanism
+
+for automatically pushing other sections of the pencil
+
+into position between the contacts to renew the
+
+burner. Sawyer and Man proposed, in 1878, to make
+
+the bottom plate of glass instead of metal, and
+
+provided ingenious arrangements for charging the
+
+lamp chamber with an atmosphere of pure nitrogen
+
+gas which does not support combustion.
+
+
+
+These lamps and many others of similar character,
+
+ingenious as they were, failed to become of any commercial
+
+value, due, among other things, to the brief
+
+life of the carbon burner. Even under the best conditions
+
+it was found that the carbon members were
+
+subject to a rapid disintegration or evaporation,
+
+which experimenters assumed was due to the disrupting
+
+action of the electric current; and hence the
+
+conclusion that carbon contained in itself the elements
+
+of its own destruction, and was not a suitable
+
+material for the burner of an incandescent lamp.
+
+On the other hand, platinum, although found to be
+
+the best of all materials for the purpose, aside from
+
+its great expense, and not combining with oxygen at
+
+high temperatures as does carbon, required to be
+
+brought so near the melting-point in order to give
+
+light, that a very slight increase in the temperature
+
+resulted in its destruction. It was assumed that the
+
+difficulty lay in the material of the burner itself, and
+
+not in its environment.
+
+
+
+It was not realized up to such a comparatively
+
+recent date as 1879 that the solution of the great
+
+problem of subdivision of the electric current would
+
+not, however, be found merely in the production of
+
+a durable incandescent electric lamp--even if any of
+
+the lamps above referred to had fulfilled that requirement.
+
+The other principal features necessary
+
+to subdivide the electric current successfully were:
+
+the burning of an indefinite number of lights on the
+
+same circuit; each light to give a useful and economical
+
+degree of illumination; and each light to be independent
+
+of all the others in regard to its operation
+
+and extinguishment.
+
+
+
+The opinions of scientific men of the period on the
+
+subject are well represented by the two following
+
+extracts--the first, from a lecture at the Royal
+
+United Service Institution, about February, 1879,
+
+by Mr. (Sir) W. H. Preece, one of the most eminent
+
+electricians in England, who, after discussing the
+
+question mathematically, said: "Hence the sub-division
+
+of the light is an absolute ignis fatuus." The
+
+other extract is from a book written by Paget Higgs,
+
+LL.D., D.Sc., published in London in 1879, in which
+
+he says: "Much nonsense has been talked in relation
+
+to this subject. Some inventors have claimed the
+
+power to `indefinitely divide' the electric current, not
+
+knowing or forgetting that such a statement is incompatible
+
+with the well-proven law of conservation
+
+of energy."
+
+
+
+"Some inventors," in the last sentence just quoted,
+
+probably--indeed, we think undoubtedly--refers to
+
+Edison, whose earlier work in electric lighting (1878)
+
+had been announced in this country and abroad, and
+
+who had then stated boldly his conviction of the
+
+practicability of the subdivision of the electrical current.
+
+The above extracts are good illustrations,
+
+however, of scientific opinions up to the end of 1879,
+
+when Mr. Edison's epoch-making invention rendered
+
+them entirely untenable. The eminent scientist,
+
+John Tyndall, while not sharing these precise views,
+
+at least as late as January 17, 1879, delivered a
+
+lecture before the Royal Institution on "The
+
+Electric Light," when, after pointing out the
+
+development of the art up to Edison's work, and
+
+showing the apparent hopelessness of the problem, he
+
+said: "Knowing something of the intricacy of the
+
+practical problem, I should certainly prefer seeing it
+
+in Edison's hands to having it in mine."
+
+
+
+The reader may have deemed this sketch of the
+
+state of the art to be a considerable digression; but
+
+it is certainly due to the subject to present the facts
+
+in such a manner as to show that this great invention
+
+was neither the result of improving some process or
+
+device that was known or existing at the time, nor
+
+due to any unforeseen lucky chance, nor the accidental
+
+result of other experiments. On the contrary, it was
+
+the legitimate outcome of a series of exhaustive
+
+experiments founded upon logical and original reasoning
+
+in a mind that had the courage and hardihood to
+
+set at naught the confirmed opinions of the world,
+
+voiced by those generally acknowledged to be the
+
+best exponents of the art--experiments carried on
+
+amid a storm of jeers and derision, almost as
+
+contemptuous as if the search were for the discovery of
+
+perpetual motion. In this we see the man foreshadowed
+
+by the boy who, when he obtained his books
+
+on chemistry or physics, did not accept any statement
+
+of fact or experiment therein, but worked out every
+
+one of them himself to ascertain whether or not they
+
+were true.
+
+
+
+Although this brings the reader up to the year
+
+1879, one must turn back two years and accompany
+
+Edison in his first attack on the electric-light problem.
+
+In 1877 he sold his telephone invention (the carbon
+
+transmitter) to the Western Union Telegraph Company,
+
+which had previously come into possession also
+
+of his quadruplex inventions, as already related. He
+
+was still busily engaged on the telephone, on acoustic
+
+electrical transmission, sextuplex telegraphs, duplex
+
+telegraphs, miscellaneous carbon articles, and other
+
+inventions of a minor nature. During the whole of
+
+the previous year and until late in the summer of
+
+1877, he had been working with characteristic energy
+
+and enthusiasm on the telephone; and, in developing
+
+this invention to a successful issue, had preferred the
+
+use of carbon and had employed it in numerous
+
+forms, especially in the form of carbonized paper.
+
+
+
+Eighteen hundred and seventy-seven in Edison's
+
+laboratory was a veritable carbon year, for it was
+
+carbon in some shape or form for interpolation in
+
+electric circuits of various kinds that occupied the
+
+thoughts of the whole force from morning to night.
+
+It is not surprising, therefore, that in September of
+
+that year, when Edison turned his thoughts actively
+
+toward electric lighting by incandescence, his early
+
+experiments should be in the line of carbon as an
+
+illuminant. His originality of method was displayed
+
+at the very outset, for one of the first experiments
+
+was the bringing to incandescence of a strip of carbon
+
+in the open air to ascertain merely how much current
+
+was required. This conductor was a strip of carbonized
+
+paper about an inch long, one-sixteenth of an
+
+inch broad, and six or seven one-thousandths of an
+
+inch thick, the ends of which were secured to clamps
+
+that formed the poles of a battery. The carbon
+
+was lighted up to incandescence, and, of course,
+
+oxidized and disintegrated immediately. Within a
+
+few days this was followed by experiments with the
+
+same kind of carbon, but in vacuo by means of a
+
+hand-worked air-pump. This time the carbon strip
+
+burned at incandescence for about eight minutes.
+
+Various expedients to prevent oxidization were tried,
+
+such, for instance, as coating the carbon with powdered
+
+glass, which in melting would protect the
+
+carbon from the atmosphere, but without successful
+
+results.
+
+
+
+Edison was inclined to concur in the prevailing
+
+opinion as to the easy destructibility of carbon, but,
+
+without actually settling the point in his mind, he
+
+laid aside temporarily this line of experiment and
+
+entered a new field. He had made previously some
+
+trials of platinum wire as an incandescent burner
+
+for a lamp, but left it for a time in favor of carbon.
+
+He now turned to the use of almost infusible metals--
+
+such as boron, ruthenium, chromium, etc.--as separators
+
+or tiny bridges between two carbon points,
+
+the current acting so as to bring these separators to
+
+a high degree of incandescence, at which point they
+
+would emit a brilliant light. He also placed some of
+
+these refractory metals directly in the circuit, bringing
+
+them to incandescence, and used silicon in powdered
+
+form in glass tubes placed in the electric circuit. His
+
+notes include the use of powdered silicon mixed with
+
+lime or other very infusible non-conductors or semi-
+
+conductors. Edison's conclusions on these substances
+
+were that, while in some respects they were
+
+within the bounds of possibility for the subdivision
+
+of the electric current, they did not reach the ideal
+
+that he had in mind for commercial results.
+
+
+
+Edison's systematized attacks on the problem were
+
+two in number, the first of which we have just related,
+
+which began in September, 1877, and continued
+
+until about January, 1878. Contemporaneously,
+
+he and his force of men were very busily engaged
+
+day and night on other important enterprises
+
+and inventions. Among the latter, the phonograph
+
+may be specially mentioned, as it was invented in
+
+the late fall of 1877. From that time until July,
+
+1878, his time and attention day and night were almost
+
+completely absorbed by the excitement caused
+
+by the invention and exhibition of the machine. In
+
+July, feeling entitled to a brief vacation after several
+
+years of continuous labor, Edison went with the
+
+expedition to Wyoming to observe an eclipse of the
+
+sun, and incidentally to test his tasimeter, a delicate
+
+instrument devised by him for measuring heat transmitted
+
+through immense distances of space. His trip
+
+has been already described. He was absent about
+
+two months. Coming home rested and refreshed,
+
+Mr. Edison says: "After my return from the trip to
+
+observe the eclipse of the sun, I went with Professor
+
+Barker, Professor of Physics in the University of
+
+Pennsylvania, and Doctor Chandler, Professor of
+
+Chemistry in Columbia College, to see Mr. Wallace,
+
+a large manufacturer of brass in Ansonia, Connecticut.
+
+Wallace at this time was experimenting on
+
+series arc lighting. Just at that time I wanted to
+
+take up something new, and Professor Barker suggested
+
+that I go to work and see if I could subdivide
+
+the electric light so it could be got in small units like
+
+gas. This was not a new suggestion, because I had
+
+made a number of experiments on electric lighting a
+
+year before this. They had been laid aside for the
+
+phonograph. I determined to take up the search
+
+again and continue it. On my return home I started
+
+my usual course of collecting every kind of data
+
+about gas; bought all the transactions of the gas-
+
+engineering societies, etc., all the back volumes of
+
+gas journals, etc. Having obtained all the data, and
+
+investigated gas-jet distribution in New York by
+
+actual observations, I made up my mind that the
+
+problem of the subdivision of the electric current
+
+could be solved and made commercial." About the
+
+end of August, 1878, he began his second organized
+
+attack on the subdivision of the current, which was
+
+steadily maintained until he achieved signal victory
+
+a year and two months later.
+
+
+
+The date of this interesting visit to Ansonia is
+
+fixed by an inscription made by Edison on a glass
+
+goblet which he used. The legend in diamond
+
+scratches runs: "Thomas A. Edison, September 8,
+
+1878, made under the electric light." Other members
+
+of the party left similar memorials, which under the
+
+circumstances have come to be greatly prized. A
+
+number of experiments were witnessed in arc lighting,
+
+and Edison secured a small Wallace-Farmer dynamo
+
+for his own work, as well as a set of Wallace arc
+
+lamps for lighting the Menlo Park laboratory. Before
+
+leaving Ansonia, Edison remarked, significantly:
+
+"Wallace, I believe I can beat you making electric
+
+lights. I don't think you are working in the right
+
+direction." Another date which shows how promptly
+
+the work was resumed is October 14, 1878, when Edison
+
+filed an application for his first lighting patent:
+
+"Improvement in Electric Lights." In after years,
+
+discussing the work of Wallace, who was not only a great
+
+pioneer electrical manufacturer, but one of the founders
+
+of the wire-drawing and brass-working industry,
+
+Edison said: "Wallace was one of the earliest pioneers
+
+in electrical matters in this country. He has
+
+done a great deal of good work, for which others have
+
+received the credit; and the work which he did in
+
+the early days of electric lighting others have benefited
+
+by largely, and he has been crowded to one side
+
+and forgotten." Associated in all this work with
+
+Wallace at Ansonia was Prof. Moses G. Farmer,
+
+famous for the introduction of the fire-alarm system;
+
+as the discoverer of the self-exciting principle of the
+
+modern dynamo; as a pioneer experimenter in the
+
+electric-railway field; as a telegraph engineer, and
+
+as a lecturer on mines and explosives to naval classes
+
+at Newport. During 1858, Farmer, who, like Edison,
+
+was a ceaseless investigator, had made a series of
+
+studies upon the production of light by electricity,
+
+and had even invented an automatic regulator by
+
+which a number of platinum lamps in multiple arc
+
+could be kept at uniform voltage for any length of
+
+time. In July, 1859, he lit up one of the rooms of
+
+his house at Salem, Massachusetts, every evening
+
+with such lamps, using in them small pieces of platinum
+
+and iridium wire, which were made to incandesce
+
+by means of current from primary batteries.
+
+Farmer was not one of the party that memorable day
+
+in September, but his work was known through his
+
+intimate connection with Wallace, and there is no
+
+doubt that reference was made to it. Such work had
+
+not led very far, the "lamps" were hopelessly short-
+
+lived, and everything was obviously experimental;
+
+but it was all helpful and suggestive to one whose
+
+open mind refused no hint from any quarter.
+
+
+
+At the commencement of his new attempts, Edison
+
+returned to his experiments with carbon as an
+
+incandescent burner for a lamp, and made a very large
+
+number of trials, all in vacuo. Not only were the
+
+ordinary strip paper carbons tried again, but tissue-
+
+paper coated with tar and lampblack was rolled
+
+into thin sticks, like knitting-needles, carbonized and
+
+raised to incandescence in vacuo. Edison also tried
+
+hard carbon, wood carbons, and almost every
+
+conceivable variety of paper carbon in like manner.
+
+With the best vacuum that he could then get by
+
+means of the ordinary air-pump, the carbons would
+
+last, at the most, only from ten to fifteen minutes in
+
+a state of incandescence. Such results were evidently
+
+not of commercial value.
+
+
+
+Edison then turned his attention in other directions.
+
+In his earliest consideration of the problem
+
+of subdividing the electric current, he had decided
+
+that the only possible solution lay in the employment
+
+of a lamp whose incandescing body should have a
+
+high resistance combined with a small radiating surface,
+
+and be capable of being used in what is called
+
+"multiple arc," so that each unit, or lamp, could be
+
+turned on or off without interfering with any other
+
+unit or lamp. No other arrangement could possibly
+
+be considered as commercially practicable.
+
+
+
+The full significance of the three last preceding
+
+sentences will not be obvious to laymen, as undoubtedly
+
+many of the readers of this book may be; and now
+
+being on the threshold of the series of Edison's experiments
+
+that led up to the basic invention, we interpolate
+
+a brief explanation, in order that the reader
+
+may comprehend the logical reasoning and work that
+
+in this case produced such far-reaching results.
+
+
+
+If we consider a simple circuit in which a current
+
+is flowing, and include in the circuit a carbon horseshoe-like
+
+conductor which it is desired to bring to
+
+incandescence by the heat generated by the current
+
+passing through it, it is first evident that the resistance
+
+offered to the current by the wires themselves
+
+must be less than that offered by the burner, because,
+
+otherwise current would be wasted as heat in the conducting
+
+wires. At the very foundation of the electric-
+
+lighting art is the essentially commercial consideration
+
+that one cannot spend very much for conductors, and
+
+Edison determined that, in order to use wires of a
+
+practicable size, the voltage of the current (i.e., its
+
+pressure or the characteristic that overcomes resistance
+
+to its flow) should be one hundred and ten volts,
+
+which since its adoption has been the standard. To
+
+use a lower voltage or pressure, while making the solution
+
+of the lighting problem a simple one as we shall
+
+see, would make it necessary to increase the size of
+
+the conducting wires to a prohibitive extent. To
+
+increase the voltage or pressure materially, while
+
+permitting some saving in the cost of conductors, would
+
+enormously increase the difficulties of making a
+
+sufficiently high resistance conductor to secure light by
+
+incandescence. This apparently remote consideration
+
+--weight of copper used--was really the commercial
+
+key to the problem, just as the incandescent
+
+burner was the scientific key to that problem. Before
+
+Edison's invention incandescent lamps had been
+
+suggested as a possibility, but they were provided
+
+with carbon rods or strips of relatively low resistance,
+
+and to bring these to incandescence required a current
+
+of low pressure, because a current of high voltage
+
+would pass through them so readily as not to generate
+
+heat; and to carry a current of low pressure through
+
+wires without loss would require wires of enormous
+
+size.[8] Having a current of relatively high pressure
+
+to contend with, it was necessary to provide a carbon
+
+burner which, as compared with what had previously
+
+been suggested, should have a very great resistance.
+
+Carbon as a material, determined after patient search,
+
+apparently offered the greatest hope, but even with
+
+this substance the necessary high resistance could be
+
+obtained only by making the burner of extremely
+
+small cross-section, thereby also reducing its radiating
+
+surface. Therefore, the crucial point was the
+
+production of a hair-like carbon filament, with a
+
+relatively great resistance and small radiating surface,
+
+capable of withstanding mechanical shock, and
+
+susceptible of being maintained at a temperature of
+
+over two thousand degrees for a thousand hours or
+
+more before breaking. And this filamentary conductor
+
+required to be supported in a vacuum chamber
+
+so perfectly formed and constructed that during all
+
+those hours, and subjected as it is to varying temperatures,
+
+not a particle of air should enter to disintegrate
+
+the filament. And not only so, but the
+
+lamp after its design must not be a mere laboratory
+
+possibility, but a practical commercial article capable
+
+of being manufactured at low cost and in large
+
+quantities. A statement of what had to be done in
+
+those days of actual as well as scientific electrical
+
+darkness is quite sufficient to explain Tyndall's attitude
+
+of mind in preferring that the problem should
+
+be in Edison's hands rather than in his own. To
+
+say that the solution of the problem lay merely in
+
+reducing the size of the carbon burner to a mere hair,
+
+is to state a half-truth only; but who, we ask, would
+
+have had the temerity even to suggest that such an
+
+attenuated body could be maintained at a white heat,
+
+without disintegration, for a thousand hours? The solution
+
+consisted not only in that, but in the enormous
+
+mass of patiently worked-out details--the manufacture
+
+of the filaments, their uniform carbonization,
+
+making the globes, producing a perfect vacuum, and
+
+countless other factors, the omission of any one of
+
+which would probably have resulted eventually in
+
+failure.
+
+
+
+
+
+[8] As a practical illustration of these facts it was calculated by
+
+Professor Barker, of the University of Pennsylvania (after Edison
+
+had invented the incandescent lamp), that if it should cost $100,000
+
+for copper conductors to supply current to Edison lamps in
+
+a given area, it would cost about $200,000,000 for copper conductors
+
+for lighting the same area by lamps of the earlier experimenters
+
+--such, for instance, as the lamp invented by Konn in 1875. This
+
+enormous difference would be accounted for by the fact that
+
+Edison's lamp was one having a high resistance and relatively
+
+small radiating surface, while Konn's lamp was one having a very
+
+low resistance and large radiating surface.
+
+
+
+
+
+
+
+Continuing the digression one step farther in order
+
+to explain the term "multiple arc," it may be stated
+
+that there are two principal systems
+
+of distributing electric current, one
+
+termed "series," and the other
+
+"multiple arc." The two are
+
+illustrated, diagrammatically,
+
+side by side, the
+
+arrows indicating flow of
+
+current. The series system,
+
+it will be seen, presents
+
+one continuous path
+
+for the current. The current
+
+for the last lamp
+
+must pass through the
+
+first and all the intermediate
+
+lamps. Hence, if
+
+any one light goes out,
+
+the continuity of the path
+
+is broken, current cannot
+
+flow, and all the lamps
+
+are extinguished unless a
+
+loop or by-path is provided. It is quite
+
+obvious that such a system would be
+
+commercially impracticable where small
+
+units, similar to gas jets, were employed. On the other
+
+hand, in the multiple-arc system, current may be considered
+
+as flowing in two parallel conductors like the
+
+vertical sides of a ladder, the ends of which never
+
+come together. Each lamp is placed in a separate
+
+circuit across these two conductors, like a rung in
+
+the ladder, thus making a separate and independent
+
+path for the current in each case. Hence, if
+
+a lamp goes out, only that individual subdivision, or
+
+ladder step, is affected; just that one particular path
+
+for the current is interrupted, but none of the other
+
+lamps is interfered with. They remain lighted, each
+
+one independent of the other. The reader will quite
+
+readily understand, therefore, that a multiple-arc system
+
+is the only one practically commercial where
+
+electric light is to be used in small units like those
+
+of gas or oil.
+
+
+
+Such was the nature of the problem that confronted
+
+Edison at the outset. There was nothing in the
+
+whole world that in any way approximated a solution,
+
+although the most brilliant minds in the electrical
+
+art had been assiduously working on the subject
+
+for a quarter of a century preceding. As already seen,
+
+he came early to the conclusion that the only solution
+
+lay in the use of a lamp of high resistance and
+
+small radiating surface, and, with characteristic fervor
+
+and energy, he attacked the problem from this
+
+standpoint, having absolute faith in a successful outcome.
+
+The mere fact that even with the successful
+
+production of the electric lamp the assault on the
+
+complete problem of commercial lighting would hardly
+
+be begun did not deter him in the slightest. To
+
+one of Edison's enthusiastic self-confidence the long
+
+vista of difficulties ahead--we say it in all sincerity--
+
+must have been alluring.
+
+
+
+After having devoted several months to experimental
+
+trials of carbon, at the end of 1878, as already
+
+detailed, he turned his attention to the platinum
+
+group of metals and began a series of experiments in
+
+which he used chiefly platinum wire and iridium wire,
+
+and alloys of refractory metals in the form of wire burners
+
+for incandescent lamps. These metals have very
+
+high fusing-points, and were found to last longer than
+
+the carbon strips previously used when heated up to
+
+incandescence by the electric current, although under
+
+such conditions as were then possible they were
+
+melted by excess of current after they had been
+
+lighted a comparatively short time, either in the
+
+open air or in such a vacuum as could be obtained
+
+by means of the ordinary air-pump.
+
+
+
+Nevertheless, Edison continued along this line of
+
+experiment with unremitting vigor, making improvement
+
+after improvement, until about April, 1879, he
+
+devised a means whereby platinum wire of a given
+
+length, which would melt in the open air when giving
+
+a light equal to four candles, would emit a light of
+
+twenty-five candle-power without fusion. This was
+
+accomplished by introducing the platinum wire into
+
+an all-glass globe, completely sealed and highly
+
+exhausted of air, and passing a current through the
+
+platinum wire while the vacuum was being made. In
+
+this, which was a new and radical invention, we see
+
+the first step toward the modern incandescent lamp.
+
+The knowledge thus obtained that current passing
+
+through the platinum during exhaustion would drive
+
+out occluded gases (i.e., gases mechanically held in
+
+or upon the metal), and increase the infusibility of
+
+the platinum, led him to aim at securing greater perfection
+
+in the vacuum, on the theory that the higher
+
+the vacuum obtained, the higher would be the infusibility
+
+of the platinum burner. And this fact also
+
+was of the greatest importance in making successful
+
+the final use of carbon, because without the subjection
+
+of the carbon to the heating effect of current during
+
+the formation of the vacuum, the presence of occluded
+
+gases would have been a fatal obstacle.
+
+
+
+Continuing these experiments with most fervent
+
+zeal, taking no account of the passage of time, with
+
+an utter disregard for meals, and but scanty hours
+
+of sleep snatched reluctantly at odd periods of the
+
+day or night, Edison kept his laboratory going without
+
+cessation. A great variety of lamps was made
+
+of the platinum-iridium type, mostly with thermal
+
+devices to regulate the temperature of the burner and
+
+prevent its being melted by an excess of current.
+
+The study of apparatus for obtaining more perfect
+
+vacua was unceasingly carried on, for Edison realized
+
+that in this there lay a potent factor of ultimate
+
+success. About August he had obtained a pump that
+
+would produce a vacuum up to about the one-hundred-
+
+thousandth part of an atmosphere, and some
+
+time during the next month, or beginning of October,
+
+had obtained one that would produce a vacuum up
+
+to the one-millionth part of an atmosphere. It must
+
+be remembered that the conditions necessary for
+
+MAINTAINING this high vacuum were only made possible
+
+by his invention of the one-piece all-glass globe,
+
+in which all the joints were hermetically sealed
+
+during its manufacture into a lamp, whereby a high
+
+vacuum could be retained continuously for any
+
+length of time.
+
+
+
+In obtaining this perfection of vacuum apparatus,
+
+Edison realized that he was approaching much nearer
+
+to a solution of the problem. In his experiments with
+
+the platinum-iridium lamps, he had been working all
+
+the time toward the proposition of high resistance
+
+and small radiating surface, until he had made a
+
+lamp having thirty feet of fine platinum wire wound
+
+upon a small bobbin of infusible material; but the
+
+desired economy, simplicity, and durability were not
+
+obtained in this manner, although at all times the
+
+burner was maintained at a critically high temperature.
+
+After attaining a high degree of perfection
+
+with these lamps, he recognized their impracticable
+
+character, and his mind reverted to the opinion he
+
+had formed in his early experiments two years before
+
+--viz., that carbon had the requisite resistance to
+
+permit a very simple conductor to accomplish the
+
+object if it could be used in the form of a hair-like
+
+"filament," provided the filament itself could be
+
+made sufficiently homogeneous. As we have already
+
+seen, he could not use carbon successfully in his
+
+earlier experiments, for the strips of carbon he then
+
+employed, although they were much larger than
+
+"filaments," would not stand, but were consumed in
+
+a few minutes under the imperfect conditions then
+
+at his command.
+
+
+
+Now, however, that he had found means for obtaining
+
+and maintaining high vacua, Edison immediately
+
+went back to carbon, which from the first he
+
+had conceived of as the ideal substance for a burner.
+
+His next step proved conclusively the correctness of
+
+his old deductions. On October 21, 1879, after many
+
+patient trials, he carbonized a piece of cotton sewing-
+
+thread bent into a loop or horseshoe form, and had it
+
+sealed into a glass globe from which he exhausted the air
+
+until a vacuum up to one-millionth of an atmosphere
+
+was produced. This lamp, when put on the circuit,
+
+lighted up brightly to incandescence and maintained
+
+its integrity for over forty hours, and lo! the practical
+
+incandescent lamp was born. The impossible, so
+
+called, had been attained; subdivision of the electric-
+
+light current was made practicable; the goal had
+
+been reached; and one of the greatest inventions of
+
+the century was completed. Up to this time Edison
+
+had spent over $40,000 in his electric-light experiments,
+
+but the results far more than justified the expenditure,
+
+for with this lamp he made the discovery
+
+that the FILAMENT of carbon, under the conditions of
+
+high vacuum, was commercially stable and would
+
+stand high temperatures without the disintegration
+
+and oxidation that took place in all previous attempts
+
+that he knew of for making an incandescent
+
+burner out of carbon. Besides, this lamp possessed
+
+the characteristics of high resistance and small radiating
+
+surface, permitting economy in the outlay for
+
+conductors, and requiring only a small current for
+
+each unit of light--conditions that were absolutely
+
+necessary of fulfilment in order to accomplish commercially
+
+the subdivision of the electric-light current.
+
+
+
+This slender, fragile, tenuous thread of brittle carbon,
+
+glowing steadily and continuously with a soft
+
+light agreeable to the eyes, was the tiny key that
+
+opened the door to a world revolutionized in its interior
+
+illumination. It was a triumphant vindication
+
+of Edison's reasoning powers, his clear perceptions,
+
+his insight into possibilities, and his inventive faculty,
+
+all of which had already been productive of so many
+
+startling, practical, and epoch-making inventions.
+
+And now he had stepped over the threshold of a new
+
+art which has since become so world-wide in its application
+
+as to be an integral part of modern human
+
+experience.[9]
+
+
+
+
+
+[9] The following extract from Walker on Patents (4th edition)
+
+will probably be of interest to the reader:
+
+
+
+"Sec. 31a. A meritorious exception, to the rule of the last
+
+section, is involved in the adjudicated validity of the Edison
+
+incandescent-light patent. The carbon filament, which constitutes
+
+the only new part of the combination of the second
+
+claim of that patent, differs from the earlier carbon burners of
+
+Sawyer and Man, only in having a diameter of one-sixty-fourth
+
+of an inch or less, whereas the burners of Sawyer and Man had a
+
+diameter of one-thirty-second of an inch or more. But that reduction
+
+of one-half in diameter increased the resistance of the
+
+burner FOURFOLD, and reduced its radiating surface TWOFOLD, and
+
+thus increased eightfold, its ratio of resistance to radiating surface.
+
+That eightfold increase of proportion enabled the resistance
+
+of the conductor of electricity from the generator to
+
+the burner to be increased eightfold, without any increase of
+
+percentage of loss of energy in that conductor, or decrease of
+
+percentage of development of heat in the burner; and thus enabled
+
+the area of the cross-section of that conductor to be reduced
+
+eightfold, and thus to be made with one-eighth of the amount of
+
+copper or other metal, which would be required if the reduction
+
+of diameter of the burner from one-thirty-second to one-sixty-
+
+fourth of an inch had not been made. And that great reduction
+
+in the size and cost of conductors, involved also a great difference
+
+in the composition of the electric energy employed in the system;
+
+that difference consisting in generating the necessary amount of
+
+electrical energy with comparatively high electromotive force,
+
+and comparatively low current, instead of contrariwise. For this
+
+reason, the use of carbon filaments, one-sixty-fourth of an inch in
+
+diameter or less, instead of carbon burners one-thirty-second of
+
+an inch in diameter or more, not only worked an enormous economy
+
+in conductors, but also necessitated a great change in generators,
+
+and did both according to a philosophy, which Edison
+
+was the first to know, and which is stated in this paragraph in its
+
+simplest form and aspect, and which lies at the foundation of the
+
+incandescent electric lighting of the world."
+
+
+
+
+
+No sooner had the truth of this new principle been
+
+established than the work to establish it firmly and
+
+commercially was carried on more assiduously than
+
+ever. The next immediate step was a further
+
+investigation of the possibilities of improving the
+
+quality of the carbon filament. Edison had previously
+
+made a vast number of experiments with carbonized
+
+paper for various electrical purposes, with
+
+such good results that he once more turned to it and
+
+now made fine filament-like loops of this material
+
+which were put into other lamps. These proved
+
+even more successful (commercially considered) than
+
+the carbonized thread--so much so that after a number
+
+of such lamps had been made and put through
+
+severe tests, the manufacture of lamps from these
+
+paper carbons was begun and carried on continuously.
+
+This necessitated first the devising and making of a
+
+large number of special tools for cutting the carbon
+
+filaments and for making and putting together the
+
+various parts of the lamps. Meantime, great excitement
+
+had been caused in this country and in Europe
+
+by the announcement of Edison's success. In the
+
+Old World, scientists generally still declared the
+
+impossibility of subdividing the electric-light current,
+
+and in the public press Mr. Edison was denounced as
+
+a dreamer. Other names of a less complimentary
+
+nature were applied to him, even though his lamp
+
+were actually in use, and the principle of commercial
+
+incandescent lighting had been established.
+
+
+
+Between October 21, 1879, and December 21, 1879,
+
+some hundreds of these paper-carbon lamps had been
+
+made and put into actual use, not only in the laboratory,
+
+but in the streets and several residences at
+
+Menlo Park, New Jersey, causing great excitement
+
+and bringing many visitors from far and near. On
+
+the latter date a full-page article appeared in the
+
+New York Herald which so intensified the excited
+
+feeling that Mr. Edison deemed it advisable to make
+
+a public exhibition. On New Year's Eve, 1879,
+
+special trains were run to Menlo Park by the Pennsylvania
+
+Railroad, and over three thousand persons
+
+took advantage of the opportunity to go out there
+
+and witness this demonstration for themselves. In
+
+this great crowd were many public officials and men
+
+of prominence in all walks of life, who were enthusiastic
+
+in their praises.
+
+
+
+In the mean time, the mind that conceived and
+
+made practical this invention could not rest content
+
+with anything less than perfection, so far as it could
+
+be realized. Edison was not satisfied with paper
+
+carbons. They were not fully up to the ideal that
+
+he had in mind. What he sought was a perfectly
+
+uniform and homogeneous carbon, one like the "One-
+
+Hoss Shay," that had no weak spots to break down
+
+at inopportune times. He began to carbonize everything
+
+in nature that he could lay hands on. In his
+
+laboratory note-books are innumerable jottings of the
+
+things that were carbonized and tried, such as tissue-
+
+paper, soft paper, all kinds of cardboards, drawing-
+
+paper of all grades, paper saturated with tar, all kinds
+
+of threads, fish-line, threads rubbed with tarred lampblack,
+
+fine threads plaited together in strands, cotton
+
+soaked in boiling tar, lamp-wick, twine, tar and
+
+lampblack mixed with a proportion of lime, vulcanized
+
+fibre, celluloid, boxwood, cocoanut hair and
+
+shell, spruce, hickory, baywood, cedar and maple
+
+shavings, rosewood, punk, cork, bagging, flax, and
+
+a host of other things. He also extended his searches
+
+far into the realms of nature in the line of grasses,
+
+plants, canes, and similar products, and in these
+
+experiments at that time and later he carbonized, made
+
+into lamps, and tested no fewer than six thousand
+
+different species of vegetable growths.
+
+
+
+The reasons for such prodigious research are not
+
+apparent on the face of the subject, nor is this the
+
+occasion to enter into an explanation, as that alone
+
+would be sufficient to fill a fair-sized book. Suffice it
+
+to say that Edison's omnivorous reading, keen observation,
+
+power of assimilating facts and natural
+
+phenomena, and skill in applying the knowledge thus
+
+attained to whatever was in hand, now came into full
+
+play in determining that the results he desired could
+
+only be obtained in certain directions.
+
+
+
+At this time he was investigating everything with
+
+a microscope, and one day in the early part of 1880
+
+he noticed upon a table in the laboratory an ordinary
+
+palm-leaf fan. He picked it up and, looking it
+
+over, observed that it had a binding rim made of
+
+bamboo, cut from the outer edge of the cane; a very
+
+long strip. He examined this, and then gave it to
+
+one of his assistants, telling him to cut it up and get
+
+out of it all the filaments he could, carbonize them,
+
+put them into lamps, and try them. The results of
+
+this trial were exceedingly successful, far better than
+
+with anything else thus far used; indeed, so much so,
+
+that after further experiments and microscopic
+
+examinations Edison was convinced that he was now on
+
+the right track for making a thoroughly stable,
+
+commercial lamp; and shortly afterward he sent a man
+
+to Japan to procure further supplies of bamboo. The
+
+fascinating story of the bamboo hunt will be told
+
+later; but even this bamboo lamp was only one item
+
+of a complete system to be devised--a system that
+
+has since completely revolutionized the art of interior
+
+illumination.
+
+
+
+Reference has been made in this chapter to the
+
+preliminary study that Edison brought to bear on
+
+the development of the gas art and industry. This
+
+study was so exhaustive that one can only compare it
+
+to the careful investigation made in advance by any
+
+competent war staff of the elements of strength and
+
+weakness, on both sides, in a possible campaign. A
+
+popular idea of Edison that dies hard, pictures a
+
+breezy, slap-dash, energetic inventor arriving at new
+
+results by luck and intuition, making boastful
+
+assertions and then winning out by mere chance. The
+
+native simplicity of the man, the absence of pose and
+
+ceremony, do much to strengthen this notion; but
+
+the real truth is that while gifted with unusual imagination,
+
+Edison's march to the goal of a new invention
+
+is positively humdrum and monotonous in its
+
+steady progress. No one ever saw Edison in a hurry;
+
+no one ever saw him lazy; and that which he did with
+
+slow, careful scrutiny six months ago, he will be doing
+
+with just as much calm deliberation of research six
+
+months hence--and six years hence if necessary. If,
+
+for instance, he were asked to find the most perfect
+
+pebble on the Atlantic shore of New Jersey, instead
+
+of hunting here, there, and everywhere for the desired
+
+object, we would no doubt find him patiently
+
+screening the entire beach, sifting out the most perfect
+
+stones and eventually, by gradual exclusion,
+
+reaching the long-sought-for pebble; and the mere
+
+fact that in this search years might be taken, would
+
+not lessen his enthusiasm to the slightest extent.
+
+
+
+In the "prospectus book" among the series of famous
+
+note-books, all the references and data apply to
+
+gas. The book is numbered 184, falls into the period
+
+now dealt with, and runs along casually with items
+
+spread out over two or three years. All these notes
+
+refer specifically to "Electricity vs. Gas as General
+
+Illuminants," and cover an astounding range of inquiry
+
+and comment. One of the very first notes tells
+
+the whole story: "Object, Edison to effect exact
+
+imitation of all done by gas, so as to replace lighting
+
+by gas by lighting by electricity. To improve the
+
+illumination to such an extent as to meet all requirements
+
+of natural, artificial, and commercial conditions."
+
+A large programme, but fully executed!
+
+The notes, it will be understood, are all in Edison's
+
+handwriting. They go on to observe that "a general
+
+system of distribution is the only possible means of
+
+economical illumination," and they dismiss isolated-
+
+plant lighting as in mills and factories as of so little
+
+importance to the public--"we shall leave the con-
+
+sideration of this out of this book." The shrewd
+
+prophecy is made that gas will be manufactured less
+
+for lighting, as the result of electrical competition,
+
+and more and more for heating, etc., thus enlarging
+
+its market and increasing its income. Comment is
+
+made on kerosene and its cost, and all kinds of general
+
+statistics are jotted down as desirable. Data are
+
+to be obtained on lamp and dynamo efficiency, and
+
+"Another review of the whole thing as worked out
+
+upon pure science principles by Rowland, Young,
+
+Trowbridge; also Rowland on the possibilities and
+
+probabilities of cheaper production by better
+
+manufacture--higher incandescence without decrease of
+
+life of lamps." Notes are also made on meters and
+
+motors. "It doesn't matter if electricity is used for
+
+light or for power"; while small motors, it is observed,
+
+can be used night or day, and small steam-engines are
+
+inconvenient. Again the shrewd comment: "Generally
+
+poorest district for light, best for power, thus
+
+evening up whole city--the effect of this on investment."
+
+
+
+It is pointed out that "Previous inventions failed--
+
+necessities for commercial success and accomplishment
+
+by Edison. Edison's great effort--not to make
+
+a large light or a blinding light, but a small light
+
+having the mildness of gas." Curves are then called
+
+for of iron and copper investment--also energy
+
+line--curves of candle-power and electromotive force;
+
+curves on motors; graphic representation of the
+
+consumption of gas January to December; tables and
+
+formulae; representations graphically of what one
+
+dollar will buy in different kinds of light; "table,
+
+weight of copper required different distance, 100-ohm
+
+lamp, 16 candles"; table with curves showing increased
+
+economy by larger engine, higher power, etc.
+
+There is not much that is dilettante about all this.
+
+Note is made of an article in April, 1879, putting the
+
+total amount of gas investment in the whole world
+
+at that time at $1,500,000,000; which is now (1910)
+
+about the amount of the electric-lighting investment
+
+in the United States. Incidentally a note remarks:
+
+"So unpleasant is the effect of the products of gas
+
+that in the new Madison Square Theatre every gas
+
+jet is ventilated by special tubes to carry away the
+
+products of combustion." In short, there is no aspect
+
+of the new problem to which Edison failed to apply
+
+his acutest powers; and the speed with which the
+
+new system was worked out and introduced was
+
+simply due to his initial mastery of all the factors in
+
+the older art. Luther Stieringer, an expert gas engineer
+
+and inventor, whose services were early enlisted,
+
+once said that Edison knew more about gas
+
+than any other man he had ever met. The remark
+
+is an evidence of the kind of preparation Edison gave
+
+himself for his new task.
+
+

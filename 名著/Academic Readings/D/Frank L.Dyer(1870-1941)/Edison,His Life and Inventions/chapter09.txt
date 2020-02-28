@@ -1,0 +1,2236 @@
+
+
+
+
+
+
+CHAPTER IX
+
+
+
+THE TELEPHONE, MOTOGRAPH, AND MICROPHONE
+
+
+
+A VERY great invention has its own dramatic history.
+
+Episodes full of human interest attend
+
+its development. The periods of weary struggle, the
+
+daring adventure along unknown paths, the clash of
+
+rival claimants, are closely similar to those which
+
+mark the revelation and subjugation of a new continent.
+
+At the close of the epoch of discovery it is
+
+seen that mankind as a whole has made one more
+
+great advance; but in the earlier stages one watched
+
+chiefly the confused vicissitudes of fortune of the
+
+individual pioneers. The great modern art of telephony
+
+has had thus in its beginnings, its evolution,
+
+and its present status as a universal medium of
+
+intercourse, all the elements of surprise, mystery,
+
+swift creation of wealth, tragic interludes, and colossal
+
+battle that can appeal to the imagination and hold
+
+public attention. And in this new electrical industry,
+
+in laying its essential foundations, Edison has
+
+again been one of the dominant figures.
+
+
+
+As far back as 1837, the American, Page, discovered
+
+the curious fact that an iron bar, when magnetized
+
+and demagnetized at short intervals of time, emitted
+
+sounds due to the molecular disturbances in the
+
+mass. Philipp Reis, a simple professor in Germany,
+
+utilized this principle in the construction of apparatus
+
+for the transmission of sound; but in the grasp of
+
+the idea he was preceded by Charles Bourseul, a
+
+young French soldier in Algeria, who in 1854, under
+
+the title of "Electrical Telephony," in a Parisian
+
+illustrated paper, gave a brief and lucid description as
+
+follows:
+
+
+
+
+
+"We know that sounds are made by vibrations, and
+
+are made sensible to the ear by the same vibrations, which
+
+are reproduced by the intervening medium. But the intensity
+
+of the vibrations diminishes very rapidly with the
+
+distance; so that even with the aid of speaking-tubes and
+
+trumpets it is impossible to exceed somewhat narrow
+
+limits. Suppose a man speaks near a movable disk
+
+sufficiently flexible to lose none of the vibrations of the
+
+voice; that this disk alternately makes and breaks the
+
+connection with a battery; you may have at a distance
+
+another disk which will simultaneously execute the same
+
+vibrations.... Any one who is not deaf and dumb may
+
+use this mode of transmission, which would require no
+
+apparatus except an electric battery, two vibrating disks,
+
+and a wire."
+
+
+
+This would serve admirably for a portrayal of the
+
+Bell telephone, except that it mentions distinctly
+
+the use of the make-and-break method (i. e., where
+
+the circuit is necessarily opened and closed as in
+
+telegraphy, although, of course, at an enormously
+
+higher rate), which has never proved practical.
+
+
+
+So far as is known Bourseul was not practical
+
+enough to try his own suggestion, and never made
+
+a telephone. About 1860, Reis built several forms
+
+of electrical telephonic apparatus, all imitating in
+
+some degree the human ear, with its auditory tube,
+
+tympanum, etc., and examples of the apparatus were
+
+exhibited in public not only in Germany, but in
+
+England. There is a variety of testimony to the
+
+effect that not only musical sounds, but stray words
+
+and phrases, were actually transmitted with mediocre,
+
+casual success. It was impossible, however, to maintain
+
+the devices in adjustment for more than a few
+
+seconds, since the invention depended upon the
+
+make-and-break principle, the circuit being made and
+
+broken every time an impulse-creating sound went
+
+through it, causing the movement of the diaphragm
+
+on which the sound-waves impinged. Reis himself
+
+does not appear to have been sufficiently interested
+
+in the marvellous possibilities of the idea to follow
+
+it up--remarking to the man who bought his telephonic
+
+instruments and tools that he had shown the
+
+world the way. In reality it was not the way, although
+
+a monument erected to his memory at Frankfort
+
+styles him the inventor of the telephone. As
+
+one of the American judges said, in deciding an early
+
+litigation over the invention of the telephone, a hundred
+
+years of Reis would not have given the world
+
+the telephonic art for public use. Many others after
+
+Reis tried to devise practical make-and-break telephones,
+
+and all failed; although their success would
+
+have rendered them very valuable as a means of
+
+fighting the Bell patent. But the method was a good
+
+starting-point, even if it did not indicate the real
+
+path. If Reis had been willing to experiment with
+
+his apparatus so that it did not make-and-break, he
+
+would probably have been the true father of the
+
+telephone, besides giving it the name by which it is
+
+known. It was not necessary to slam the gate open
+
+and shut. All that was required was to keep the
+
+gate closed, and rattle the latch softly. Incidentally
+
+it may be noted that Edison in experimenting with
+
+the Reis transmitter recognized at once the defect
+
+caused by the make-and-break action, and sought
+
+to keep the gap closed by the use, first, of one drop
+
+of water, and later of several drops. But the water
+
+decomposed, and the incurable defect was still there.
+
+
+
+The Reis telephone was brought to America by
+
+Dr. P. H. Van der Weyde, a well-known physicist in
+
+his day, and was exhibited by him before a technical
+
+audience at Cooper Union, New York, in 1868, and
+
+described shortly after in the technical press. The
+
+apparatus attracted attention, and a set was secured
+
+by Prof. Joseph Henry for the Smithsonian Institution.
+
+There the famous philosopher showed and explained
+
+it to Alexander Graham Bell, when that
+
+young and persevering Scotch genius went to get
+
+help and data as to harmonic telegraphy, upon which
+
+he was working, and as to transmitting vocal sounds.
+
+Bell took up immediately and energetically the idea
+
+that his two predecessors had dropped--and reached
+
+the goal. In 1875 Bell, who as a student and teacher
+
+of vocal physiology had unusual qualifications for
+
+determining feasible methods of speech transmission,
+
+constructed his first pair of magneto telephones for
+
+such a purpose. In February of 1876 his first telephone
+
+patent was applied for, and in March it was
+
+issued. The first published account of the modern
+
+speaking telephone was a paper read by Bell before
+
+the American Academy of Arts and Sciences in Bos-
+
+ton in May of that year; while at the Centennial
+
+Exposition at Philadelphia the public first gained
+
+any familiarity with it. It was greeted at once with
+
+scientific acclaim and enthusiasm as a distinctly new
+
+and great invention, although at first it was regarded
+
+more as a scientific toy than as a commercially valuable
+
+device.
+
+
+
+By an extraordinary coincidence, the very day that
+
+Bell's application for a patent went into the United
+
+States Patent Office, a caveat was filed there by
+
+Elisha Gray, of Chicago, covering the specific idea of
+
+transmitting speech and reproducing it in a telegraphic
+
+circuit "through an instrument capable of
+
+vibrating responsively to all the tones of the human
+
+voice, and by which they are rendered audible." Out
+
+of this incident arose a struggle and a controversy
+
+whose echoes are yet heard as to the legal and moral
+
+rights of the two inventors, the assertion even being
+
+made that one of the most important claims of Gray,
+
+that on a liquid battery transmitter, was surreptitiously
+
+"lifted" into the Bell application, then covering
+
+only the magneto telephone. It was also asserted
+
+that the filing of the Gray caveat antedated by a few
+
+hours the filing of the Bell application. All such issues
+
+when brought to the American courts were brushed
+
+aside, the Bell patent being broadly maintained in
+
+all its remarkable breadth and fullness, embracing
+
+an entire art; but Gray was embittered and chagrined,
+
+and to the last expressed his belief that the
+
+honor and glory should have been his. The path of
+
+Gray to the telephone was a natural one. A Quaker
+
+carpenter who studied five years at Oberlin College,
+
+he took up electrical invention, and brought out
+
+many ingenious devices in rapid succession in the
+
+telegraphic field, including the now universal needle
+
+annunciator for hotels, etc., the useful telautograph,
+
+automatic self-adjusting relays, private-line printers
+
+--leading up to his famous "harmonic" system.
+
+This was based upon the principle that a sound
+
+produced in the presence of a reed or tuning-fork
+
+responding to the sound, and acting as the armature of
+
+a magnet in a closed circuit, would, by induction,
+
+set up electric impulses in the circuit and cause a
+
+distant magnet having a similarly tuned armature to
+
+produce the same tone or note. He also found that
+
+over the same wire at the same time another series
+
+of impulses corresponding to another note could be
+
+sent through the agency of a second set of magnets
+
+without in any way interfering with the first series
+
+of impulses. Building the principle into apparatus,
+
+with a keyboard and vibrating "reeds" before his
+
+magnets, Doctor Gray was able not only to transmit
+
+music by his harmonic telegraph, but went so far as
+
+to send nine different telegraph messages at the
+
+same instant, each set of instruments depending on
+
+its selective note, while any intermediate office could
+
+pick up the message for itself by simply tuning its
+
+relays to the keynote required. Theoretically the
+
+system could be split up into any number of notes
+
+and semi-tones. Practically it served as the basis
+
+of some real telegraphic work, but is not now in use.
+
+Any one can realize, however, that it did not take so
+
+acute and ingenious a mind very long to push forward
+
+to the telephone, as a dangerous competitor
+
+with Bell, who had also, like Edison, been working
+
+assiduously in the field of acoustic and multiple telegraphs.
+
+Seen in the retrospect, the struggle for the
+
+goal at this moment was one of the memorable incidents
+
+in electrical history.
+
+
+
+Among the interesting papers filed at the Orange
+
+Laboratory is a lithograph, the size of an ordinary
+
+patent drawing, headed "First Telephone on Record."
+
+The claim thus made goes back to the period
+
+when all was war, and when dispute was hot and rife
+
+as to the actual invention of the telephone. The
+
+device shown, made by Edison in 1875, was actually
+
+included in a caveat filed January 14, 1876, a month
+
+before Bell or Gray. It shows a little solenoid
+
+arrangement, with one end of the plunger attached to
+
+the diaphragm of a speaking or resonating chamber.
+
+Edison states that while the device is crudely capable
+
+of use as a magneto telephone, he did not invent it
+
+for transmitting speech, but as an apparatus for
+
+analyzing the complex waves arising from various
+
+sounds. It was made in pursuance of his investigations
+
+into the subject of harmonic telegraphs. He
+
+did not try the effect of sound-waves produced by
+
+the human voice until Bell came forward a few months
+
+later; but he found then that this device, made in
+
+1875, was capable of use as a telephone. In his testimony
+
+and public utterances Edison has always given
+
+Bell credit for the discovery of the transmission of
+
+articulate speech by talking against a diaphragm
+
+placed in front of an electromagnet; but it is only
+
+proper here to note, in passing, the curious fact that
+
+he had actually produced a device that COULD talk,
+
+prior to 1876, and was therefore very close to Bell,
+
+who took the one great step further. A strong
+
+characterization of the value and importance of the work
+
+done by Edison in the development of the carbon
+
+transmitter will be found in the decision of Judge
+
+Brown in the United States Circuit Court of Appeals,
+
+sitting in Boston, on February 27, 1901, declaring
+
+void the famous Berliner patent of the Bell telephone
+
+system.[5]
+
+
+
+
+
+[5] See Federal Reporter, vol. 109, p. 976 et seq.
+
+
+
+
+
+Bell's patent of 1876 was of an all-embracing character,
+
+which only the make-and-break principle, if
+
+practical, could have escaped. It was pointed out
+
+in the patent that Bell discovered the great principle
+
+that electrical undulations induced by the vibrations
+
+of a current produced by sound-waves can be
+
+represented graphically by the same sinusoidal curve
+
+that expresses the original sound vibrations themselves;
+
+or, in other words, that a curve representing
+
+sound vibrations will correspond precisely to a curve
+
+representing electric impulses produced or generated
+
+by those identical sound vibrations--as, for example,
+
+when the latter impinge upon a diaphragm acting
+
+as an armature of an electromagnet, and which by
+
+movement to and fro sets up the electric impulses by
+
+induction. To speak plainly, the electric impulses
+
+correspond in form and character to the sound vibration
+
+which they represent. This reduced to a patent
+
+"claim" governed the art as firmly as a papal bull
+
+for centuries enabled Spain to hold the Western
+
+world. The language of the claim is: "The method
+
+of and apparatus for transmitting vocal or other
+
+sounds telegraphically as herein described, by causing
+
+electrical undulations similar in form to the vibrations
+
+of the air accompanying the said vocal or other
+
+sounds substantially as set forth." It was a long
+
+time, however, before the inclusive nature of this
+
+grant over every possible telephone was understood
+
+or recognized, and litigation for and against the
+
+patent lasted during its entire life. At the outset,
+
+the commercial value of the telephone was little
+
+appreciated by the public, and Bell had the greatest
+
+difficulty in securing capital; but among far-sighted
+
+inventors there was an immediate "rush to the gold
+
+fields." Bell's first apparatus was poor, the results
+
+being described by himself as "unsatisfactory and
+
+discouraging," which was almost as true of the
+
+devices he exhibited at the Philadelphia Centennial.
+
+The new-comers, like Edison, Berliner, Blake, Hughes,
+
+Gray, Dolbear, and others, brought a wealth of ideas,
+
+a fund of mechanical ingenuity, and an inventive
+
+ability which soon made the telephone one of the
+
+most notable gains of the century, and one of the
+
+most valuable additions to human resources. The
+
+work that Edison did was, as usual, marked by
+
+infinite variety of method as well as by the power to
+
+seize on the one needed element of practical success.
+
+Every one of the six million telephones in use in the
+
+United States, and of the other millions in use through
+
+out the world, bears the imprint of his genius, as at
+
+one time the instruments bore his stamped name.
+
+For years his name was branded on every Bell telephone
+
+set, and his patents were a mainstay of what
+
+has been popularly called the "Bell monopoly."
+
+Speaking of his own efforts in this field, Mr. Edison
+
+says:
+
+
+
+"In 1876 I started again to experiment for the
+
+Western Union and Mr. Orton. This time it was the
+
+telephone. Bell invented the first telephone, which
+
+consisted of the present receiver, used both as a
+
+transmitter and a receiver (the magneto type). It
+
+was attempted to introduce it commercially, but it
+
+failed on account of its faintness and the extraneous
+
+sounds which came in on its wires from various
+
+causes. Mr. Orton wanted me to take hold of it and
+
+make it commercial. As I had also been working on
+
+a telegraph system employing tuning-forks,
+
+simultaneously with both Bell and Gray, I was pretty
+
+familiar with the subject. I started in, and soon
+
+produced the carbon transmitter, which is now
+
+universally used.
+
+
+
+"Tests were made between New York and Philadelphia,
+
+also between New York and Washington,
+
+using regular Western Union wires. The noises were
+
+so great that not a word could be heard with the Bell
+
+receiver when used as a transmitter between New
+
+York and Newark, New Jersey. Mr. Orton and
+
+W. K. Vanderbilt and the board of directors witnessed
+
+and took part in the tests. The Western
+
+Union then put them on private lines. Mr. Theodore
+
+Puskas, of Budapest, Hungary, was the first man
+
+to suggest a telephone exchange, and soon after
+
+exchanges were established. The telephone department
+
+was put in the hands of Hamilton McK. Twombly,
+
+Vanderbilt's ablest son-in-law, who made a success
+
+of it. The Bell company, of Boston, also started an
+
+exchange, and the fight was on, the Western Union
+
+pirating the Bell receiver, and the Boston company
+
+pirating the Western Union transmitter. About this
+
+time I wanted to be taken care of. I threw out hints
+
+of this desire. Then Mr. Orton sent for me. He had
+
+learned that inventors didn't do business by the
+
+regular process, and concluded he would close it
+
+right up. He asked me how much I wanted. I had
+
+made up my mind it was certainly worth $25,000,
+
+if it ever amounted to anything for central-station
+
+work, so that was the sum I had in mind to stick to
+
+and get--obstinately. Still it had been an easy job,
+
+and only required a few months, and I felt a little
+
+shaky and uncertain. So I asked him to make me
+
+an offer. He promptly said he would give me
+
+$100,000. `All right,' I said. `It is yours on one
+
+condition, and that is that you do not pay it all at
+
+once, but pay me at the rate of $6000 per year for
+
+seventeen years'--the life of the patent. He seemed
+
+only too pleased to do this, and it was closed. My
+
+ambition was about four times too large for my
+
+business capacity, and I knew that I would soon
+
+spend this money experimenting if I got it all at
+
+once, so I fixed it that I couldn't. I saved seventeen
+
+years of worry by this stroke."
+
+
+
+Thus modestly is told the debut of Edison in the
+
+telephone art, to which with his carbon transmitter
+
+he gave the valuable principle of varying the resistance
+
+of the transmitting circuit with changes in the
+
+pressure, as well as the vital practice of using the
+
+induction coil as a means of increasing the effective
+
+length of the talking circuit. Without these, modern
+
+telephony would not and could not exist.[6] But Edison,
+
+in telephonic work, as in other directions, was
+
+remarkably fertile and prolific. His first inventions
+
+in the art, made in 1875-76, continue through many
+
+later years, including all kinds of carbon instruments
+
+--the water telephone, electrostatic telephone,
+
+condenser telephone, chemical telephone, various
+
+magneto telephones, inertia telephone, mercury telephone,
+
+voltaic pile telephone, musical transmitter, and
+
+the electromotograph. All were actually made and
+
+tested.
+
+
+
+
+
+[6] Briefly stated, the essential difference between Bell's
+
+telephone and Edison's is this: With the former the sound vibrations
+
+impinge upon a steel diaphragm arranged adjacent to the pole of
+
+a bar electromagnet, whereby the diaphragm acts as an armature,
+
+and by its vibrations induces very weak electric impulses
+
+in the magnetic coil. These impulses, according to Bell's theory,
+
+correspond in form to the sound-waves, and passing over the line
+
+energize the magnet coil at the receiving end, and by varying the
+
+magnetism cause the receiving diaphragm to be similarly vibrated
+
+to reproduce the sounds. A single apparatus is therefore used at
+
+each end, performing the double function of transmitter and receiver.
+
+With Edison's telephone a closed circuit is used on which
+
+is constantly flowing a battery current, and included in that circuit
+
+is a pair of electrodes, one or both of which is of carbon.
+
+These electrodes are always in contact with a certain initial
+
+pressure, so that current will be always flowing over the circuit.
+
+One of the electrodes is connected with the diaphragm on which
+
+the sound-waves impinge, and the vibration of this diaphragm
+
+causes the pressure between the electrodes to be correspondingly
+
+varied, and thereby effects a variation in the current, resulting in
+
+the production of impulses which actuate the receiving magnet.
+
+In other words, with Bell's telephone the sound-waves themselves
+
+generate the electric impulses, which are hence extremely
+
+faint. With the Edison telephone, the sound-waves actuate an
+
+electric valve, so to speak, and permit variations in a current of
+
+any desired strength.
+
+
+
+A second distinction between the two telephones is this: With
+
+the Bell apparatus the very weak electric impulses generated by
+
+the vibration of the transmitting diaphragm pass over the entire
+
+line to the receiving end, and in consequence the permissible
+
+length of line is limited to a few miles under ideal conditions.
+
+With Edison's telephone the battery current does not flow on
+
+the main line, but passes through the primary circuit of an
+
+induction coil, by which corresponding impulses of enormously
+
+higher potential are sent out on the main line to the receiving
+
+end. In consequence, the line may be hundreds of miles in
+
+length. No modern telephone system in use to-day lacks these
+
+characteristic features--the varying resistance and the induction
+
+coil.
+
+
+
+
+
+The principle of the electromotograph was utilized
+
+by Edison in more ways than one, first of all in telegraphy
+
+at this juncture. The well-known Page patent,
+
+which had lingered in the Patent Office for years, had
+
+just been issued, and was considered a formidable
+
+weapon. It related to the use of a retractile spring
+
+to withdraw the armature lever from the magnet of
+
+a telegraph or other relay or sounder, and thus controlled
+
+the art of telegraphy, except in simple circuits.
+
+"There was no known way," remarks Edison,
+
+"whereby this patent could be evaded, and its
+
+possessor would eventually control the use of what
+
+is known as the relay and sounder, and this was vital
+
+to telegraphy. Gould was pounding the Western
+
+Union on the Stock Exchange, disturbing its railroad
+
+contracts, and, being advised by his lawyers that
+
+this patent was of great value, bought it. The moment
+
+Mr. Orton heard this he sent for me and explained
+
+the situation, and wanted me to go to work
+
+immediately and see if I couldn't evade it or discover
+
+some other means that could be used in case Gould
+
+sustained the patent. It seemed a pretty hard job,
+
+because there was no known means of moving a
+
+lever at the other end of a telegraph wire except by
+
+the use of a magnet. I said I would go at it that
+
+night. In experimenting some years previously, I
+
+had discovered a very peculiar phenomenon, and that
+
+was that if a piece of metal connected to a battery
+
+was rubbed over a moistened piece of chalk resting
+
+on a metal connected to the other pole, when the
+
+current passed the friction was greatly diminished.
+
+When the current was reversed the friction was greatly
+
+increased over what it was when no current was
+
+passing. Remembering this, I substituted a piece of
+
+chalk rotated by a small electric motor for the magnet,
+
+and connecting a sounder to a metallic finger
+
+resting on the chalk, the combination claim of Page
+
+was made worthless. A hitherto unknown means was
+
+introduced in the electric art. Two or three of the
+
+devices were made and tested by the company's expert.
+
+Mr. Orton, after he had me sign the patent
+
+application and got it in the Patent Office, wanted
+
+to settle for it at once. He asked my price. Again
+
+I said: `Make me an offer.' Again he named $100,000.
+
+I accepted, providing he would pay it at the
+
+rate of $6000 a year for seventeen years. This was
+
+done, and thus, with the telephone money, I received
+
+$12,000 yearly for that period from the Western
+
+Union Telegraph Company."
+
+
+
+A year or two later the motograph cropped up again
+
+in Edison's work in a curious manner. The telephone
+
+was being developed in England, and Edison had
+
+made arrangements with Colonel Gouraud, his old
+
+associate in the automatic telegraph, to represent his
+
+interests. A company was formed, a large number
+
+of instruments were made and sent to Gouraud in
+
+London, and prospects were bright. Then there came
+
+a threat of litigation from the owners of the Bell
+
+patent, and Gouraud found he could not push the
+
+enterprise unless he could avoid using what was asserted
+
+to be an infringement of the Bell receiver.
+
+He cabled for help to Edison, who sent back word
+
+telling him to hold the fort. "I had recourse again,"
+
+says Edison, "to the phenomenon discovered by me
+
+years previous, that the friction of a rubbing electrode
+
+passing over a moist chalk surface was varied by
+
+electricity. I devised a telephone receiver which
+
+was afterward known as the `loud-speaking telephone,'
+
+or `chalk receiver.' There was no magnet,
+
+simply a diaphragm and a cylinder of compressed
+
+chalk about the size of a thimble. A thin spring
+
+connected to the centre of the diaphragm extended
+
+outwardly and rested on the chalk cylinder, and was
+
+pressed against it with a pressure equal to that which
+
+would be due to a weight of about six pounds. The
+
+chalk was rotated by hand. The volume of sound
+
+was very great. A person talking into the carbon
+
+transmitter in New York had his voice so amplified
+
+that he could be heard one thousand feet away in
+
+an open field at Menlo Park. This great excess of
+
+power was due to the fact that the latter came from
+
+the person turning the handle. The voice, instead
+
+of furnishing all the power as with the present receiver,
+
+merely controlled the power, just as an engineer
+
+working a valve would control a powerful
+
+engine.
+
+
+
+"I made six of these receivers and sent them in
+
+charge of an expert on the first steamer. They were
+
+welcomed and tested, and shortly afterward I shipped
+
+a hundred more. At the same time I was ordered to
+
+send twenty young men, after teaching them to become
+
+expert. I set up an exchange, around the
+
+laboratory, of ten instruments. I would then go out
+
+and get each one out of order in every conceivable
+
+way, cutting the wires of one, short-circuiting another,
+
+destroying the adjustment of a third, putting
+
+dirt between the electrodes of a fourth, and so on.
+
+A man would be sent to each to find out the trouble.
+
+When he could find the trouble ten consecutive
+
+times, using five minutes each, he was sent to London.
+
+About sixty men were sifted to get twenty.
+
+Before all had arrived, the Bell company there, seeing
+
+we could not be stopped, entered into negotiations
+
+for consolidation. One day I received a cable from
+
+Gouraud offering `30,000' for my interest. I cabled
+
+back I would accept. When the draft came I was
+
+astonished to find it was for L30,000. I had thought
+
+it was dollars."
+
+
+
+In regard to this singular and happy conclusion,
+
+Edison makes some interesting comments as to the
+
+attitude of the courts toward inventors, and the
+
+difference between American and English courts. "The
+
+men I sent over were used to establish telephone
+
+exchanges all over the Continent, and some of them
+
+became wealthy. It was among this crowd in London
+
+that Bernard Shaw was employed before he became
+
+famous. The chalk telephone was finally discarded
+
+in favor of the Bell receiver--the latter being
+
+more simple and cheaper. Extensive litigation with
+
+new-comers followed. My carbon-transmitter patent
+
+was sustained, and preserved the monopoly of the
+
+telephone in England for many years. Bell's patent
+
+was not sustained by the courts. Sir Richard Webster,
+
+now Chief-Justice of England, was my counsel,
+
+and sustained all of my patents in England for many
+
+years. Webster has a marvellous capacity for understanding
+
+things scientific; and his address before the
+
+courts was lucidity itself. His brain is highly organized.
+
+My experience with the legal fraternity is
+
+that scientific subjects are distasteful to them, and
+
+it is rare in this country, on account of the system of
+
+trying patent suits, for a judge really to reach the
+
+meat of the controversy, and inventors scarcely ever
+
+get a decision squarely and entirely in their favor.
+
+The fault rests, in my judgment, almost wholly with
+
+the system under which testimony to the extent of
+
+thousands of pages bearing on all conceivable subjects,
+
+many of them having no possible connection
+
+with the invention in dispute, is presented to an over-
+
+worked judge in an hour or two of argument supported
+
+by several hundred pages of briefs; and the
+
+judge is supposed to extract some essence of justice
+
+from this mass of conflicting, blind, and misleading
+
+statements. It is a human impossibility, no matter
+
+how able and fair-minded the judge may be. In
+
+England the case is different. There the judges are
+
+face to face with the experts and other witnesses.
+
+They get the testimony first-hand and only so much as
+
+they need, and there are no long-winded briefs and
+
+arguments, and the case is decided then and there,
+
+a few months perhaps after suit is brought, instead of
+
+many years afterward, as in this country. And in
+
+England, when a case is once finally decided it is
+
+settled for the whole country, while here it is not so.
+
+Here a patent having once been sustained, say, in
+
+Boston, may have to be litigated all over again in
+
+New York, and again in Philadelphia, and so on for
+
+all the Federal circuits. Furthermore, it seems to
+
+me that scientific disputes should be decided by some
+
+court containing at least one or two scientific men--
+
+men capable of comprehending the significance of
+
+an invention and the difficulties of its accomplishment
+
+--if justice is ever to be given to an inventor.
+
+And I think, also, that this court should have the
+
+power to summon before it and examine any recognized
+
+expert in the special art, who might be able to
+
+testify to FACTS for or against the patent, instead of
+
+trying to gather the truth from the tedious essays
+
+of hired experts, whose depositions are really nothing
+
+but sworn arguments. The real gist of patent suits
+
+is generally very simple, and I have no doubt that
+
+any judge of fair intelligence, assisted by one or more
+
+scientific advisers, could in a couple of days at the
+
+most examine all the necessary witnesses; hear all
+
+the necessary arguments, and actually decide an ordinary
+
+patent suit in a way that would more nearly
+
+be just, than can now be done at an expenditure of
+
+a hundred times as much money and months and
+
+years of preparation. And I have no doubt that
+
+the time taken by the court would be enormously
+
+less, because if a judge attempts to read the bulky
+
+records and briefs, that work alone would require
+
+several days.
+
+
+
+"Acting as judges, inventors would not be very apt
+
+to correctly decide a complicated law point; and on
+
+the other hand, it is hard to see how a lawyer can
+
+decide a complicated scientific point rightly. Some
+
+inventors complain of our Patent Office, but my own
+
+experience with the Patent Office is that the examiners
+
+are fair-minded and intelligent, and when they
+
+refuse a patent they are generally right; but I think
+
+the whole trouble lies with the system in vogue in the
+
+Federal courts for trying patent suits, and in the fact,
+
+which cannot be disputed, that the Federal judges,
+
+with but few exceptions, do not comprehend complicated
+
+scientific questions. To secure uniformity
+
+in the several Federal circuits and correct errors, it
+
+has been proposed to establish a central court of
+
+patent appeals in Washington. This I believe in;
+
+but this court should also contain at least two scientific
+
+men, who would not be blind to the sophistry of
+
+paid experts.[7] Men whose inventions would have
+
+created wealth of millions have been ruined and
+
+prevented from making any money whereby they could
+
+continue their careers as creators of wealth for the
+
+general good, just because the experts befuddled the
+
+judge by their misleading statements."
+
+
+
+
+
+[7] As an illustration of the perplexing nature of expert evidence in
+
+patent cases, the reader will probably be interested in perusing
+
+the following extracts from the opinion of Judge Dayton, in the
+
+suit of Bryce Bros. Co. vs. Seneca Glass Co., tried in the United
+
+States Circuit Court, Northern District of West Virginia, reported
+
+in The Federal Reporter, 140, page 161:
+
+
+
+"On this subject of the validity of this patent, a vast amount
+
+of conflicting, technical, perplexing, and almost hypercritical
+
+discussion and opinion has been indulged, both in the testimony and
+
+in the able and exhaustive arguments and briefs of counsel.
+
+Expert Osborn for defendant, after setting forth minutely his
+
+superior qualifications mechanical education, and great experience,
+
+takes up in detail the patent claims, and shows to his own
+
+entire satisfaction that none of them are new; that all of them
+
+have been applied, under one form or another, in some twenty-
+
+two previous patents, and in two other machines, not patented,
+
+to-wit, the Central Glass and Kuny Kahbel ones; that the whole
+
+machine is only `an aggregation of well-known mechanical elements
+
+that any skilled designer would bring to his use in the
+
+construction of such a machine.' This certainly, under ordinary
+
+conditions, would settle the matter beyond peradventure; for
+
+this witness is a very wise and learned man in these things, and
+
+very positive. But expert Clarke appears for the plaintiff, and
+
+after setting forth just as minutely his superior qualifications,
+
+mechanical education, and great experience, which appear fully
+
+equal in all respects to those of expert Osborn, proceeds to take
+
+up in detail the patent claims, and shows to his entire satisfaction
+
+that all, with possibly one exception, are new, show inventive
+
+genius, and distinct advances upon the prior art. In the most
+
+lucid, and even fascinating, way he discusses all the parts of this
+
+machine, compares it with the others, draws distinctions, points
+
+out the merits of the one in controversy and the defects of all
+
+the others, considers the twenty-odd patents referred to by
+
+Osborn, and in the politest, but neatest, manner imaginable shows
+
+that expert Osborn did not know what he was talking about, and
+
+sums the whole matter up by declaring this `invention of Mr.
+
+Schrader's, as embodied in the patent in suit, a radical and wide
+
+departure, from the Kahbel machine' (admitted on all sides to be
+
+nearest prior approach to it), `a distinct and important advance
+
+in the art of engraving glassware, and generally a machine for
+
+this purpose which has involved the exercise of the inventive
+
+faculty in the highest degree.'
+
+
+
+"Thus a more radical and irreconcilable disagreement between
+
+experts touching the same thing could hardly be found. So it is
+
+with the testimony. If we take that for the defendant, the Central
+
+Glass Company machine, and especially the Kuny Kahbel
+
+machine, built and operated years before this patent issued, and
+
+not patented, are just as good, just as effective and practical, as
+
+this one, and capable of turning out just as perfect work and as
+
+great a variety of it. On the other hand, if we take that produced
+
+by the plaintiff, we are driven to the conclusion that these
+
+prior machines, the product of the same mind, were only progressive
+
+steps forward from utter darkness, so to speak, into full
+
+inventive sunlight, which made clear to him the solution of the
+
+problem in this patented machine. The shortcomings of the
+
+earlier machines are minutely set forth, and the witnesses for the
+
+plaintiff are clear that they are neither practical nor profitable.
+
+
+
+"But this is not all of the trouble that confronts us in this
+
+case. Counsel of both sides, with an indomitable courage that
+
+must command admiration, a courage that has led them to a vast
+
+amount of study, investigation, and thought, that in fact has
+
+made them all experts, have dissected this record of 356 closely
+
+printed pages, applied all mechanical principles and laws to the
+
+facts as they see them, and, besides, have ransacked the law-
+
+books and cited an enormous number of cases, more or less in
+
+point, as illustration of their respective contentions. The courts
+
+find nothing more difficult than to apply an abstract principle to
+
+all classes of cases that may arise. The facts in each case so
+
+frequently create an exception to the general rule that such rule
+
+must be honored rather in its breach than in its observance.
+
+Therefore, after a careful examination of these cases, it is no
+
+criticism of the courts to say that both sides have found abundant
+
+and about an equal amount of authority to sustain their
+
+respective contentions, and, as a result, counsel have submitted,
+
+in briefs, a sum total of 225 closely printed pages, in which they
+
+have clearly, yet, almost to a mathematical certainty, demonstrated
+
+on the one side that this Schrader machine is new and
+
+patentable, and on the other that it is old and not so. Under
+
+these circumstances, it would be unnecessary labor and a fruitless
+
+task for me to enter into any further technical discussion of the
+
+mechanical problems involved, for the purpose of seeking to convince
+
+either side of its error. In cases of such perplexity as this
+
+generally some incidents appear that speak more unerringly than
+
+do the tongues of the witnesses, and to some of these I purpose
+
+to now refer."
+
+
+
+
+
+
+
+Mr. Bernard Shaw, the distinguished English author,
+
+has given a most vivid and amusing picture of this
+
+introduction of Edison's telephone into England, describing
+
+the apparatus as "a much too ingenious invention,
+
+being nothing less than a telephone of such
+
+stentorian efficiency that it bellowed your most private
+
+communications all over the house, instead of
+
+whispering them with some sort of discretion." Shaw,
+
+as a young man, was employed by the Edison Telephone
+
+Company, and was very much alive to his
+
+surroundings, often assisting in public demonstra-
+
+tions of the apparatus "in a manner which I am
+
+persuaded laid the foundation of Mr. Edison's
+
+reputation." The sketch of the men sent over from
+
+America is graphic: "Whilst the Edison Telephone
+
+Company lasted it crowded the basement of a high
+
+pile of offices in Queen Victoria Street with American
+
+artificers. These deluded and romantic men gave
+
+me a glimpse of the skilled proletariat of the United
+
+States. They sang obsolete sentimental songs with
+
+genuine emotion; and their language was frightful
+
+even to an Irishman. They worked with a ferocious
+
+energy which was out of all proportion to the actual
+
+result achieved. Indomitably resolved to assert their
+
+republican manhood by taking no orders from a tall-
+
+hatted Englishman whose stiff politeness covered
+
+his conviction that they were relatively to himself
+
+inferior and common persons, they insisted on being
+
+slave-driven with genuine American oaths by a
+
+genuine free and equal American foreman. They
+
+utterly despised the artfully slow British workman,
+
+who did as little for his wages as he possibly could;
+
+never hurried himself; and had a deep reverence for
+
+one whose pocket could be tapped by respectful
+
+behavior. Need I add that they were contemptuously
+
+wondered at by this same British workman as
+
+a parcel of outlandish adult boys who sweated themselves
+
+for their employer's benefit instead of looking
+
+after their own interest? They adored Mr. Edison as
+
+the greatest man of all time in every possible department
+
+of science, art, and philosophy, and execrated
+
+Mr. Graham Bell, the inventor of the rival telephone,
+
+as his Satanic adversary; but each of them had (or
+
+intended to have) on the brink of completion an improvement
+
+on the telephone, usually a new transmitter.
+
+They were free-souled creatures, excellent
+
+company, sensitive, cheerful, and profane; liars,
+
+braggarts, and hustlers, with an air of making slow
+
+old England hum, which never left them even when,
+
+as often happened, they were wrestling with difficulties
+
+of their own making, or struggling in no-
+
+thoroughfares, from which they had to be retrieved
+
+like stray sheep by Englishmen without imagination
+
+enough to go wrong."
+
+
+
+Mr. Samuel Insull, who afterward became private
+
+secretary to Mr. Edison, and a leader in the development
+
+of American electrical manufacturing and the
+
+central-station art, was also in close touch with the
+
+London situation thus depicted, being at the time
+
+private secretary to Colonel Gouraud, and acting for
+
+the first half hour as the amateur telephone operator
+
+in the first experimental exchange erected in Europe.
+
+He took notes of an early meeting where the affairs of
+
+the company were discussed by leading men like Sir
+
+John Lubbock (Lord Avebury) and the Right Hon.
+
+E. P. Bouverie (then a cabinet minister), none of
+
+whom could see in the telephone much more than an
+
+auxiliary for getting out promptly in the next morning's
+
+papers the midnight debates in Parliament. "I
+
+remember another incident," says Mr. Insull. "It
+
+was at some celebration of one of the Royal Societies
+
+at the Burlington House, Piccadilly. We had a telephone
+
+line running across the roofs to the basement
+
+of the building. I think it was to Tyndall's laboratory
+
+in Burlington Street. As the ladies and gentle-
+
+men came through, they naturally wanted to look
+
+at the great curiosity, the loud-speaking telephone: in
+
+fact, any telephone was a curiosity then. Mr. and
+
+Mrs. Gladstone came through. I was handling the
+
+telephone at the Burlington House end. Mrs. Gladstone
+
+asked the man over the telephone whether he
+
+knew if a man or woman was speaking; and the
+
+reply came in quite loud tones that it was a
+
+man!"
+
+
+
+With Mr. E. H. Johnson, who represented Edison,
+
+there went to England for the furtherance of this
+
+telephone enterprise, Mr. Charles Edison, a nephew of
+
+the inventor. He died in Paris, October, 1879, not
+
+twenty years of age. Stimulated by the example of
+
+his uncle, this brilliant youth had already made a
+
+mark for himself as a student and inventor, and when
+
+only eighteen he secured in open competition the contract
+
+to install a complete fire-alarm telegraph system
+
+for Port Huron. A few months later he was eagerly
+
+welcomed by his uncle at Menlo Park, and after working
+
+on the telephone was sent to London to aid in its
+
+introduction. There he made the acquaintance of
+
+Professor Tyndall, exhibited the telephone to the
+
+late King of England; and also won the friendship
+
+of the late King of the Belgians, with whom he took
+
+up the project of establishing telephonic communication
+
+between Belgium and England. At the time
+
+of his premature death he was engaged in installing
+
+the Edison quadruplex between Brussels and Paris,
+
+being one of the very few persons then in Europe
+
+familiar with the working of that invention.
+
+
+
+Meantime, the telephonic art in America was
+
+undergoing very rapid development. In March,
+
+1878, addressing "the capitalists of the Electric
+
+Telephone Company" on the future of his invention,
+
+Bell outlined with prophetic foresight and remarkable
+
+clearness the coming of the modern telephone
+
+exchange. Comparing with gas and water distribution,
+
+he said: "In a similar manner, it is conceivable
+
+that cables of telephone wires could be laid underground
+
+or suspended overhead communicating by
+
+branch wires with private dwellings, country houses,
+
+shops, manufactories, etc., uniting them through the
+
+main cable with a central office, where the wire could
+
+be connected as desired, establishing direct
+
+communication between any two places in the city....
+
+Not only so, but I believe, in the future, wires will
+
+unite the head offices of telephone companies in different
+
+cities; and a man in one part of the country
+
+may communicate by word of mouth with another
+
+in a distant place."
+
+
+
+All of which has come to pass. Professor Bell also
+
+suggested how this could be done by "the employ of
+
+a man in each central office for the purpose of connecting
+
+the wires as directed." He also indicated the
+
+two methods of telephonic tariff--a fixed rental and
+
+a toll; and mentioned the practice, now in use on
+
+long-distance lines, of a time charge. As a matter
+
+of fact, this "centralizing" was attempted in May,
+
+1877, in Boston, with the circuits of the Holmes
+
+burglar-alarm system, four banking-houses being thus
+
+interconnected; while in January of 1878 the Bell
+
+telephone central-office system at New Haven, Connecticut,
+
+was opened for business, "the first fully
+
+equipped commercial telephone exchange ever established
+
+for public or general service."
+
+
+
+All through this formative period Bell had adhered
+
+to and introduced the magneto form of telephone,
+
+now used only as a receiver, and very poorly adapted
+
+for the vital function of a speech-transmitter. From
+
+August, 1877, the Western Union Telegraph Company
+
+worked along the other line, and in 1878,
+
+with its allied Gold & Stock Telegraph Company, it
+
+brought into existence the American Speaking Telephone
+
+Company to introduce the Edison apparatus,
+
+and to create telephone exchanges all over the country.
+
+In this warfare, the possession of a good battery
+
+transmitter counted very heavily in favor of the
+
+Western Union, for upon that the real expansion of
+
+the whole industry depended; but in a few months
+
+the Bell system had its battery transmitter, too,
+
+tending to equalize matters. Late in the same year
+
+patent litigation was begun which brought out clearly
+
+the merits of Bell, through his patent, as the original
+
+and first inventor of the electric speaking telephone;
+
+and the Western Union Telegraph Company made
+
+terms with its rival. A famous contract bearing
+
+date of November 10, 1879, showed that under the
+
+Edison and other controlling patents the Western
+
+Union Company had already set going some eighty-
+
+five exchanges, and was making large quantities of
+
+telephonic apparatus. In return for its voluntary
+
+retirement from the telephonic field, the Western
+
+Union Telegraph Company, under this contract, received
+
+a royalty of 20 per cent. of all the telephone
+
+earnings of the Bell system while the Bell patents
+
+ran; and thus came to enjoy an annual income of
+
+several hundred thousand dollars for some years, based
+
+chiefly on its modest investment in Edison's work.
+
+It was also paid several thousand dollars in cash for
+
+the Edison, Phelps, Gray, and other apparatus on
+
+hand. It secured further 40 per cent. of the stock
+
+of the local telephone systems of New York and
+
+Chicago; and last, but by no means least, it exacted
+
+from the Bell interests an agreement to stay out of
+
+the telegraph field.
+
+
+
+By March, 1881, there were in the United States
+
+only nine cities of more than ten thousand inhabitants,
+
+and only one of more than fifteen thousand,
+
+without a telephone exchange. The industry thrived
+
+under competition, and the absence of it now had a
+
+decided effect in checking growth; for when the
+
+Bell patent expired in 1893, the total of telephone sets
+
+in operation in the United States was only 291,253.
+
+To quote from an official Bell statement:
+
+
+
+
+
+"The brief but vigorous Western Union competition
+
+was a kind of blessing in disguise. The very fact that
+
+two distinct interests were actively engaged in the work
+
+of organizing and establishing competing telephone
+
+exchanges all over the country, greatly facilitated the
+
+spread of the idea and the growth of the business, and
+
+familiarized the people with the use of the telephone as a
+
+business agency; while the keenness of the competition,
+
+extending to the agents and employees of both companies,
+
+brought about a swift but quite unforeseen and unlooked-
+
+for expansion in the individual exchanges of the larger
+
+cities, and a corresponding advance in their importance,
+
+value, and usefulness."
+
+
+
+The truth of this was immediately shown in 1894,
+
+after the Bell patents had expired, by the tremendous
+
+outburst of new competitive activity, in "independent"
+
+country systems and toll lines through
+
+sparsely settled districts--work for which the Edison
+
+apparatus and methods were peculiarly adapted, yet
+
+against which the influence of the Edison patent
+
+was invoked. The data secured by the United States
+
+Census Office in 1902 showed that the whole industry
+
+had made gigantic leaps in eight years, and had
+
+2,371,044 telephone stations in service, of which
+
+1,053,866 were wholly or nominally independent of
+
+the Bell. By 1907 an even more notable increase
+
+was shown, and the Census figures for that year
+
+included no fewer than 6,118,578 stations, of which
+
+1,986,575 were "independent." These six million
+
+instruments every single set employing the principle
+
+of the carbon transmitter--were grouped into 15,527
+
+public exchanges, in the very manner predicted by
+
+Bell thirty years before, and they gave service in the
+
+shape of over eleven billions of talks. The outstanding
+
+capitalized value of the plant was $814,616,004,
+
+the income for the year was nearly $185,000,000, and
+
+the people employed were 140,000. If Edison had
+
+done nothing else, his share in the creation of such
+
+an industry would have entitled him to a high place
+
+among inventors.
+
+
+
+This chapter is of necessity brief in its reference to
+
+many extremely interesting points and details; and
+
+to some readers it may seem incomplete in its references
+
+to the work of other men than Edison, whose
+
+influence on telephony as an art has also been con-
+
+siderable. In reply to this pertinent criticism, it
+
+may be pointed out that this is a life of Edison, and
+
+not of any one else; and that even the discussion of
+
+his achievements alone in these various fields
+
+requires more space than the authors have at their
+
+disposal. The attempt has been made, however, to
+
+indicate the course of events and deal fairly with the
+
+facts. The controversy that once waged with great
+
+excitement over the invention of the microphone,
+
+but has long since died away, is suggestive of the
+
+difficulties involved in trying to do justice to everybody.
+
+A standard history describes the microphone
+
+thus:
+
+
+
+
+
+"A form of apparatus produced during the early days
+
+of the telephone by Professor Hughes, of England, for
+
+the purpose of rendering faint, indistinct sounds distinctly
+
+audible, depended for its operation on the changes that
+
+result in the resistance of loose contacts. This apparatus
+
+was called the microphone, and was in reality but one of
+
+the many forms that it is possible to give to the telephone
+
+transmitter. For example, the Edison granular transmitter
+
+was a variety of microphone, as was also Edison's
+
+transmitter, in which the solid button of carbon was employed.
+
+Indeed, even the platinum point, which in the
+
+early form of the Reis transmitter pressed against the
+
+platinum contact cemented to the centre of the diaphragm,
+
+was a microphone."
+
+
+
+At a time when most people were amazed at the idea
+
+of hearing, with the aid of a "microphone," a fly walk
+
+at a distance of many miles, the priority of invention
+
+of such a device was hotly disputed. Yet without
+
+desiring to take anything from the credit of the
+
+brilliant American, Hughes, whose telegraphic apparatus
+
+is still in use all over Europe, it may be
+
+pointed out that this passage gives Edison the attribution
+
+of at least two original forms of which those
+
+suggested by Hughes were mere variations and modifications.
+
+With regard to this matter, Mr. Edison
+
+himself remarks: "After I sent one of my men over
+
+to London especially, to show Preece the carbon
+
+transmitter, and where Hughes first saw it, and
+
+heard it--then within a month he came out with the
+
+microphone, without any acknowledgment whatever.
+
+Published dates will show that Hughes came along
+
+after me."
+
+
+
+There have been other ways also in which Edison
+
+has utilized the peculiar property that carbon possesses
+
+of altering its resistance to the passage of current,
+
+according to the pressure to which it is subjected,
+
+whether at the surface, or through closer union
+
+of the mass. A loose road with a few inches of dust
+
+or pebbles on it offers appreciable resistance to the
+
+wheels of vehicles travelling over it; but if the surface
+
+is kept hard and smooth the effect is quite different.
+
+In the same way carbon, whether solid or
+
+in the shape of finely divided powder, offers a high
+
+resistance to the passage of electricity; but if the
+
+carbon is squeezed together the conditions change,
+
+with less resistance to electricity in the circuit.
+
+For his quadruplex system, Mr. Edison utilized this
+
+fact in the construction of a rheostat or resistance
+
+box. It consists of a series of silk disks saturated
+
+with a sizing of plumbago and well dried. The disks
+
+are compressed by means of an adjustable screw; and
+
+in this manner the resistance of a circuit can be varied
+
+over a wide range.
+
+
+
+In like manner Edison developed a "pressure" or
+
+carbon relay, adapted to the transference of signals
+
+of variable strength from one circuit to another. An
+
+ordinary relay consists of an electromagnet inserted
+
+in the main line for telegraphing, which brings a local
+
+battery and sounder circuit into play, reproducing
+
+in the local circuit the signals sent over the main line.
+
+The relay is adjusted to the weaker currents likely to
+
+be received, but the signals reproduced on the sounder
+
+by the agency of the relay are, of course, all of equal
+
+strength, as they depend upon the local battery,
+
+which has only this steady work to perform. In
+
+cases where it is desirable to reproduce the signals in
+
+the local circuit with the same variations in strength
+
+as they are received by the relay, the Edison carbon
+
+pressure relay does the work. The poles of the
+
+electromagnet in the local circuit are hollowed out
+
+and filled up with carbon disks or powdered plumbago.
+
+The armature and the carbon-tipped poles of
+
+the electromagnet form part of the local circuit; and
+
+if the relay is actuated by a weak current the armature
+
+will be attracted but feebly. The carbon being only
+
+slightly compressed will offer considerable resistance
+
+to the flow of current from the local battery, and
+
+therefore the signal on the local sounder will be weak.
+
+If, on the contrary, the incoming current on the main
+
+line be strong, the armature will be strongly attracted,
+
+the carbon will be sharply compressed, the resistance
+
+in the local circuit will be proportionately lowered,
+
+and the signal heard on the local sounder will be a
+
+loud one. Thus it will be seen, by another clever
+
+juggle with the willing agent, carbon, for which he
+
+has found so many duties, Edison is able to transfer
+
+or transmit exactly, to the local circuit, the main-line
+
+current in all its minutest variations.
+
+
+
+In his researches to determine the nature of the
+
+motograph phenomena, and to open up other sources
+
+of electrical current generation, Edison has worked
+
+out a very ingenious and somewhat perplexing piece
+
+of apparatus known as the "chalk battery." It consists
+
+of a series of chalk cylinders mounted on a shaft
+
+revolved by hand. Resting against each of these
+
+cylinders is a palladium-faced spring, and similar
+
+springs make contact with the shaft between each
+
+cylinder. By connecting all these springs in circuit
+
+with a galvanometer and revolving the shaft rapidly,
+
+a notable deflection is obtained of the galvanometer
+
+needle, indicating the production of electrical energy.
+
+The reason for this does not appear to have been
+
+determined.
+
+
+
+Last but not least, in this beautiful and ingenious
+
+series, comes the "tasimeter," an instrument of most
+
+delicate sensibility in the presence of heat. The
+
+name is derived from the Greek, the use of the apparatus
+
+being primarily to measure extremely minute
+
+differences of pressure. A strip of hard rubber with
+
+pointed ends rests perpendicularly on a platinum
+
+plate, beneath which is a carbon button, under which
+
+again lies another platinum plate. The two plates
+
+and the carbon button form part of an electric circuit
+
+containing a battery and a galvanometer. The
+
+hard-rubber strip is exceedingly sensitive to heat.
+
+The slightest degree of heat imparted to it causes it
+
+to expand invisibly, thus increasing the pressure contact
+
+on the carbon button and producing a variation
+
+in the resistance of the circuit, registered immediately
+
+by the little swinging needle of the galvanometer.
+
+The instrument is so sensitive that with a delicate
+
+galvanometer it will show the impingement of the
+
+heat from a person's hand thirty feet away. The
+
+suggestion to employ such an apparatus in astronomical
+
+observations occurs at once, and it may be
+
+noted that in one instance the heat of rays of light
+
+from the remote star Arcturus gave results.
+

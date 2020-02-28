@@ -1,0 +1,1622 @@
+
+
+
+
+
+CHAPTER VII
+
+
+
+THE STOCK TICKER
+
+
+
+
+
+"THE letters and figures used in the language of
+
+the tape," said a well-known Boston stock
+
+speculator, "are very few, but they spell ruin in
+
+ninety-nine million ways." It is not to be inferred,
+
+however, that the modern stock ticker has anything
+
+to do with the making or losing of fortunes. There
+
+were regular daily stock-market reports in London
+
+newspapers in 1825, and New York soon followed the
+
+example. As far back as 1692, Houghton issued in
+
+London a weekly review of financial and commercial
+
+transactions, upon which Macaulay based the lively
+
+narrative of stock speculation in the seventeenth
+
+century, given in his famous history. That which
+
+the ubiquitous stock ticker has done is to give
+
+instantaneity to the news of what the stock market is
+
+doing, so that at every minute, thousands of miles
+
+apart, brokers, investors, and gamblers may learn
+
+the exact conditions. The existence of such facilities
+
+is to be admired rather than deplored. News is vital
+
+to Wall Street, and there is no living man on whom
+
+the doings in Wall Street are without effect. The
+
+financial history of the United States and of the world,
+
+as shown by the prices of government bonds and
+
+general securities, has been told daily for forty years
+
+on these narrow strips of paper tape, of which thousands
+
+of miles are run yearly through the "tickers"
+
+of New York alone. It is true that the record of the
+
+chattering little machine, made in cabalistic abbreviations
+
+on the tape, can drive a man suddenly to the
+
+very verge of insanity with joy or despair; but if
+
+there be blame for that, it attaches to the American
+
+spirit of speculation and not to the ingenious mechanism
+
+which reads and registers the beating of the
+
+financial pulse.
+
+
+
+Edison came first to New York in 1868, with his
+
+early stock printer, which he tried unsuccessfully to
+
+sell. He went back to Boston, and quite undismayed
+
+got up a duplex telegraph. "Toward the end
+
+of my stay in Boston," he says, "I obtained a loan
+
+of money, amounting to $800, to build a peculiar
+
+kind of duplex telegraph for sending two messages
+
+over a single wire simultaneously. The apparatus
+
+was built, and I left the Western Union employ and
+
+went to Rochester, New York, to test the apparatus
+
+on the lines of the Atlantic & Pacific Telegraph between
+
+that city and New York. But the assistant at
+
+the other end could not be made to understand anything,
+
+notwithstanding I had written out a very
+
+minute description of just what to do. After trying
+
+for a week I gave it up and returned to New York
+
+with but a few cents in my pocket." Thus he who
+
+has never speculated in a stock in his life was destined
+
+to make the beginnings of his own fortune by providing
+
+for others the apparatus that should bring to the
+
+eye, all over a great city, the momentary fluctuations
+
+of stocks and bonds. No one could have been in
+
+direr poverty than he when the steamboat landed
+
+him in New York in 1869. He was in debt, and his
+
+few belongings in books and instruments had to be
+
+left behind. He was not far from starving. Mr.
+
+W. S. Mallory, an associate of many years, quotes
+
+directly from him on this point: "Some years ago
+
+we had a business negotiation in New York which
+
+made it necessary for Mr. Edison and me to visit the
+
+city five or six times within a comparatively short
+
+period. It was our custom to leave Orange about
+
+11 A.M., and on arrival in New York to get our lunch
+
+before keeping the appointments, which were usually
+
+made for two o'clock. Several of these lunches were
+
+had at Delmonico's, Sherry's, and other places of
+
+similar character, but one day, while en route, Mr.
+
+Edison said: `I have been to lunch with you several
+
+times; now to-day I am going to take you to lunch
+
+with me, and give you the finest lunch you ever had.'
+
+When we arrived in Hoboken, we took the downtown
+
+ferry across the Hudson, and when we arrived
+
+on the Manhattan side Mr. Edison led the way to
+
+Smith & McNell's, opposite Washington Market, and
+
+well known to old New Yorkers. We went inside and
+
+as soon as the waiter appeared Mr. Edison ordered
+
+apple dumplings and a cup of coffee for himself. He
+
+consumed his share of the lunch with the greatest
+
+possible pleasure. Then, as soon as he had finished,
+
+he went to the cigar counter and purchased cigars.
+
+As we walked to keep the appointment he gave me
+
+the following reminiscence: When he left Boston and
+
+decided to come to New York he had only money
+
+enough for the trip. After leaving the boat his first
+
+thought was of breakfast; but he was without money
+
+to obtain it. However, in passing a wholesale tea-
+
+house he saw a man tasting tea, so he went in and
+
+asked the `taster' if he might have some of the tea.
+
+This the man gave him, and thus he obtained his first
+
+breakfast in New York. He knew a telegraph operator
+
+here, and on him he depended for a loan to tide
+
+him over until such time as he should secure a position.
+
+During the day he succeeded in locating this operator,
+
+but found that he also was out of a job, and that the
+
+best he could do was to loan him one dollar, which
+
+he did. This small sum of money represented both
+
+food and lodging until such time as work could be
+
+obtained. Edison said that as the result of the time
+
+consumed and the exercise in walking while he found
+
+his friend, he was extremely hungry, and that he gave
+
+most serious consideration as to what he should buy
+
+in the way of food, and what particular kind of food
+
+would be most satisfying and filling. The result was
+
+that at Smith & McNell's he decided on apple dumplings
+
+and a cup of coffee, than which he never ate anything
+
+more appetizing. It was not long before he
+
+was at work and was able to live in a normal manner."
+
+
+
+During the Civil War, with its enormous increase
+
+in the national debt and the volume of paper money,
+
+gold had gone to a high premium; and, as ever, by its
+
+fluctuations in price the value of all other commodities
+
+was determined. This led to the creation of a
+
+"Gold Room" in Wall Street, where the precious
+
+metal could be dealt in; while for dealings in stocks
+
+there also existed the "Regular Board," the "Open
+
+Board," and the "Long Room." Devoted to one,
+
+but the leading object of speculation, the "Gold
+
+Room" was the very focus of all the financial and
+
+gambling activity of the time, and its quotations
+
+governed trade and commerce. At first notations in
+
+chalk on a blackboard sufficed, but seeing their
+
+inadequacy, Dr. S. S. Laws, vice-president and actual
+
+presiding officer of the Gold Exchange, devised and
+
+introduced what was popularly known as the "gold
+
+indicator." This exhibited merely the prevailing
+
+price of gold; but as its quotations changed from
+
+instant to instant, it was in a most literal sense "the
+
+cynosure of neighboring eyes." One indicator looked
+
+upon the Gold Room; the other opened toward the
+
+street. Within the exchange the face could easily be
+
+seen high up on the west wall of the room, and the
+
+machine was operated by Mr. Mersereau, the official
+
+registrar of the Gold Board.
+
+
+
+Doctor Laws, who afterward became President of
+
+the State University of Missouri, was an inventor of
+
+unusual ability and attainments. In his early youth
+
+he had earned his livelihood in a tool factory; and,
+
+apparently with his savings, he went to Princeton,
+
+where he studied electricity under no less a teacher
+
+than the famous Joseph Henry. At the outbreak of
+
+the war in 1861 he was president of one of the
+
+Presbyterian synodical colleges in the South, whose
+
+buildings passed into the hands of the Government.
+
+Going to Europe, he returned to New York in 1863,
+
+and, becoming interested with a relative in financial
+
+matters, his connection with the Gold Exchange soon
+
+followed, when it was organized. The indicating
+
+mechanism he now devised was electrical, controlled
+
+at central by two circuit-closing keys, and was a
+
+prototype of all the later and modern step-by-step printing
+
+telegraphs, upon which the distribution of financial
+
+news depends. The "fraction" drum of the indicator
+
+could be driven in either direction, known as
+
+the advance and retrograde movements, and was
+
+divided and marked in eighths. It geared into a
+
+"unit" drum, just as do speed-indicators and
+
+cyclometers. Four electrical pulsations were required to
+
+move the drum the distance between the fractions.
+
+The general operation was simple, and in normally
+
+active times the mechanism and the registrar were
+
+equal to all emergencies. But it is obvious that the
+
+record had to be carried away to the brokers' offices
+
+and other places by messengers; and the delay,
+
+confusion, and mistakes soon suggested to Doctor Laws
+
+the desirability of having a number of indicators at
+
+such scattered points, operated by a master transmitter,
+
+and dispensing with the regiments of noisy
+
+boys. He secured this privilege of distribution, and,
+
+resigning from the exchange, devoted his exclusive
+
+attention to the "Gold Reporting Telegraph," which
+
+he patented, and for which, at the end of 1866, he
+
+had secured fifty subscribers. His indicators were
+
+small oblong boxes, in the front of which was a long
+
+slot, allowing the dials as they travelled past, inside,
+
+to show the numerals constituting the quotation;
+
+the dials or wheels being arranged in a row
+
+horizontally, overlapping each other, as in modern fare
+
+registers which are now seen on most trolley cars.
+
+It was not long before there were three hundred
+
+subscribers; but the very success of this device brought
+
+competition and improvement. Mr. E. A. Callahan,
+
+an ingenious printing-telegraph operator, saw that
+
+there were unexhausted possibilities in the idea, and
+
+his foresight and inventiveness made him the father
+
+of the "ticker," in connection with which he was
+
+thus, like Laws, one of the first to grasp and exploit
+
+the underlying principle of the "central station" as
+
+a universal source of supply. The genesis of his
+
+invention Mr. Callahan has told in an interesting way:
+
+"In 1867, on the site of the present Mills Building on
+
+Broad Street, opposite the Stock Exchange of today,
+
+was an old building which had been cut up to
+
+subserve the necessities of its occupants, all engaged
+
+in dealing in gold and stocks. It had one main entrance
+
+from the street to a hallway, from which entrance
+
+to the offices of two prominent broker firms
+
+was obtained. Each firm had its own army of boys,
+
+numbering from twelve to fifteen, whose duties were
+
+to ascertain the latest quotations from the different
+
+exchanges. Each boy devoted his attention to some
+
+particularly active stock. Pushing each other to
+
+get into these narrow quarters, yelling out the prices
+
+at the door, and pushing back for later ones, the
+
+hustle made this doorway to me a most undesirable
+
+refuge from an April shower. I was simply whirled
+
+into the street. I naturally thought that much of
+
+this noise and confusion might be dispensed with, and
+
+that the prices might be furnished through some
+
+system of telegraphy which would not require the
+
+employment of skilled operators. The conception of
+
+the stock ticker dates from this incident."
+
+
+
+Mr. Callahan's first idea was to distribute gold
+
+quotations, and to this end he devised an "indicator."
+
+It consisted of two dials mounted separately, each
+
+revolved by an electromagnet, so that the desired
+
+figures were brought to an aperture in the case
+
+enclosing the apparatus, as in the Laws system. Each
+
+shaft with its dial was provided with two ratchet
+
+wheels, one the reverse of the other. One was used in
+
+connection with the propelling lever, which was provided
+
+with a pawl to fit into the teeth of the reversed
+
+ratchet wheel on its forward movement. It was thus
+
+made impossible for either dial to go by momentum
+
+beyond its limit. Learning that Doctor Laws, with
+
+the skilful aid of F. L. Pope, was already active in the
+
+same direction, Mr. Callahan, with ready wit, transformed
+
+his indicator into a "ticker" that would make
+
+a printed record. The name of the "ticker" came
+
+through the casual remark of an observer to whom
+
+the noise was the most striking feature of the
+
+mechanism. Mr. Callahan removed the two dials, and,
+
+substituting type wheels, turned the movements face
+
+to face, so that each type wheel could imprint its
+
+characters upon a paper tape in two lines. Three
+
+wires stranded together ran from the central office
+
+to each instrument. Of these one furnished the current
+
+for the alphabet wheel, one for the figure wheel,
+
+and one for the mechanism that took care of the
+
+inking and printing on the tape. Callahan made the
+
+further innovation of insulating his circuit wires,
+
+although the cost was then forty times as great as
+
+that of bare wire. It will be understood that
+
+electromagnets were the ticker's actuating agency. The
+
+ticker apparatus was placed under a neat glass shade
+
+and mounted on a shelf. Twenty-five instruments
+
+were energized from one circuit, and the quotations
+
+were supplied from a "central" at 18 New Street.
+
+The Gold & Stock Telegraph Company was promptly
+
+organized to supply to brokers the system, which
+
+was very rapidly adopted throughout the financial
+
+district of New York, at the southern tip of Manhattan
+
+Island. Quotations were transmitted by the
+
+Morse telegraph from the floor of the Stock Exchange
+
+to the "central," and thence distributed to the
+
+subscribers. Success with the "stock" news system was
+
+instantaneous.
+
+
+
+It was at this juncture that Edison reached New
+
+York, and according to his own statement found
+
+shelter at night in the battery-room of the Gold
+
+Indicator Company, having meantime applied for a
+
+position as operator with the Western Union. He
+
+had to wait a few days, and during this time he seized
+
+the opportunity to study the indicators and the complicated
+
+general transmitter in the office, controlled
+
+from the keyboard of the operator on the floor of the
+
+Gold Exchange. What happened next has been the
+
+basis of many inaccurate stories, but is dramatic
+
+enough as told in Mr. Edison's own version: "On the
+
+third day of my arrival and while sitting in the office,
+
+the complicated general instrument for sending on all
+
+the lines, and which made a very great noise, suddenly
+
+came to a stop with a crash. Within two minutes
+
+over three hundred boys--a boy from every broker
+
+in the street--rushed up-stairs and crowded the long
+
+aisle and office, that hardly had room for one hundred,
+
+all yelling that such and such a broker's wire was out
+
+of order and to fix it at once. It was pandemonium,
+
+and the man in charge became so excited that he lost
+
+control of all the knowledge he ever had. I went to
+
+the indicator, and, having studied it thoroughly, knew
+
+where the trouble ought to be, and found it. One of
+
+the innumerable contact springs had broken off and
+
+had fallen down between the two gear wheels and
+
+stopped the instrument; but it was not very noticeable.
+
+As I went out to tell the man in charge what
+
+the matter was, Doctor Laws appeared on the scene,
+
+the most excited person I had seen. He demanded
+
+of the man the cause of the trouble, but the man was
+
+speechless. I ventured to say that I knew what the
+
+trouble was, and he said, `Fix it! Fix it! Be quick!'
+
+I removed the spring and set the contact wheels at
+
+zero; and the line, battery, and inspecting men all
+
+scattered through the financial district to set the
+
+instruments. In about two hours things were working
+
+again. Doctor Laws came in to ask my name and
+
+what I was doing. I told him, and he asked me to
+
+come to his private office the following day. His
+
+office was filled with stacks of books all relating to
+
+metaphysics and kindred matters. He asked me a
+
+great many questions about the instruments and his
+
+system, and I showed him how he could simplify
+
+things generally. He then requested that I should
+
+call next day. On arrival, he stated at once that
+
+he had decided to put me in charge of the whole
+
+plant, and that my salary would be $300 per month!
+
+This was such a violent jump from anything I had
+
+ever seen before, that it rather paralyzed me for a
+
+while, I thought it was too much to be lasting, but
+
+I determined to try and live up to that salary if
+
+twenty hours a day of hard work would do it. I
+
+kept this position, made many improvements, devised
+
+several stock tickers, until the Gold & Stock
+
+Telegraph Company consolidated with the Gold Indicator
+
+Company." Certainly few changes in fortune
+
+have been more sudden and dramatic in any
+
+notable career than this which thus placed an ill-
+
+clad, unkempt, half-starved, eager lad in a position
+
+of such responsibility in days when the fluctuations
+
+in the price of gold at every instant meant fortune or
+
+ruin to thousands.
+
+
+
+Edison, barely twenty-one years old, was a keen
+
+observer of the stirring events around him. "Wall
+
+Street" is at any time an interesting study, but it
+
+was never at a more agitated and sensational period
+
+of its history than at this time. Edison's arrival in
+
+New York coincided with an active speculation in
+
+gold which may, indeed, be said to have provided him
+
+with occupation; and was soon followed by the attempt
+
+of Mr. Jay Gould and his associates to corner
+
+the gold market, precipitating the panic of Black
+
+Friday, September 24, 1869. Securing its import
+
+duties in the precious metal and thus assisting to
+
+create an artificial stringency in the gold market, the
+
+Government had made it a practice to relieve the
+
+situation by selling a million of gold each month.
+
+The metal was thus restored to circulation. In some
+
+manner, President Grant was persuaded that general
+
+conditions and the movement of the crops would be
+
+helped if the sale of gold were suspended for a time;
+
+and, this put into effect, he went to visit an old
+
+friend in Pennsylvania remote from railroads and
+
+telegraphs. The Gould pool had acquired control of
+
+$10,000,000 in gold, and drove the price upward
+
+rapidly from 144 toward their goal of 200. On Black
+
+Friday they purchased another $28,000,000 at 160,
+
+and still the price went up. The financial and
+
+commercial interests of the country were in panic; but
+
+the pool persevered in its effort to corner gold, with
+
+a profit of many millions contingent on success.
+
+Yielding to frantic requests, President Grant, who
+
+returned to Washington, caused Secretary Boutwell,
+
+of the Treasury, to throw $4,000,000 of gold into the
+
+market. Relief was instantaneous, the corner was
+
+broken, but the harm had been done. Edison's remarks
+
+shed a vivid side-light on this extraordinary
+
+episode: "On Black Friday," he says, "we had a
+
+very exciting time with the indicators. The Gould
+
+and Fisk crowd had cornered gold, and had run the
+
+quotations up faster than the indicator could follow.
+
+The indicator was composed of several wheels; on
+
+the circumference of each wheel were the numerals;
+
+and one wheel had fractions. It worked in the same
+
+way as an ordinary counter; one wheel made ten
+
+revolutions, and at the tenth it advanced the adjacent
+
+wheel; and this in its turn having gone ten revolutions,
+
+advanced the next wheel, and so on. On the
+
+morning of Black Friday the indicator was quoting
+
+150 premium, whereas the bids by Gould's agents in
+
+the Gold Room were 165 for five millions or any part.
+
+We had a paper-weight at the transmitter (to speed
+
+it up), and by one o'clock reached the right quotation.
+
+The excitement was prodigious. New Street,
+
+as well as Broad Street, was jammed with excited
+
+people. I sat on the top of the Western Union telegraph
+
+booth to watch the surging, crazy crowd. One
+
+man came to the booth, grabbed a pencil, and
+
+attempted to write a message to Boston. The first
+
+stroke went clear off the blank; he was so excited that
+
+he had the operator write the message for him. Amid
+
+great excitement Speyer, the banker, went crazy and
+
+it took five men to hold him; and everybody lost their
+
+head. The Western Union operator came to me and
+
+said: `Shake, Edison, we are O. K. We haven't got
+
+a cent.' I felt very happy because we were poor.
+
+These occasions are very enjoyable to a poor man;
+
+but they occur rarely."
+
+
+
+There is a calm sense of detachment about this
+
+description that has been possessed by the narrator
+
+even in the most anxious moments of his career. He
+
+was determined to see all that could be seen, and,
+
+quitting his perch on the telegraph booth, sought the
+
+more secluded headquarters of the pool forces. "A
+
+friend of mine was an operator who worked in the
+
+office of Belden & Company, 60 Broadway, which
+
+were headquarters for Fisk. Mr. Gould was up-town
+
+in the Erie offices in the Grand Opera House. The firm
+
+on Broad Street, Smith, Gould & Martin, was the other
+
+branch. All were connected with wires. Gould seemed
+
+to be in charge, Fisk being the executive down-town.
+
+Fisk wore a velvet corduroy coat and a very peculiar
+
+vest. He was very chipper, and seemed to be light-
+
+hearted and happy. Sitting around the room were
+
+about a dozen fine-looking men. All had the complexion
+
+of cadavers. There was a basket of cham-
+
+pagne. Hundreds of boys were rushing in paying
+
+checks, all checks being payable to Belden & Company.
+
+When James Brown, of Brown Brothers &
+
+Company, broke the corner by selling five million
+
+gold, all payments were repudiated by Smith, Gould
+
+& Martin; but they continued to receive checks at
+
+Belden & Company's for some time, until the Street
+
+got wind of the game. There was some kind of conspiracy
+
+with the Government people which I could
+
+not make out, but I heard messages that opened my
+
+eyes as to the ramifications of Wall Street. Gold fell
+
+to 132, and it took us all night to get the indicator
+
+back to that quotation. All night long the streets
+
+were full of people. Every broker's office was brilliantly
+
+lighted all night, and all hands were at work.
+
+The clearing-house for gold had been swamped, and
+
+all was mixed up. No one knew if he was bankrupt
+
+or not."
+
+
+
+Edison in those days rather liked the modest coffee-
+
+shops, and mentions visiting one. "When on the
+
+New York No. 1 wire, that I worked in Boston, there
+
+was an operator named Jerry Borst at the other end.
+
+He was a first-class receiver and rapid sender. We
+
+made up a scheme to hold this wire, so he changed
+
+one letter of the alphabet and I soon got used to it;
+
+and finally we changed three letters. If any operator
+
+tried to receive from Borst, he couldn't do it, so Borst
+
+and I always worked together. Borst did less talking
+
+than any operator I ever knew. Never having seen
+
+him, I went while in New York to call upon him. I
+
+did all the talking. He would listen, stroke his
+
+beard, and say nothing. In the evening I went over
+
+to an all-night lunch-house in Printing House Square
+
+in a basement--Oliver's. Night editors, including
+
+Horace Greeley, and Henry Raymond, of the New
+
+York Times, took their midnight lunch there. When
+
+I went with Borst and another operator, they pointed
+
+out two or three men who were then celebrated in the
+
+newspaper world. The night was intensely hot and
+
+close. After getting our lunch and upon reaching the
+
+sidewalk, Borst opened his mouth, and said: `That's
+
+a great place; a plate of cakes, a cup of coffee, and
+
+a Russian bath, for ten cents.' This was about fifty
+
+per cent. of his conversation for two days."
+
+
+
+The work of Edison on the gold-indicator had
+
+thrown him into close relationship with Mr. Franklin
+
+L. Pope, the young telegraph engineer then associated
+
+with Doctor Laws, and afterward a distinguished
+
+expert and technical writer, who became
+
+President of the American Institute of Electrical
+
+Engineers in 1886. Each recognized the special ability
+
+of the other, and barely a week after the famous
+
+events of Black Friday the announcement of their
+
+partnership appeared in the Telegrapher of October
+
+1, 1869. This was the first "professional card," if
+
+it may be so described, ever issued in America by a
+
+firm of electrical engineers, and is here reproduced.
+
+It is probable that the advertisement, one of the largest
+
+in the Telegrapher, and appearing frequently, was
+
+not paid for at full rates, as the publisher, Mr. J. N.
+
+Ashley, became a partner in the firm, and not altogether
+
+a "sleeping one" when it came to a division
+
+of profits, which at times were considerable. In
+
+order to be nearer his new friend Edison boarded with
+
+Pope at Elizabeth, New Jersey, for some time, living
+
+"the strenuous life" in the performance of his duties.
+
+Associated with Pope and Ashley, he followed up his
+
+work on telegraph printers with marked success.
+
+"While with them I devised a printer to print gold
+
+quotations instead of indicating them. The lines were
+
+started, and the whole was sold out to the Gold &
+
+Stock Telegraph Company. My experimenting was
+
+all done in the small shop of a Doctor Bradley,
+
+located near the station of the Pennsylvania Railroad
+
+in Jersey City. Every night I left for Elizabeth on
+
+the 1 A.M. train, then walked half a mile to Mr. Pope's
+
+house and up at 6 A.M. for breakfast to catch the
+
+7 A.M. train. This continued all winter, and many
+
+were the occasions when I was nearly frozen in the
+
+Elizabeth walk." This Doctor Bradley appears to
+
+have been the first in this country to make electrical
+
+measurements of precision with the galvanometer,
+
+but was an old-school experimenter who would work
+
+for years on an instrument without commercial value.
+
+He was also extremely irascible, and when on one
+
+occasion the connecting wire would not come out of
+
+one of the binding posts of a new and costly galvanometer,
+
+he jerked the instrument to the floor and then
+
+jumped on it. He must have been, however, a man
+
+of originality, as evidenced by his attempt to age
+
+whiskey by electricity, an attempt that has often
+
+since been made. "The hobby he had at the time
+
+I was there," says Edison, "was the aging of raw
+
+whiskey by passing strong electric currents through
+
+it. He had arranged twenty jars with platinum
+
+electrodes held in place by hard rubber. When all
+
+was ready, he filled the cells with whiskey, connected
+
+the battery, locked the door of the small room in
+
+which they were placed, and gave positive orders
+
+that no one should enter. He then disappeared for
+
+three days. On the second day we noticed a terrible
+
+smell in the shop, as if from some dead animal. The
+
+next day the doctor arrived and, noticing the smell,
+
+asked what was dead. We all thought something
+
+had got into his whiskey-room and died. He opened
+
+it and was nearly overcome. The hard rubber he
+
+used was, of course, full of sulphur, and this being
+
+attacked by the nascent hydrogen, had produced
+
+sulphuretted hydrogen gas in torrents, displacing all
+
+of the air in the room. Sulphuretted hydrogen is,
+
+as is well known, the gas given off by rotten eggs."
+
+
+
+Another glimpse of this period of development is
+
+afforded by an interesting article on the stock-reporting
+
+telegraph in the Electrical World of March 4, 1899,
+
+by Mr. Ralph W. Pope, the well-known Secretary of
+
+the American Institute of Electrical Engineers, who
+
+had as a youth an active and intimate connection
+
+with that branch of electrical industry. In the course
+
+of his article he mentions the curious fact that Doctor
+
+Laws at first, in receiving quotations from the Exchanges,
+
+was so distrustful of the Morse system that
+
+he installed long lines of speaking-tube as a more
+
+satisfactory and safe device than a telegraph wire.
+
+As to the relations of that time Mr. Pope remarks:
+
+"The rivalry between the two concerns resulted in
+
+consolidation, Doctor Laws's enterprise being
+
+absorbed by the Gold & Stock Telegraph Company,
+
+while the Laws stock printer was relegated to the
+
+scrap-heap and the museum. Competition in the
+
+field did not, however, cease. Messrs. Pope and
+
+Edison invented a one-wire printer, and started a
+
+system of `gold printers' devoted to the recording
+
+of gold quotations and sterling exchange only. It
+
+was intended more especially for importers and
+
+exchange brokers, and was furnished at a lower price
+
+than the indicator service.... The building and
+
+equipment of private telegraph lines was also entered
+
+upon. This business was also subsequently absorbed
+
+by the Gold & Stock Telegraph Company, which was
+
+probably at this time at the height of its prosperity.
+
+The financial organization of the company was peculiar
+
+and worthy of attention. Each subscriber for
+
+a machine paid in $100 for the privilege of securing
+
+an instrument. For the service he paid $25 weekly.
+
+In case he retired or failed, he could transfer his
+
+`right,' and employees were constantly on the alert
+
+for purchasable rights, which could be disposed of
+
+at a profit. It was occasionally worth the profit to
+
+convince a man that he did not actually own the
+
+machine which had been placed in his office.... The
+
+Western Union Telegraph Company secured a majority
+
+of its stock, and Gen. Marshall Lefferts was
+
+elected president. A private-line department was
+
+established, and the business taken over from Pope,
+
+Edison, and Ashley was rapidly enlarged."
+
+
+
+At this juncture General Lefferts, as President of
+
+the Gold & Stock Telegraph Company, requested
+
+Edison to go to work on improving the stock ticker,
+
+furnishing the money; and the well-known "Universal"
+
+ticker, in wide-spread use in its day, was one
+
+result. Mr. Edison gives a graphic picture of the
+
+startling effect on his fortunes: "I made a great many
+
+inventions; one was the special ticker used for many
+
+years outside of New York in the large cities. This
+
+was made exceedingly simple, as they did not have
+
+the experts we had in New York to handle anything
+
+complicated. The same ticker was used on the London
+
+Stock Exchange. After I had made a great number
+
+of inventions and obtained patents, the General
+
+seemed anxious that the matter should be closed up.
+
+One day I exhibited and worked a successful device
+
+whereby if a ticker should get out of unison in a
+
+broker's office and commence to print wild figures,
+
+it could be brought to unison from the central station,
+
+which saved the labor of many men and much trouble
+
+to the broker. He called me into his office, and said:
+
+`Now, young man, I want to close up the matter of
+
+your inventions. How much do you think you should
+
+receive?' I had made up my mind that, taking into
+
+consideration the time and killing pace I was working
+
+at, I should be entitled to $5000, but could get along
+
+with $3000. When the psychological moment arrived,
+
+I hadn't the nerve to name such a large sum,
+
+so I said: `Well, General, suppose you make me an
+
+offer.' Then he said: `How would $40,000 strike
+
+you?' This caused me to come as near fainting as I
+
+ever got. I was afraid he would hear my heart beat.
+
+I managed to say that I thought it was fair. `All
+
+right, I will have a contract drawn; come around in
+
+three days and sign it, and I will give you the money.'
+
+I arrived on time, but had been doing some considerable
+
+thinking on the subject. The sum seemed to
+
+be very large for the amount of work, for at that time
+
+I determined the value by the time and trouble, and
+
+not by what the invention was worth to others. I
+
+thought there was something unreal about it. However,
+
+the contract was handed to me. I signed without
+
+reading it." Edison was then handed the first
+
+check he had ever received, one for $40,000 drawn
+
+on the Bank of New York, at the corner of William
+
+and Wall Streets. On going to the bank and passing
+
+in the check at the wicket of the paying teller, some
+
+brief remarks were made to him, which in his deafness
+
+he did not understand. The check was handed
+
+back to him, and Edison, fancying for a moment that
+
+in some way he had been cheated, went outside "to
+
+the large steps to let the cold sweat evaporate." He
+
+then went back to the General, who, with his secretary,
+
+had a good laugh over the matter, told him the check
+
+must be endorsed, and sent with him a young man
+
+to identify him. The ceremony of identification
+
+performed with the paying teller, who was quite merry
+
+over the incident, Edison was given the amount in
+
+bundles of small bills "until there certainly seemed
+
+to be one cubic foot." Unaware that he was the victim
+
+of a practical joke, Edison proceeded gravely to
+
+stow away the money in his overcoat pockets and all
+
+his other pockets. He then went to Newark and sat
+
+up all night with the money for fear it might be
+
+stolen. Once more he sought help next morning,
+
+when the General laughed heartily, and, telling the
+
+clerk that the joke must not be carried any further,
+
+enabled him to deposit the currency in the bank and
+
+open an account.
+
+
+
+Thus in an inconceivably brief time had Edison
+
+passed from poverty to independence; made a deep
+
+impression as to his originality and ability on
+
+important people, and brought out valuable inventions;
+
+lifting himself at one bound out of the ruck of
+
+mediocrity, and away from the deadening drudgery of the
+
+key. Best of all he was enterprising, one of the
+
+leaders and pioneers for whom the world is always
+
+looking; and, to use his own criticism of himself, he
+
+had "too sanguine a temperament to keep money
+
+in solitary confinement." With quiet self-possession
+
+he seized his opportunity, began to buy machinery,
+
+rented a shop and got work for it. Moving quickly
+
+into a larger shop, Nos. 10 and 12 Ward Street,
+
+Newark, New Jersey, he secured large orders from
+
+General Lefferts to build stock tickers, and employed
+
+fifty men. As business increased he put on a night
+
+force, and was his own foreman on both shifts. Half
+
+an hour of sleep three or four times in the twenty-
+
+four hours was all he needed in those days, when one
+
+invention succeeded another with dazzling rapidity,
+
+and when he worked with the fierce, eruptive energy
+
+of a great volcano, throwing out new ideas incessantly
+
+with spectacular effect on the arts to which they
+
+related. It has always been a theory with Edison that
+
+we sleep altogether too much; but on the other hand
+
+he never, until long past fifty, knew or practiced the
+
+slightest moderation in work or in the use of strong
+
+coffee and black cigars. He has, moreover, while
+
+of tender and kindly disposition, never hesitated to
+
+use men up as freely as a Napoleon or Grant; seeing
+
+only the goal of a complete invention or perfected de-
+
+vice, to attain which all else must become subsidiary.
+
+He gives a graphic picture of his first methods as a
+
+manufacturer: "Nearly all my men were on piece
+
+work, and I allowed them to make good wages, and
+
+never cut until the pay became absurdly high as they
+
+got more expert. I kept no books. I had two hooks.
+
+All the bills and accounts I owed I jabbed on one
+
+hook; and memoranda of all owed to myself I put
+
+on the other. When some of the bills fell due, and
+
+I couldn't deliver tickers to get a supply of money, I
+
+gave a note. When the notes were due, a messenger
+
+came around from the bank with the note and a
+
+protest pinned to it for $1.25. Then I would go to
+
+New York and get an advance, or pay the note if I
+
+had the money. This method of giving notes for
+
+my accounts and having all notes protested I kept
+
+up over two years, yet my credit was fine. Every
+
+store I traded with was always glad to furnish goods,
+
+perhaps in amazed admiration of my system of doing
+
+business, which was certainly new." After a while
+
+Edison got a bookkeeper, whose vagaries made him
+
+look back with regret on the earlier, primitive method.
+
+"The first three months I had him go over the books
+
+to find out how much we had made. He reported
+
+$3000. I gave a supper to some of my men to celebrate
+
+this, only to be told two days afterward that
+
+he had made a mistake, and that we had lost $500; and
+
+then a few days after that he came to me again and
+
+said he was all mixed up, and now found that we had
+
+made over $7000." Edison changed bookkeepers, but
+
+never thereafter counted anything real profit until he
+
+had paid all his debts and had the profits in the bank.
+
+
+
+The factory work at this time related chiefly to
+
+stock tickers, principally the "Universal," of which
+
+at one time twelve hundred were in use. Edison's
+
+connection with this particular device was very
+
+close while it lasted. In a review of the ticker art,
+
+Mr. Callahan stated, with rather grudging praise,
+
+that "a ticker at the present time (1901) would be
+
+considered as impracticable and unsalable if it were
+
+not provided with a unison device," and he goes on
+
+to remark: "The first unison on stock tickers was
+
+one used on the Laws printer.[2] It was a crude and
+
+unsatisfactory piece of mechanism and necessitated
+
+doubling of the battery in order to bring it into action.
+
+It was short-lived. The Edison unison comprised a
+
+lever with a free end travelling in a spiral or worm
+
+on the type-wheel shaft until it met a pin at the end
+
+of the worm, thus obstructing the shaft and leaving
+
+the type-wheels at the zero-point until released by
+
+the printing lever. This device is too well known to
+
+require a further description. It is not applicable
+
+to any instrument using two independently moving
+
+type-wheels; but on nearly if not all other instruments
+
+will be found in use." The stock ticker has
+
+enjoyed the devotion of many brilliant inventors--
+
+G. M. Phelps, H. Van Hoevenbergh, A. A. Knudson,
+
+G. B. Scott, S. D. Field, John Burry--and remains in
+
+extensive use as an appliance for which no substitute
+
+or competitor has been found. In New York the
+
+two great stock exchanges have deemed it necessary
+
+to own and operate a stock-ticker service for the sole
+
+benefit of their members; and down to the present
+
+moment the process of improvement has gone on,
+
+impelled by the increasing volume of business to be
+
+reported. It is significant of Edison's work, now
+
+dimmed and overlaid by later advances, that at the
+
+very outset he recognized the vital importance of
+
+interchangeability in the construction of this delicate
+
+and sensitive apparatus. But the difficulties of these
+
+early days were almost insurmountable. Mr. R. W.
+
+Pope says of the "Universal" machines that they were
+
+simple and substantial and generally satisfactory,
+
+but adds: "These instruments were supposed to have
+
+been made with interchangeable parts; but as a
+
+matter of fact the instances in which these parts
+
+would fit were very few. The instruction-book prepared
+
+for the use of inspectors stated that `The parts
+
+should not be tinkered nor bent, as they are accurately
+
+made and interchangeable.' The difficulties encountered
+
+in fitting them properly doubtless gave rise to a
+
+story that Mr. Edison had stated that there were three
+
+degrees of interchangeability. This was interpreted to
+
+mean: First, the parts will fit; second, they will almost
+
+fit; third, they do not fit, and can't be made to fit."
+
+
+
+
+
+[2] This I invented as well.--T. A. E.
+
+
+
+
+
+This early shop affords an illustration of the manner
+
+in which Edison has made a deep impression on the
+
+personnel of the electrical arts. At a single bench
+
+there worked three men since rich or prominent.
+
+One was Sigmund Bergmann, for a time partner with
+
+Edison in his lighting developments in the United
+
+States, and now head and principal owner of electrical
+
+works in Berlin employing ten thousand men. The
+
+next man adjacent was John Kruesi, afterward engineer
+
+of the great General Electric Works at
+
+Schenectady. A third was Schuckert, who left the
+
+bench to settle up his father's little estate at Nuremberg,
+
+stayed there and founded electrical factories,
+
+which became the third largest in Germany, their
+
+proprietor dying very wealthy. "I gave them a good
+
+training as to working hours and hustling," says their
+
+quondam master; and this is equally true as applied
+
+to many scores of others working in companies bearing
+
+the Edison name or organized under Edison
+
+patents. It is curiously significant in this connection
+
+that of the twenty-one presidents of the national
+
+society, the American Institute of Electrical Engineers,
+
+founded in 1884, eight have been intimately
+
+associated with Edison--namely, Norvin Green and
+
+F. L. Pope, as business colleagues of the days of which
+
+we now write; while Messrs. Frank J. Sprague, T. C.
+
+Martin, A. E. Kennelly, S. S. Wheeler, John W.
+
+Lieb, Jr., and Louis A. Ferguson have all been at one
+
+time or another in the Edison employ. The remark
+
+was once made that if a famous American teacher
+
+sat at one end of a log and a student at the other end,
+
+the elements of a successful university were present.
+
+It is equally true that in Edison and the many men
+
+who have graduated from his stern school of endeavor,
+
+America has had its foremost seat of electrical
+
+engineering.
+
+

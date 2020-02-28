@@ -1,0 +1,2018 @@
+
+
+
+
+
+CHAPTER VIII
+
+
+
+AUTOMATIC, DUPLEX, AND QUADRUPLEX
+
+TELEGRAPHY
+
+
+
+WORK of various kinds poured in upon the young
+
+manufacturer, busy also with his own schemes
+
+and inventions, which soon began to follow so many
+
+distinct lines of inquiry that it ceases to be easy or
+
+necessary for the historian to treat them all in
+
+chronological sequence. Some notion of his ceaseless
+
+activity may be formed from the fact that he started no
+
+fewer than three shops in Newark during 1870-71,
+
+and while directing these was also engaged by the
+
+men who controlled the Automatic Telegraph Company
+
+of New York, which had a circuit to Washington,
+
+to help it out of its difficulties. "Soon after
+
+starting the large shop (10 and 12 Ward Street,
+
+Newark), I rented shop-room to the inventor of a
+
+new rifle. I think it was the Berdan. In any event,
+
+it was a rifle which was subsequently adopted by the
+
+British Army. The inventor employed a tool-maker
+
+who was the finest and best tool-maker I had ever
+
+seen. I noticed that he worked pretty near the
+
+whole of the twenty-four hours. This kind of application
+
+I was looking for. He was getting $21.50 per
+
+week, and was also paid for overtime. I asked him
+
+if he could run the shop. `I don't know; try me!' he
+
+said. `All right, I will give you $60 per week to run
+
+both shifts.' He went at it. His executive ability
+
+was greater than that of any other man I have yet
+
+seen. His memory was prodigious, conversation
+
+laconic, and movements rapid. He doubled the production
+
+inside three months, without materially increasing
+
+the pay-roll, by increasing the cutting speeds
+
+of tools, and by the use of various devices. When in
+
+need of rest he would lie down on a work-bench,
+
+sleep twenty or thirty minutes, and wake up fresh.
+
+As this was just what I could do, I naturally conceived
+
+a great pride in having such a man in charge
+
+of my work. But almost everything has trouble connected
+
+with it. He disappeared one day, and although
+
+I sent men everywhere that it was likely he
+
+could be found, he was not discovered. After two
+
+weeks he came into the factory in a terrible condition
+
+as to clothes and face. He sat down and, turning to
+
+me, said: `Edison, it's no use, this is the third time;
+
+I can't stand prosperity. Put my salary back and
+
+give me a job.' I was very sorry to learn that it was
+
+whiskey that spoiled such a career. I gave him an
+
+inferior job and kept him for a long time."
+
+
+
+Edison had now entered definitely upon that career
+
+as an inventor which has left so deep an imprint on
+
+the records of the United States Patent Office, where
+
+from his first patent in 1869 up to the summer of 1910
+
+no fewer than 1328 separate patents have been applied
+
+for in his name, averaging thirty-two every
+
+year, and one about every eleven days; with a
+
+substantially corresponding number issued. The
+
+height of this inventive activity was attained
+
+about 1882, in which year no fewer than 141 pat-
+
+ents were applied for, and seventy-five granted to
+
+him, or nearly nine times as many as in 1876, when
+
+invention as a profession may be said to have been
+
+adopted by this prolific genius. It will be understood,
+
+of course, that even these figures do not represent
+
+the full measure of actual invention, as in every
+
+process and at every step there were many discoveries
+
+that were not brought to patent registration, but
+
+remained "trade secrets." And furthermore, that in
+
+practically every case the actual patented invention
+
+followed from one to a dozen or more gradually developing
+
+forms of the same idea.
+
+
+
+An Englishman named George Little had brought
+
+over a system of automatic telegraphy which worked
+
+well on a short line, but was a failure when put upon
+
+the longer circuits for which automatic methods are
+
+best adapted. The general principle involved in
+
+automatic or rapid telegraphs, except the photographic
+
+ones, is that of preparing the message in
+
+advance, for dispatch, by perforating narrow strips of
+
+paper with holes--work which can be done either by
+
+hand-punches or by typewriter apparatus. A certain
+
+group of perforations corresponds to a Morse
+
+group of dots and dashes for a letter of the alphabet.
+
+When the tape thus made ready is run rapidly through
+
+a transmitting machine, electrical contact occurs
+
+wherever there is a perforation, permitting the current
+
+from the battery to flow into the line and thus
+
+transmit signals correspondingly. At the distant end
+
+these signals are received sometimes on an ink-writing
+
+recorder as dots and dashes, or even as typewriting
+
+letters; but in many of the earlier systems, like that
+
+of Bain, the record at the higher rates of speed was
+
+effected by chemical means, a tell-tale stain being
+
+made on the travelling strip of paper by every spurt
+
+of incoming current. Solutions of potassium iodide
+
+were frequently used for this purpose, giving a sharp,
+
+blue record, but fading away too rapidly.
+
+
+
+The Little system had perforating apparatus operated
+
+by electromagnets; its transmitting machine
+
+was driven by a small electromagnetic motor; and
+
+the record was made by electrochemical decomposition,
+
+the writing member being a minute platinum
+
+roller instead of the more familiar iron stylus. Moreover,
+
+a special type of wire had been put up for the
+
+single circuit of two hundred and eighty miles between
+
+New York and Washington. This is believed to have
+
+been the first "compound" wire made for telegraphic
+
+or other signalling purposes, the object being to secure
+
+greater lightness with textile strength and high
+
+conductivity. It had a steel core, with a copper ribbon
+
+wound spirally around it, and tinned to the core wire.
+
+But the results obtained were poor, and in their
+
+necessity the parties in interest turned to Edison.
+
+
+
+Mr. E. H. Johnson tells of the conditions: "Gen.
+
+W. J. Palmer and some New York associates had
+
+taken up the Little automatic system and had expended
+
+quite a sum in its development, when, thinking
+
+they had reduced it to practice, they got Tom
+
+Scott, of the Pennsylvania Railroad to send his
+
+superintendent of telegraph over to look into and
+
+report upon it. Of course he turned it down. The
+
+syndicate was appalled at this report, and in this
+
+extremity General Palmer thought of the man who
+
+had impressed him as knowing it all by the telling
+
+of telegraphic tales as a means of whiling away lonesome
+
+hours on the plains of Colorado, where they
+
+were associated in railroad-building. So this man--
+
+it was I--was sent for to come to New York and
+
+assuage their grief if possible. My report was that
+
+the system was sound fundamentally, that it contained
+
+the germ of a good thing, but needed working
+
+out. Associated with General Palmer was one Col.
+
+Josiah C. Reiff, then Eastern bond agent for the
+
+Kansas Pacific Railroad. The Colonel was always
+
+resourceful, and didn't fail in this case. He knew of
+
+a young fellow who was doing some good work for
+
+Marshall Lefferts, and who it was said was a genius
+
+at invention, and a very fiend for work. His name
+
+was Edison, and he had a shop out at Newark, New
+
+Jersey. He came and was put in my care for the
+
+purpose of a mutual exchange of ideas and for a report
+
+by me as to his competency in the matter. This was
+
+my introduction to Edison. He confirmed my views
+
+of the automatic system. He saw its possibilities,
+
+as well as the chief obstacles to be overcome--viz.,
+
+the sluggishness of the wire, together with the need
+
+of mechanical betterment of the apparatus; and he
+
+agreed to take the job on one condition--namely,
+
+that Johnson would stay and help, as `he was a man
+
+with ideas.' Mr. Johnson was accordingly given
+
+three months' leave from Colorado railroad-building,
+
+and has never seen Colorado since."
+
+
+
+Applying himself to the difficulties with wonted
+
+energy, Edison devised new apparatus, and solved
+
+the problem to such an extent that he and his as-
+
+sistants succeeded in transmitting and recording one
+
+thousand words per minute between New York and
+
+Washington, and thirty-five hundred words per
+
+minute to Philadelphia. Ordinary manual transmission
+
+by key is not in excess of forty to fifty words
+
+a minute. Stated very briefly, Edison's principal
+
+contribution to the commercial development of the
+
+automatic was based on the observation that in a
+
+line of considerable length electrical impulses become
+
+enormously extended, or sluggish, due to a
+
+phenomenon known as self-induction, which with
+
+ordinary Morse work is in a measure corrected
+
+by condensers. But in the automatic the aim was
+
+to deal with impulses following each other from
+
+twenty-five to one hundred times as rapidly as in
+
+Morse lines, and to attempt to receive and record
+
+intelligibly such a lightning-like succession of signals would
+
+have seemed impossible. But Edison discovered that
+
+by utilizing a shunt around the receiving instrument,
+
+with a soft iron core, the self-induction would produce
+
+a momentary and instantaneous reversal of the
+
+current at the end of each impulse, and thereby give
+
+an absolutely sharp definition to each signal. This
+
+discovery did away entirely with sluggishness, and
+
+made it possible to secure high speeds over lines of
+
+comparatively great lengths. But Edison's work on
+
+the automatic did not stop with this basic suggestion,
+
+for he took up and perfected the mechanical construction
+
+of the instruments, as well as the perforators,
+
+and also suggested numerous electrosensitive
+
+chemicals for the receivers, so that the automatic
+
+telegraph, almost entirely by reason of his individual
+
+work, was placed on a plane of commercial practicability.
+
+The long line of patents secured by him
+
+in this art is an interesting exhibit of the development
+
+of a germ to a completed system, not, as is
+
+usually the case, by numerous inventors working
+
+over considerable periods of time, but by one man
+
+evolving the successive steps at a white heat of
+
+activity.
+
+
+
+This system was put in commercial operation, but
+
+the company, now encouraged, was quite willing to
+
+allow Edison to work out his idea of an automatic
+
+that would print the message in bold Roman letters
+
+instead of in dots and dashes; with consequent gain
+
+in speed in delivery of the message after its receipt
+
+in the operating-room, it being obviously necessary
+
+in the case of any message received in Morse characters
+
+to copy it in script before delivery to the recipient.
+
+A large shop was rented in Newark, equipped with
+
+$25,000 worth of machinery, and Edison was given
+
+full charge. Here he built their original type of
+
+apparatus, as improved, and also pushed his experiments
+
+on the letter system so far that at a test, between
+
+New York and Philadelphia, three thousand words
+
+were sent in one minute and recorded in Roman type.
+
+Mr. D. N. Craig, one of the early organizers of the
+
+Associated Press, became interested in this company,
+
+whose president was Mr. George Harrington, formerly
+
+Assistant Secretary of the United States Treasury.
+
+
+
+Mr. Craig brought with him at this time--the early
+
+seventies--from Milwaukee a Mr. Sholes, who had a
+
+wooden model of a machine to which had been given the
+
+then new and unfamiliar name of "typewriter." Craig
+
+was interested in the machine, and put the model in
+
+Edison's hands to perfect. "This typewriter proved a
+
+difficult thing," says Edison, "to make commercial.
+
+The alignment of the letters was awful. One letter
+
+would be one-sixteenth of an inch above the others;
+
+and all the letters wanted to wander out of line. I
+
+worked on it till the machine gave fair results.[3] Some
+
+were made and used in the office of the Automatic
+
+company. Craig was very sanguine that some day all
+
+business letters would be written on a typewriter.
+
+He died before that took place; but it gradually
+
+made its way. The typewriter I got into commercial
+
+shape is now known as the Remington. About this
+
+time I got an idea I could devise an apparatus by
+
+which four messages could simultaneously be sent
+
+over a single wire without interfering with each other.
+
+I now had five shops, and with experimenting on this
+
+new scheme I was pretty busy; at least I did not
+
+have ennui."
+
+
+
+
+
+[3] See illustration on opposite page, showing reproduction of the
+
+work done with this machine.
+
+
+
+
+
+A very interesting picture of Mr. Edison at this time
+
+is furnished by Mr. Patrick B. Delany, a well-known
+
+inventor in the field of automatic and multiplex
+
+telegraphy, who at that time was a chief operator of the
+
+Franklin Telegraph Company at Philadelphia. His
+
+remark about Edison that "his ingenuity inspired
+
+confidence, and wavering financiers stiffened up when
+
+it became known that he was to develop the automatic"
+
+is a noteworthy evidence of the manner in
+
+which the young inventor had already gained a firm
+
+footing. He continues: "Edward H. Johnson was
+
+brought on from the Denver & Rio Grande Railway
+
+to assist in the practical introduction of automatic
+
+telegraphy on a commercial basis, and about this
+
+time, in 1872, I joined the enterprise. Fairly good
+
+results were obtained between New York and Washington,
+
+and Edison, indifferent to theoretical difficulties,
+
+set out to prove high speeds between New
+
+York and Charleston, South Carolina, the compound
+
+wire being hitched up to one of the Southern &
+
+Atlantic wires from Washington to Charleston for
+
+the purpose of experimentation. Johnson and I
+
+went to the Charleston end to carry out Edison's
+
+plans, which were rapidly unfolded by telegraph
+
+every night from a loft on lower Broadway, New
+
+York. We could only get the wire after all business
+
+was cleared, usually about midnight, and for months,
+
+in the quiet hours, that wire was subjected to more
+
+electrical acrobatics than any other wire ever
+
+experienced. When the experiments ended, Edison's
+
+system was put into regular commercial operation
+
+between New York and Washington; and did fine
+
+work. If the single wire had not broken about every
+
+other day, the venture would have been a financial
+
+success; but moisture got in between the copper ribbon
+
+and the steel core, setting up galvanic action
+
+which made short work of the steel. The demonstration
+
+was, however, sufficiently successful to impel
+
+Jay Gould to contract to pay about $4,000,000 in stock
+
+for the patents. The contract was never completed so
+
+far as the $4,000,000 were concerned, but Gould made
+
+good use of it in getting control of the Western Union."
+
+
+
+One of the most important persons connected with
+
+the automatic enterprise was Mr. George Harrington,
+
+to whom we have above referred, and with whom Mr.
+
+Edison entered into close confidential relations, so
+
+that the inventions made were held jointly, under a
+
+partnership deed covering "any inventions or
+
+improvements that may be useful or desired in
+
+automatic telegraphy." Mr. Harrington was assured at
+
+the outset by Edison that while the Little perforator
+
+would give on the average only seven or eight words
+
+per minute, which was not enough for commercial
+
+purposes, he could devise one giving fifty or sixty
+
+words, and that while the Little solution for the
+
+receiving tape cost $15 to $17 per gallon, he could
+
+furnish a ferric solution costing only five or six cents
+
+per gallon. In every respect Edison "made good,"
+
+and in a short time the system was a success, "Mr.
+
+Little having withdrawn his obsolete perforator, his
+
+ineffective resistance, his costly chemical solution, to
+
+give place to Edison's perforator, Edison's resistance
+
+and devices, and Edison's solution costing a few cents
+
+per gallon. But," continues Mr. Harrington, in a
+
+memorable affidavit, "the inventive efforts of Mr.
+
+Edison were not confined to automatic telegraphy,
+
+nor did they cease with the opening of that line to
+
+Washington." They all led up to the quadruplex.
+
+
+
+Flattered by their success, Messrs. Harrington and
+
+Reiff, who owned with Edison the foreign patents for
+
+the new automatic system, entered into an arrangement
+
+with the British postal telegraph authorities
+
+for a trial of the system in England, involving its
+
+probable adoption if successful. Edison was sent to
+
+England to make the demonstration, in 1873, reporting
+
+there to Col. George E. Gouraud, who had been
+
+an associate in the United States Treasury with Mr.
+
+Harrington, and was now connected with the new
+
+enterprise. With one small satchel of clothes, three
+
+large boxes of instruments, and a bright fellow-
+
+telegrapher named Jack Wright, he took voyage on the
+
+Jumping Java, as she was humorously known, of
+
+the Cunard line. The voyage was rough and the
+
+little Java justified her reputation by jumping all
+
+over the ocean. "At the table," says Edison, "there
+
+were never more than ten or twelve people. I wondered
+
+at the time how it could pay to run an ocean
+
+steamer with so few people; but when we got into
+
+calm water and could see the green fields, I was
+
+astounded to see the number of people who appeared.
+
+There were certainly two or three hundred. I learned
+
+afterward that they were mostly going to the Vienna
+
+Exposition. Only two days could I get on deck, and
+
+on one of these a gentleman had a bad scalp wound
+
+from being thrown against the iron wall of a small
+
+smoking-room erected over a freight hatch."
+
+
+
+Arrived in London, Edison set up his apparatus at
+
+the Telegraph Street headquarters, and sent his companion
+
+to Liverpool with the instruments for that
+
+end. The condition of the test was that he was to
+
+send from Liverpool and receive in London, and to
+
+record at the rate of one thousand words per minute,
+
+five hundred words to be sent every half hour for six
+
+hours. Edison was given a wire and batteries to
+
+operate with, but a preliminary test soon showed that
+
+he was going to fail. Both wire and batteries were
+
+poor, and one of the men detailed by the authorities
+
+to watch the test remarked quietly, in a friendly way:
+
+"You are not going to have much show. They are
+
+going to give you an old Bridgewater Canal wire that
+
+is so poor we don't work it, and a lot of `sand batteries'
+
+at Liverpool."[4] The situation was rather depressing
+
+to the young American thus encountering,
+
+for the first time, the stolid conservatism and opposition
+
+to change that characterizes so much of official
+
+life and methods in Europe. "I thanked him," says
+
+Edison, "and hoped to reciprocate somehow. I knew
+
+I was in a hole. I had been staying at a little hotel
+
+in Covent Garden called the Hummums! and got
+
+nothing but roast beef and flounders, and my imagination
+
+was getting into a coma. What I needed was
+
+pastry. That night I found a French pastry shop
+
+in High Holborn Street and filled up. My imagination
+
+got all right. Early in the morning I saw
+
+Gouraud, stated my case, and asked if he would stand
+
+for the purchase of a powerful battery to send to
+
+Liverpool. He said `Yes.' I went immediately to
+
+Apps on the Strand and asked if he had a powerful
+
+battery. He said he hadn't; that all that he had
+
+was Tyndall's Royal Institution battery, which he
+
+supposed would not serve. I saw it--one hundred
+
+cells--and getting the price--one hundred guineas--
+
+hurried to Gouraud. He said `Go ahead.' I telegraphed
+
+to the man in Liverpool. He came on, got
+
+the battery to Liverpool, set up and ready, just two
+
+hours before the test commenced. One of the principal
+
+things that made the system a success was that
+
+the line was put to earth at the sending end through
+
+a magnet, and the extra current from this, passed to
+
+the line, served to sharpen the recording waves. This
+
+new battery was strong enough to pass a powerful
+
+current through the magnet without materially
+
+diminishing the strength of the line current."
+
+
+
+
+
+[4] The sand battery is now obsolete. In this type, the cell
+
+containing the elements was filled with sand, which was kept moist
+
+with an electrolyte.
+
+
+
+
+
+The test under these more favorable circumstances
+
+was a success. "The record was as perfect as copper
+
+plate, and not a single remark was made in the `time
+
+lost' column." Edison was now asked if he thought
+
+he could get a greater speed through submarine cables
+
+with this system than with the regular methods, and
+
+replied that he would like a chance to try it. For
+
+this purpose, twenty-two hundred miles of Brazilian
+
+cable then stored under water in tanks at the Greenwich
+
+works of the Telegraph Construction & Maintenance
+
+Company, near London, was placed at his
+
+disposal from 8 P.M. until 6 A.M. "This just suited
+
+me, as I preferred night-work. I got my apparatus
+
+down and set up, and then to get a preliminary idea
+
+of what the distortion of the signal would be, I sent
+
+a single dot, which should have been recorded upon my
+
+automatic paper by a mark about one-thirty-second of
+
+an inch long. Instead of that it was twenty-seven feet
+
+long! If I ever had any conceit, it vanished from
+
+my boots up. I worked on this cable more than two
+
+weeks, and the best I could do was two words per
+
+minute, which was only one-seventh of what the
+
+guaranteed speed of the cable should be when laid.
+
+What I did not know at the time was that a coiled
+
+cable, owing to induction, was infinitely worse than
+
+when laid out straight, and that my speed was as
+
+good as, if not better than, with the regular system;
+
+but no one told me this." While he was engaged on
+
+these tests Colonel Gouraud came down one night to
+
+visit him at the lonely works, spent a vigil with him,
+
+and toward morning wanted coffee. There was only
+
+one little inn near by, frequented by longshoremen and
+
+employees from the soap-works and cement-factories
+
+--a rough lot--and there at daybreak they went as
+
+soon as the other customers had left for work. "The
+
+place had a bar and six bare tables, and was simply
+
+infested with roaches. The only things that I ever
+
+could get were coffee made from burnt bread, with
+
+brown molasses-cake. I ordered these for Gouraud.
+
+The taste of the coffee, the insects, etc., were too
+
+much. He fainted. I gave him a big dose of gin,
+
+and this revived him. He went back to the works
+
+and waited until six when the day men came, and
+
+telegraphed for a carriage. He lost all interest in
+
+the experiments after that, and I was ordered back
+
+to America." Edison states, however, that the automatic
+
+was finally adopted in England and used for
+
+many years; indeed, is still in use there. But they
+
+took whatever was needed from his system, and he
+
+"has never had a cent from them."
+
+
+
+Arduous work was at once resumed at home on
+
+duplex and quadruplex telegraphy, just as though
+
+there had been no intermission or discouragement
+
+over dots twenty-seven feet long. A clue to his activity
+
+is furnished in the fact that in 1872 he had
+
+applied for thirty-eight patents in the class of teleg-
+
+raphy, and twenty-five in 1873; several of these
+
+being for duplex methods, on which he had experimented.
+
+The earlier apparatus had been built several
+
+years prior to this, as shown by a curious little
+
+item of news that appeared in the Telegrapher of
+
+January 30, 1869: "T. A. Edison has resigned his
+
+situation in the Western Union office, Boston, and will
+
+devote his time to bringing out his inventions."
+
+Oh, the supreme, splendid confidence of youth! Six
+
+months later, as we have seen, he had already made
+
+his mark, and the same journal, in October, 1869,
+
+could say: "Mr. Edison is a young man of the highest
+
+order of mechanical talent, combined with good
+
+scientific electrical knowledge and experience. He
+
+has already invented and patented a number of
+
+valuable and useful inventions, among which may
+
+be mentioned the best instrument for double transmission
+
+yet brought out." Not bad for a novice of
+
+twenty-two. It is natural, therefore, after his
+
+intervening work on indicators, stock tickers, automatic
+
+telegraphs, and typewriters, to find him harking back
+
+to duplex telegraphy, if, indeed, he can be said to have
+
+dropped it in the interval. It has always been one of
+
+the characteristic features of Edison's method of
+
+inventing that work in several lines has gone forward
+
+at the same time. No one line of investigation has
+
+ever been enough to occupy his thoughts fully; or
+
+to express it otherwise, he has found rest in turning
+
+from one field of work to another, having absolutely
+
+no recreations or hobbies, and not needing them. It
+
+may also be said that, once entering it, Mr. Edison
+
+has never abandoned any field of work. He may
+
+change the line of attack; he may drop the subject
+
+for a time; but sooner or later the note-books or the
+
+Patent Office will bear testimony to the reminiscent
+
+outcropping of latent thought on the matter. His
+
+attention has shifted chronologically, and by process
+
+of evolution, from one problem to another, and some
+
+results are found to be final; but the interest of the
+
+man in the thing never dies out. No one sees more
+
+vividly than he the fact that in the interplay of the
+
+arts one industry shapes and helps another, and that
+
+no invention lives to itself alone.
+
+
+
+The path to the quadruplex lay through work on
+
+the duplex, which, suggested first by Moses G. Farmer
+
+in 1852, had been elaborated by many ingenious
+
+inventors, notably in this country by Stearns, before
+
+Edison once again applied his mind to it. The different
+
+methods of such multiple transmission--namely,
+
+the simultaneous dispatch of the two communications
+
+in opposite directions over the same wire, or the
+
+dispatch of both at once in the same direction--gave
+
+plenty of play to ingenuity. Prescott's Elements of
+
+the Electric Telegraph, a standard work in its day,
+
+described "a method of simultaneous transmission
+
+invented by T. A. Edison, of New Jersey, in 1873,"
+
+and says of it: "Its peculiarity consists in the fact
+
+that the signals are transmitted in one direction by
+
+reversing the polarity of a constant current, and in
+
+the opposite direction by increasing or decreasing
+
+the strength of the same current." Herein lay the
+
+germ of the Edison quadruplex. It is also noted that
+
+"In 1874 Edison invented a method of simultaneous
+
+transmission by induced currents, which has given
+
+very satisfactory results in experimental trials." Interest
+
+in the duplex as a field of invention dwindled,
+
+however, as the quadruplex loomed up, for while
+
+the one doubled the capacity of a circuit, the latter
+
+created three "phantom wires," and thus quadruplexed
+
+the working capacity of any line to which
+
+it was applied. As will have been gathered from the
+
+above, the principle embodied in the quadruplex is
+
+that of working over the line with two currents from
+
+each end that differ from each other in strength or
+
+nature, so that they will affect only instruments
+
+adapted to respond to just such currents and no
+
+others; and by so arranging the receiving apparatus
+
+as not to be affected by the currents transmitted from
+
+its own end of the line. Thus by combining instruments
+
+that respond only to variation in the strength
+
+of current from the distant station, with instruments
+
+that respond only to the change in the direction of
+
+current from the distant station, and by grouping a
+
+pair of these at each end of the line, the quadruplex
+
+is the result. Four sending and four receiving operators
+
+are kept busy at each end, or eight in all. Aside
+
+from other material advantages, it is estimated that
+
+at least from $15,000,000 to $20,000,000 has been
+
+saved by the Edison quadruplex merely in the cost
+
+of line construction in America.
+
+
+
+The quadruplex has not as a rule the same working
+
+efficiency that four separate wires have. This is due
+
+to the fact that when one of the receiving operators
+
+is compelled to "break" the sending operator for any
+
+reason, the "break" causes the interruption of the
+
+work of eight operators, instead of two, as would be
+
+the case on a single wire. The working efficiency of
+
+the quadruplex, therefore, with the apparatus in good
+
+working condition, depends entirely upon the skill
+
+of the operators employed to operate it. But this
+
+does not reflect upon or diminish the ingenuity required
+
+for its invention. Speaking of the problem
+
+involved, Edison said some years later to Mr. Upton,
+
+his mathematical assistant, that "he always considered
+
+he was only working from one room to another.
+
+Thus he was not confused by the amount of wire and
+
+the thought of distance."
+
+
+
+The immense difficulties of reducing such a system
+
+to practice may be readily conceived, especially when
+
+it is remembered that the "line" itself, running across
+
+hundreds of miles of country, is subject to all manner
+
+of atmospheric conditions, and varies from moment
+
+to moment in its ability to carry current, and also
+
+when it is borne in mind that the quadruplex requires
+
+at each end of the line a so-called "artificial line,"
+
+which must have the exact resistance of the working
+
+line and must be varied with the variations in resistance
+
+of the working line. At this juncture other
+
+schemes were fermenting in his brain; but the
+
+quadruplex engrossed him. "This problem was of most
+
+difficult and complicated kind, and I bent all my
+
+energies toward its solution. It required a peculiar
+
+effort of the mind, such as the imagining of eight
+
+different things moving simultaneously on a mental
+
+plane, without anything to demonstrate their
+
+efficiency." It is perhaps hardly to be wondered at
+
+that when notified he would have to pay 12 1/2 per cent.
+
+extra if his taxes in Newark were not at once paid,
+
+he actually forgot his own name when asked for it
+
+suddenly at the City Hall, lost his place in the line,
+
+and, the fatal hour striking, had to pay the surcharge
+
+after all!
+
+
+
+So important an invention as the quadruplex could
+
+not long go begging, but there were many difficulties
+
+connected with its introduction, some of which are
+
+best described in Mr. Edison's own words: "Around
+
+1873 the owners of the Automatic Telegraph Company
+
+commenced negotiations with Jay Gould for
+
+the purchase of the wires between New York and
+
+Washington, and the patents for the system, then in
+
+successful operation. Jay Gould at that time controlled
+
+the Atlantic & Pacific Telegraph Company,
+
+and was competing with the Western Union and
+
+endeavoring to depress Western Union stock on the
+
+Exchange. About this time I invented the quadruplex.
+
+I wanted to interest the Western Union Telegraph
+
+Company in it, with a view of selling it, but
+
+was unsuccessful until I made an arrangement with
+
+the chief electrician of the company, so that he could
+
+be known as a joint inventor and receive a portion of
+
+the money. At that time I was very short of money,
+
+and needed it more than glory. This electrician
+
+appeared to want glory more than money, so it was an
+
+easy trade. I brought my apparatus over and was
+
+given a separate room with a marble-tiled floor,
+
+which, by-the-way, was a very hard kind of floor to
+
+sleep on, and started in putting on the finishing
+
+touches.
+
+
+
+"After two months of very hard work, I got a
+
+detail at regular times of eight operators, and we
+
+got it working nicely from one room to another over
+
+a wire which ran to Albany and back. Under certain
+
+conditions of weather, one side of the quadruplex
+
+would work very shakily, and I had not succeeded
+
+in ascertaining the cause of the trouble. On a certain
+
+day, when there was a board meeting of the company,
+
+I was to make an exhibition test. The day arrived.
+
+I had picked the best operators in New York, and
+
+they were familiar with the apparatus. I arranged
+
+that if a storm occurred, and the bad side got shaky,
+
+they should do the best they could and draw freely
+
+on their imaginations. They were sending old messages.
+
+About 1, o'clock everything went wrong, as
+
+there was a storm somewhere near Albany, and the
+
+bad side got shaky. Mr. Orton, the president, and
+
+Wm. H. Vanderbilt and the other directors came in.
+
+I had my heart trying to climb up around my oesophagus.
+
+I was paying a sheriff five dollars a day to
+
+withhold judgment which had been entered against
+
+me in a case which I had paid no attention to; and if
+
+the quadruplex had not worked before the president,
+
+I knew I was to have trouble and might lose my
+
+machinery. The New York Times came out next
+
+day with a full account. I was given $5000 as part
+
+payment for the invention, which made me easy, and
+
+I expected the whole thing would be closed up. But
+
+Mr. Orton went on an extended tour just about that
+
+time. I had paid for all the experiments on the
+
+quadruplex and exhausted the money, and I was
+
+again in straits. In the mean time I had introduced
+
+the apparatus on the lines of the company, where it
+
+was very successful.
+
+
+
+"At that time the general superintendent of the
+
+Western Union was Gen. T. T. Eckert (who had been
+
+Assistant Secretary of War with Stanton). Eckert
+
+was secretly negotiating with Gould to leave the
+
+Western Union and take charge of the Atlantic &
+
+Pacific--Gould's company. One day Eckert called
+
+me into his office and made inquiries about money
+
+matters. I told him Mr. Orton had gone off and left
+
+me without means, and I was in straits. He told me
+
+I would never get another cent, but that he knew a
+
+man who would buy it. I told him of my arrangement
+
+with the electrician, and said I could not sell
+
+it as a whole to anybody; but if I got enough for it,
+
+I would sell all my interest in any SHARE I might have.
+
+He seemed to think his party would agree to this. I
+
+had a set of quadruplex over in my shop, 10 and 12
+
+Ward Street, Newark, and he arranged to bring him
+
+over next evening to see the apparatus. So the next
+
+morning Eckert came over with Jay Gould and
+
+introduced him to me. This was the first time I had
+
+ever seen him. I exhibited and explained the
+
+apparatus, and they departed. The next day Eckert
+
+sent for me, and I was taken up to Gould's house,
+
+which was near the Windsor Hotel, Fifth Avenue.
+
+In the basement he had an office. It was in the
+
+evening, and we went in by the servants' entrance,
+
+as Eckert probably feared that he was watched.
+
+Gould started in at once and asked me how much I
+
+wanted. I said: `Make me an offer.' Then he said:
+
+`I will give you $30,000.' I said: `I will sell any
+
+interest I may have for that money,' which was something
+
+more than I thought I could get. The next
+
+morning I went with Gould to the office of his lawyers,
+
+Sherman & Sterling, and received a check for
+
+$30,000, with a remark by Gould that I had got the
+
+steamboat Plymouth Rock, as he had sold her for
+
+$30,000 and had just received the check. There
+
+was a big fight on between Gould's company and the
+
+Western Union, and this caused more litigation.
+
+The electrician, on account of the testimony involved,
+
+lost his glory. The judge never decided the case,
+
+but went crazy a few months afterward." It was
+
+obviously a characteristically shrewd move on the
+
+part of Mr. Gould to secure an interest in the quadruplex,
+
+as a factor in his campaign against the Western
+
+Union, and as a decisive step toward his control of
+
+that system, by the subsequent merger that included
+
+not only the Atlantic & Pacific Telegraph Company,
+
+but the American Union Telegraph Company.
+
+
+
+Nor was Mr. Gould less appreciative of the value of
+
+Edison's automatic system. Referring to matters
+
+that will be taken up later in the narrative, Edison
+
+says: "After this Gould wanted me to help install the
+
+automatic system in the Atlantic & Pacific company,
+
+of which General Eckert had been elected president,
+
+the company having bought the Automatic Telegraph
+
+Company. I did a lot of work for this company
+
+making automatic apparatus in my shop at Newark.
+
+About this time I invented a district messenger call-
+
+box system, and organized a company called the
+
+Domestic Telegraph Company, and started in to install
+
+the system in New York. I had great difficulty
+
+in getting subscribers, having tried several canvassers,
+
+who, one after the other, failed to get sub-
+
+scribers. When I was about to give it up, a test
+
+operator named Brown, who was on the Automatic
+
+Telegraph wire between New York and Washington,
+
+which passed through my Newark shop, asked permission
+
+to let him try and see if he couldn't get subscribers.
+
+I had very little faith in his ability to get
+
+any, but I thought I would give him a chance, as he
+
+felt certain of his ability to succeed. He started in,
+
+and the results were surprising. Within a month he
+
+had procured two hundred subscribers, and the company
+
+was a success. I have never quite understood
+
+why six men should fail absolutely, while the seventh
+
+man should succeed. Perhaps hypnotism would
+
+account for it. This company was sold out to the
+
+Atlantic & Pacific company." As far back as 1872,
+
+Edison had applied for a patent on district messenger
+
+signal boxes, but it was not issued until
+
+January, 1874, another patent being granted in
+
+September of the same year. In this field of telegraph
+
+application, as in others, Edison was a very early
+
+comer, his only predecessor being the fertile and
+
+ingenious Callahan, of stock-ticker fame. The first
+
+president of the Gold & Stock Telegraph Company,
+
+Elisha W. Andrews, had resigned in 1870 in order to
+
+go to England to introduce the stock ticker in London.
+
+He lived in Englewood, New Jersey, and the
+
+very night he had packed his trunk the house was
+
+burglarized. Calling on his nearest friend the next
+
+morning for even a pair of suspenders, Mr. Andrews
+
+was met with regrets of inability, because the burglars
+
+had also been there. A third and fourth friend in
+
+the vicinity was appealed to with the same dishearten-
+
+ing reply of a story of wholesale spoliation. Mr.
+
+Callahan began immediately to devise a system of
+
+protection for Englewood; but at that juncture a
+
+servant-girl who had been for many years with a
+
+family on the Heights in Brooklyn went mad suddenly
+
+and held an aged widow and her daughter as
+
+helpless prisoners for twenty-four hours without
+
+food or water. This incident led to an extension of
+
+the protective idea, and very soon a system was
+
+installed in Brooklyn with one hundred subscribers.
+
+Out of this grew in turn the district messenger system,
+
+for it was just as easy to call a messenger as to sound
+
+a fire-alarm or summon the police. To-day no large
+
+city in America is without a service of this character,
+
+but its function was sharply limited by the introduction
+
+of the telephone.
+
+
+
+Returning to the automatic telegraph it is interesting
+
+to note that so long as Edison was associated with
+
+it as a supervising providence it did splendid work,
+
+which renders the later neglect of automatic or
+
+"rapid telegraphy" the more remarkable. Reid's
+
+standard Telegraph in America bears astonishing testimony
+
+on this point in 1880, as follows: "The Atlantic
+
+& Pacific Telegraph Company had twenty-two
+
+automatic stations. These included the chief cities
+
+on the seaboard, Buffalo, Chicago, and Omaha. The
+
+through business during nearly two years was largely
+
+transmitted in this way. Between New York and
+
+Boston two thousand words a minute have been sent.
+
+The perforated paper was prepared at the rate of
+
+twenty words per minute. Whatever its demerits
+
+this system enabled the Atlantic & Pacific company
+
+to handle a much larger business during 1875 and 1876
+
+than it could otherwise have done with its limited
+
+number of wires in their then condition." Mr. Reid
+
+also notes as a very thorough test of the perfect
+
+practicability of the system, that it handled the
+
+President's message, December 3, 1876, of 12,600 words
+
+with complete success. This long message was filed
+
+at Washington at 1.05 and delivered in New York at
+
+2.07. The first 9000 words were transmitted in
+
+forty-five minutes. The perforated strips were prepared
+
+in thirty minutes by ten persons, and duplicated
+
+by nine copyists. But to-day, nearly thirty-
+
+five years later, telegraphy in America is still
+
+practically on a basis of hand transmission!
+
+
+
+Of this period and his association with Jay Gould,
+
+some very interesting glimpses are given by Edison.
+
+"While engaged in putting in the automatic system,
+
+I saw a great deal of Gould, and frequently went
+
+uptown to his office to give information. Gould had
+
+no sense of humor. I tried several times to get off
+
+what seemed to me a funny story, but he failed to see
+
+any humor in them. I was very fond of stories, and
+
+had a choice lot, always kept fresh, with which I
+
+could usually throw a man into convulsions. One
+
+afternoon Gould started in to explain the great future
+
+of the Union Pacific Railroad, which he then controlled.
+
+He got a map, and had an immense amount
+
+of statistics. He kept at it for over four hours, and
+
+got very enthusiastic. Why he should explain to me,
+
+a mere inventor, with no capital or standing, I couldn't
+
+make out. He had a peculiar eye, and I made up
+
+my mind that there was a strain of insanity some-
+
+where. This idea was strengthened shortly afterward
+
+when the Western Union raised the monthly
+
+rental of the stock tickers. Gould had one in his
+
+house office, which he watched constantly. This he
+
+had removed, to his great inconvenience, because the
+
+price had been advanced a few dollars! He railed over
+
+it. This struck me as abnormal. I think Gould's
+
+success was due to abnormal development. He certainly
+
+had one trait that all men must have who want
+
+to succeed. He collected every kind of information
+
+and statistics about his schemes, and had all the
+
+data. His connection with men prominent in official
+
+life, of which I was aware, was surprising to me. His
+
+conscience seemed to be atrophied, but that may be
+
+due to the fact that he was contending with men
+
+who never had any to be atrophied. He worked incessantly
+
+until 12 or 1 o'clock at night. He took no
+
+pride in building up an enterprise. He was after
+
+money, and money only. Whether the company
+
+was a success or a failure mattered not to him. After
+
+he had hammered the Western Union through his
+
+opposition company and had tired out Mr. Vanderbilt,
+
+the latter retired from control, and Gould went
+
+in and consolidated his company and controlled the
+
+Western Union. He then repudiated the contract
+
+with the Automatic Telegraph people, and they never
+
+received a cent for their wires or patents, and I lost
+
+three years of very hard labor. But I never had any
+
+grudge against him, because he was so able in his line,
+
+and as long as my part was successful the money with
+
+me was a secondary consideration. When Gould got
+
+the Western Union I knew no further progress in
+
+telegraphy was possible, and I went into other lines."
+
+The truth is that General Eckert was a conservative
+
+--even a reactionary--and being prejudiced like many
+
+other American telegraph managers against "machine
+
+telegraphy," threw out all such improvements.
+
+
+
+The course of electrical history has been variegated
+
+by some very remarkable litigation; but none
+
+was ever more extraordinary than that referred to
+
+here as arising from the transfer of the Automatic
+
+Telegraph Company to Mr. Jay Gould and the
+
+Atlantic & Pacific Telegraph Company. The terms
+
+accepted by Colonel Reiff from Mr. Gould, on December
+
+30, 1874, provided that the purchasing telegraph
+
+company should increase its capital to $15,000,000,
+
+of which the Automatic interests were to receive
+
+$4,000,000 for their patents, contracts, etc. The
+
+stock was then selling at about 25, and in the later
+
+consolidation with the Western Union "went in"
+
+at about 60; so that the real purchase price was not
+
+
+less than $1,000,000 in cash. There was a private
+
+arrangement in writing with Mr. Gould that he was
+
+to receive one-tenth of the "result" to the Automatic
+
+group, and a tenth of the further results secured
+
+at home and abroad. Mr. Gould personally bought
+
+up and gave money and bonds for one or two individual
+
+interests on the above basis, including that
+
+of Harrington, who in his representative capacity
+
+executed assignments to Mr. Gould. But payments
+
+were then stopped, and the other owners were left
+
+without any compensation, although all that belonged
+
+to them in the shape of property and patents
+
+was taken over bodily into Atlantic & Pacific hands,
+
+and never again left them. Attempts at settlement
+
+were made in their behalf, and dragged wearily,
+
+due apparently to the fact that the plans were
+
+blocked by General Eckert, who had in some
+
+manner taken offence at a transaction effected
+
+without his active participation in all the details.
+
+Edison, who became under the agreement the electrician
+
+of the Atlantic & Pacific Telegraph Company,
+
+has testified to the unfriendly attitude assumed toward
+
+him by General Eckert, as president. In a
+
+graphic letter from Menlo Park to Mr. Gould, dated
+
+February 2, 1877, Edison makes a most vigorous and
+
+impassioned complaint of his treatment, "which,
+
+acting cumulatively, was a long, unbroken
+
+disappointment to me"; and he reminds Mr. Gould of
+
+promises made to him the day the transfer had been
+
+effected of Edison's interest in the quadruplex. The
+
+situation was galling to the busy, high-spirited young
+
+inventor, who, moreover, "had to live"; and it led
+
+to his resumption of work for the Western Union
+
+Telegraph Company, which was only too glad to get
+
+him back. Meantime, the saddened and perplexed
+
+Automatic group was left unpaid, and it was not
+
+until 1906, on a bill filed nearly thirty years before,
+
+that Judge Hazel, in the United States Circuit Court for
+
+the Southern District of New York, found strongly
+
+in favor of the claimants and ordered an accounting.
+
+The court held that there had been a most wrongful
+
+appropriation of the patents, including alike those
+
+relating to the automatic, the duplex, and the quadruplex,
+
+all being included in the general arrangement
+
+under which Mr. Gould had held put his tempting
+
+bait of $4,000,000. In the end, however, the complainant
+
+had nothing to show for all his struggle,
+
+as the master who made the accounting set the
+
+damages at one dollar!
+
+
+
+Aside from the great value of the quadruplex,
+
+saving millions of dollars, for a share in which Edison
+
+received $30,000, the automatic itself is described
+
+as of considerable utility by Sir William Thomson
+
+in his juror report at the Centennial Exposition of
+
+1876, recommending it for award. This leading
+
+physicist of his age, afterward Lord Kelvin, was an
+
+adept in telegraphy, having made the ocean cable
+
+talk, and he saw in Edison's "American Automatic,"
+
+as exhibited by the Atlantic & Pacific company, a
+
+most meritorious and useful system. With the aid
+
+of Mr. E. H. Johnson he made exhaustive tests, carrying
+
+away with him to Glasgow University the surprising
+
+records that he obtained. His official report
+
+closes thus: "The electromagnetic shunt with soft
+
+iron core, invented by Mr. Edison, utilizing Professor
+
+Henry's discovery of electromagnetic induction in a
+
+single circuit to produce a momentary reversal of the
+
+line current at the instant when the battery is thrown
+
+off and so cut off the chemical marks sharply at the
+
+proper instant, is the electrical secret of the great
+
+speed he has achieved. The main peculiarities of
+
+Mr. Edison's automatic telegraph shortly stated in
+
+conclusion are: (1) the perforator; (2) the contact-
+
+maker; (3) the electromagnetic shunt; and (4) the
+
+ferric cyanide of iron solution. It deserves award as
+
+a very important step in land telegraphy." The attitude
+
+thus disclosed toward Mr. Edison's work was
+
+never changed, except that admiration grew as fresh
+
+inventions were brought forward. To the day of his
+
+death Lord Kelvin remained on terms of warmest
+
+friendship with his American co-laborer, with whose
+
+genius he thus first became acquainted at Philadelphia
+
+in the environment of Franklin.
+
+
+
+It is difficult to give any complete idea of the activity
+
+maintained at the Newark shops during these
+
+anxious, harassed years, but the statement that at
+
+one time no fewer than forty-five different inventions
+
+were being worked upon, will furnish some notion of
+
+the incandescent activity of the inventor and his
+
+assistants. The hours were literally endless; and
+
+upon one occasion, when the order was in hand for
+
+a large quantity of stock tickers, Edison locked his
+
+men in until the job had been finished of making
+
+the machine perfect, and "all the bugs taken out,"
+
+which meant sixty hours of unintermitted struggle
+
+with the difficulties. Nor were the problems and inventions
+
+all connected with telegraphy. On the contrary,
+
+Edison's mind welcomed almost any new suggestion
+
+as a relief from the regular work in hand.
+
+Thus: "Toward the latter part of 1875, in the Newark
+
+shop, I invented a device for multiplying copies of
+
+letters, which I sold to Mr. A. B. Dick, of Chicago,
+
+and in the years since it has been universally introduced
+
+throughout the world. It is called the `Mimeograph.'
+
+I also invented devices for and introduced
+
+paraffin paper, now used universally for wrapping up
+
+candy, etc." The mimeograph employs a pointed
+
+stylus, used as in writing with a lead-pencil, which
+
+is moved over a kind of tough prepared paper placed
+
+on a finely grooved steel plate. The writing is thus
+
+traced by means of a series of minute perforations in
+
+the sheet, from which, as a stencil, hundreds of copies
+
+can be made. Such stencils can be prepared on
+
+typewriters. Edison elaborated this principle in two
+
+other forms--one pneumatic and one electric--the
+
+latter being in essence a reciprocating motor. Inside
+
+the barrel of the electric pen a little plunger, carrying
+
+the stylus, travels to and fro at a very high rate
+
+of speed, due to the attraction and repulsion of the
+
+solenoid coils of wire surrounding it; and as the hand
+
+of the writer guides it the pen thus makes its record
+
+in a series of very minute perforations in the paper.
+
+The current from a small battery suffices to energize
+
+the pen, and with the stencil thus made hundreds of
+
+copies of the document can be furnished. As a matter
+
+of fact, as many as three thousand copies have been
+
+made from a single mimeographic stencil of this
+
+character.
+

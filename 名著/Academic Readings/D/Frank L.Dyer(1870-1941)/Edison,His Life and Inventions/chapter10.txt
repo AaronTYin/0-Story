@@ -1,0 +1,2073 @@
+
+
+
+
+
+
+CHAPTER X
+
+
+
+THE PHONOGRAPH
+
+
+
+AT the opening of the Electrical Show in New
+
+York City in October, 1908, to celebrate the
+
+jubilee of the Atlantic Cable and the first quarter
+
+century of lighting with the Edison service on
+
+Manhattan Island, the exercises were all conducted by
+
+means of the Edison phonograph. This included the
+
+dedicatory speech of Governor Hughes, of New York;
+
+the modest remarks of Mr. Edison, as president; the
+
+congratulations of the presidents of several national
+
+electric bodies, and a number of vocal and instrumental
+
+selections of operatic nature. All this was
+
+heard clearly by a very large audience, and was
+
+repeated on other evenings. The same speeches were
+
+used again phonographically at the Electrical Show
+
+in Chicago in 1909--and now the records are
+
+preserved for reproduction a hundred or a thousand
+
+years hence. This tour de force, never attempted
+
+before, was merely an exemplification of the value of
+
+the phonograph not only in establishing at first hand
+
+the facts of history, but in preserving the human
+
+voice. What would we not give to listen to the very
+
+accents and tones of the Sermon on the Mount, the
+
+orations of Demosthenes, the first Pitt's appeal for
+
+American liberty, the Farewell of Washington, or the
+
+Address at Gettysburg? Until Edison made his wonderful
+
+invention in 1877, the human race was entirely
+
+without means for preserving or passing on to posterity
+
+its own linguistic utterances or any other vocal
+
+sound. We have some idea how the ancients looked
+
+and felt and wrote; the abundant evidence takes us
+
+back to the cave-dwellers. But all the old languages
+
+are dead, and the literary form is their embalmment.
+
+We do not even know definitely how Shakespeare's
+
+and Goldsmith's plays were pronounced on the stage
+
+in the theatres of the time; while it is only a guess
+
+that perhaps Chaucer would sound much more modern
+
+than he scans.
+
+
+
+The analysis of sound, which owes so much to
+
+Helmholtz, was one step toward recording; and the
+
+various means of illustrating the phenomena of sound
+
+to the eye and ear, prior to the phonograph, were all
+
+ingenious. One can watch the dancing little flames
+
+of Koenig, and see a voice expressed in tongues of
+
+fire; but the record can only be photographic. In
+
+like manner, the simple phonautograph of Leon Scott,
+
+invented about 1858, records on a revolving cylinder
+
+of blackened paper the sound vibrations transmitted
+
+through a membrane to which a tiny stylus is attached;
+
+so that a human mouth uses a pen and inscribes
+
+its sign vocal. Yet after all we are just as
+
+far away as ever from enabling the young actors at
+
+Harvard to give Aristophanes with all the true, subtle
+
+intonation and inflection of the Athens of 400 B.C.
+
+The instrument is dumb. Ingenuity has been shown
+
+also in the invention of "talking-machines," like
+
+Faber's, based on the reed organ pipe. These autom-
+
+ata can be made by dexterous manipulation to jabber
+
+a little, like a doll with its monotonous "ma-ma," or
+
+a cuckoo clock; but they lack even the sterile utility
+
+of the imitative art of ventriloquism. The real great
+
+invention lies in creating devices that shall be able
+
+to evoke from tinfoil, wax, or composition at any
+
+time to-day or in the future the sound that once was
+
+as evanescent as the vibrations it made on the air.
+
+
+
+Contrary to the general notion, very few of the
+
+great modern inventions have been the result of a
+
+sudden inspiration by which, Minerva-like, they have
+
+sprung full-fledged from their creators' brain; but,
+
+on the contrary, they have been evolved by slow and
+
+gradual steps, so that frequently the final advance
+
+has been often almost imperceptible. The Edison
+
+phonograph is an important exception to the general
+
+rule; not, of course, the phonograph of the present
+
+day with all of its mechanical perfection, but as an
+
+instrument capable of recording and reproducing
+
+sound. Its invention has been frequently attributed
+
+to the discovery that a point attached to a telephone
+
+diaphragm would, under the effect of sound-waves,
+
+vibrate with sufficient force to prick the finger. The
+
+story, though interesting, is not founded on fact;
+
+but, if true, it is difficult to see how the discovery in
+
+question could have contributed materially to the
+
+ultimate accomplishment. To a man of Edison's perception
+
+it is absurd to suppose that the effect of the
+
+so-called discovery would not have been made as a
+
+matter of deduction long before the physical sensation
+
+was experienced. As a matter of fact, the invention
+
+of the phonograph was the result of pure reason.
+
+Some time prior to 1877, Edison had been experimenting
+
+on an automatic telegraph in which the
+
+letters were formed by embossing strips of paper
+
+with the proper arrangement of dots and dashes.
+
+By drawing this strip beneath a contact lever, the
+
+latter was actuated so as to control the circuits and
+
+send the desired signals over the line. It was observed
+
+that when the strip was moved very rapidly
+
+the vibration of the lever resulted in the production
+
+of an audible note. With these facts before him,
+
+Edison reasoned that if the paper strip could be imprinted
+
+with elevations and depressions representative
+
+of sound-waves, they might be caused to actuate a
+
+diaphragm so as to reproduce the corresponding
+
+sounds. The next step in the line of development
+
+was to form the necessary undulations on the strip,
+
+and it was then reasoned that original sounds themselves
+
+might be utilized to form a graphic record by
+
+actuating a diaphragm and causing a cutting or indenting
+
+point carried thereby to vibrate in contact
+
+with a moving surface, so as to cut or indent the
+
+record therein. Strange as it may seem, therefore,
+
+and contrary to the general belief, the phonograph
+
+was developed backward, the production of the sounds
+
+being of prior development to the idea of actually
+
+recording them.
+
+
+
+Mr. Edison's own account of the invention of the
+
+phonograph is intensely interesting. "I was
+
+experimenting," he says, "on an automatic method of
+
+recording telegraph messages on a disk of paper laid
+
+on a revolving platen, exactly the same as the disk
+
+talking-machine of to-day. The platen had a spiral
+
+groove on its surface, like the disk. Over this was
+
+placed a circular disk of paper; an electromagnet
+
+with the embossing point connected to an arm
+
+travelled over the disk; and any signals given
+
+through the magnets were embossed on the disk of
+
+paper. If this disk was removed from the machine
+
+and put on a similar machine provided with a contact
+
+point, the embossed record would cause the
+
+signals to be repeated into another wire. The ordinary
+
+speed of telegraphic signals is thirty-five to
+
+forty words a minute; but with this machine several
+
+hundred words were possible.
+
+
+
+"From my experiments on the telephone I knew
+
+of the power of a diaphragm to take up sound vibrations,
+
+as I had made a little toy which, when you
+
+recited loudly in the funnel, would work a pawl connected
+
+to the diaphragm; and this engaging a ratchet-
+
+wheel served to give continuous rotation to a pulley.
+
+This pulley was connected by a cord to a little paper
+
+toy representing a man sawing wood. Hence, if one
+
+shouted: `Mary had a little lamb,' etc., the paper
+
+man would start sawing wood. I reached the conclusion
+
+that if I could record the movements of the
+
+diaphragm properly, I could cause such record to
+
+reproduce the original movements imparted to the
+
+diaphragm by the voice, and thus succeed in recording
+
+and reproducing the human voice.
+
+
+
+"Instead of using a disk I designed a little machine
+
+using a cylinder provided with grooves around the
+
+surface. Over this was to be placed tinfoil, which
+
+easily received and recorded the movements of the
+
+diaphragm. A sketch was made, and the piece-work
+
+price, $18, was marked on the sketch. I was in the
+
+habit of marking the price I would pay on each
+
+sketch. If the workman lost, I would pay his regular
+
+wages; if he made more than the wages, he kept it.
+
+The workman who got the sketch was John Kruesi.
+
+I didn't have much faith that it would work, expecting
+
+that I might possibly hear a word or so that
+
+would give hope of a future for the idea. Kruesi,
+
+when he had nearly finished it, asked what it was for.
+
+I told him I was going to record talking, and then
+
+have the machine talk back. He thought it absurd.
+
+However, it was finished, the foil was put on; I then
+
+shouted `Mary had a little lamb,' etc. I adjusted the
+
+reproducer, and the machine reproduced it perfectly.
+
+I was never so taken aback in my life. Everybody
+
+was astonished. I was always afraid of things that
+
+worked the first time. Long experience proved that
+
+there were great drawbacks found generally before
+
+they could be got commercial; but here was something
+
+there was no doubt of."
+
+
+
+No wonder that honest John Kruesi, as he stood
+
+and listened to the marvellous performance of the
+
+simple little machine he had himself just finished,
+
+ejaculated in an awe-stricken tone: "Mein Gott im
+
+Himmel!" And yet he had already seen Edison do
+
+a few clever things. No wonder they sat up all night
+
+fixing and adjusting it so as to get better and better
+
+results--reciting and singing, trying each other's
+
+voices, and then listening with involuntary awe as
+
+the words came back again and again, just as long
+
+as they were willing to revolve the little cylinder
+
+with its dotted spiral indentations in the tinfoil under
+
+the vibrating stylus of the reproducing diaphragm.
+
+It took a little time to acquire the knack of turning
+
+the crank steadily while leaning over the recorder to
+
+talk into the machine; and there was some deftness
+
+required also in fastening down the tinfoil on the
+
+cylinder where it was held by a pin running in a
+
+longitudinal slot. Paraffined paper appears also to
+
+have been experimented with as an impressible
+
+material. It is said that Carman, the foreman of the
+
+machine shop, had gone the length of wagering Edison
+
+a box of cigars that the device would not work. All
+
+the world knows that he lost.
+
+
+
+The original Edison phonograph thus built by
+
+Kruesi is preserved in the South Kensington Museum,
+
+London. That repository can certainly have no
+
+greater treasure of its kind. But as to its immediate
+
+use, the inventor says: "That morning I took it over
+
+to New York and walked into the office of the Scientific
+
+American, went up to Mr. Beach's desk, and said I
+
+had something to show him. He asked what it was.
+
+I told him I had a machine that would record and
+
+reproduce the human voice. I opened the package,
+
+set up the machine and recited, `Mary had a little
+
+lamb,' etc. Then I reproduced it so that it could
+
+be heard all over the room. They kept me at it until
+
+the crowd got so great Mr. Beach was afraid the
+
+floor would collapse; and we were compelled to stop.
+
+The papers next morning contained columns. None
+
+of the writers seemed to understand how it was done.
+
+I tried to explain, it was so very simple, but the results
+
+were so surprising they made up their minds probably
+
+that they never would understand it--and they didn't.
+
+
+
+"I started immediately making several larger and
+
+better machines, which I exhibited at Menlo Park to
+
+crowds. The Pennsylvania Railroad ran special
+
+trains. Washington people telegraphed me to come
+
+on. I took a phonograph to Washington and exhibited
+
+it in the room of James G. Blaine's niece
+
+(Gail Hamilton); and members of Congress and
+
+notable people of that city came all day long until
+
+late in the evening. I made one break. I recited
+
+`Mary,' etc., and another ditty:
+
+
+
+ `There was a little girl, who had a little curl
+
+     Right in the middle of her forehead;
+
+ And when she was good she was very, very good,
+
+     But when she was bad she was horrid.'
+
+
+
+It will be remembered that Senator Roscoe Conkling,
+
+then very prominent, had a curl of hair on his forehead;
+
+and all the caricaturists developed it abnormally.
+
+He was very sensitive about the subject.
+
+When he came in he was introduced; but being rather
+
+deaf, I didn't catch his name, but sat down and
+
+started the curl ditty. Everybody tittered, and I
+
+was told that Mr. Conkling was displeased. About
+
+11 o'clock at night word was received from President
+
+Hayes that he would be very much pleased if I would
+
+come up to the White House. I was taken there,
+
+and found Mr. Hayes and several others waiting.
+
+Among them I remember Carl Schurz, who was playing
+
+the piano when I entered the room. The exhibition
+
+continued till about 12.30 A.M., when Mrs. Hayes
+
+and several other ladies, who had been induced to
+
+get up and dress, appeared. I left at 3.30 A,M,
+
+
+
+"For a long time some people thought there was
+
+trickery. One morning at Menlo Park a gentleman
+
+came to the laboratory and asked to see the phonograph.
+
+It was Bishop Vincent, who helped Lewis
+
+Miller found the Chautauqua I exhibited it, and
+
+then he asked if he could speak a few words. I put
+
+on a fresh foil and told him to go ahead. He
+
+commenced to recite Biblical names with immense
+
+rapidity. On reproducing it he said: `I am satisfied,
+
+now. There isn't a man in the United States who
+
+could recite those names with the same rapidity.' "
+
+
+
+The phonograph was now fairly launched as a
+
+world sensation, and a reference to the newspapers
+
+of 1878 will show the extent to which it and Edison
+
+were themes of universal discussion. Some of the
+
+press notices of the period were most amazing--and
+
+amusing. As though the real achievements of
+
+this young man, barely thirty, were not tangible
+
+and solid enough to justify admiration of his genius,
+
+the "yellow journalists" of the period began busily
+
+to create an "Edison myth," with gross absurdities of
+
+assertion and attribution from which the modest
+
+subject of it all has not yet ceased to suffer with
+
+unthinking people. A brilliantly vicious example of
+
+this method of treatment is to be found in the Paris
+
+Figaro of that year, which under the appropriate
+
+title of "This Astounding Eddison" lay bare before
+
+the French public the most startling revelations as
+
+to the inventor's life and character. "It should be
+
+understood," said this journal, "that Mr. Eddison
+
+does not belong to himself. He is the property of
+
+the telegraph company which lodges him in New
+
+York at a superb hotel; keeps him on a luxurious
+
+footing, and pays him a formidable salary so as to
+
+be the one to know of and profit by his discoveries.
+
+The company has, in the dwelling of Eddison,
+
+men in its employ who do not quit him for a
+
+moment, at the table, on the street, in the laboratory.
+
+So that this wretched man, watched more
+
+closely than ever was any malefactor, cannot even
+
+give a moment's thought to his own private affairs
+
+without one of his guards asking him what he is
+
+thinking about." This foolish "blague" was accompanied
+
+by a description of Edison's new "aerophone,"
+
+a steam machine which carried the voice a distance
+
+of one and a half miles. "You speak to a jet of
+
+vapor. A friend previously advised can answer you
+
+by the same method." Nor were American journals
+
+backward in this wild exaggeration.
+
+
+
+The furor had its effect in stimulating a desire
+
+everywhere on the part of everybody to see and hear
+
+the phonograph. A small commercial organization
+
+was formed to build and exploit the apparatus, and
+
+the shops at Menlo Park laboratory were assisted by
+
+the little Bergmann shop in New York. Offices were
+
+taken for the new enterprise at 203 Broadway, where
+
+the Mail and Express building now stands, and
+
+where, in a general way, under the auspices of a
+
+talented dwarf, C. A. Cheever, the embryonic phonograph
+
+and the crude telephone shared rooms and expenses.
+
+Gardiner G. Hubbard, father-in-law of Alex.
+
+Graham Bell, was one of the stockholders in the
+
+Phonograph Company, which paid Edison $10,000
+
+cash and a 20 per cent. royalty. This curious part-
+
+nership was maintained for some time, even when
+
+the Bell Telephone offices were removed to Reade
+
+Street, New York, whither the phonograph went also;
+
+and was perhaps explained by the fact that just then
+
+the ability of the phonograph as a money-maker
+
+was much more easily demonstrated than was that
+
+of the telephone, still in its short range magneto
+
+stage and awaiting development with the aid of the
+
+carbon transmitter.
+
+
+
+The earning capacity of the phonograph then, as
+
+largely now, lay in its exhibition qualities. The
+
+royalties from Boston, ever intellectually awake and
+
+ready for something new, ran as high as $1800 a
+
+week. In New York there was a ceaseless demand
+
+for it, and with the aid of Hilbourne L. Roosevelt, a
+
+famous organ builder, and uncle of ex-President
+
+Roosevelt, concerts were given at which the phonograph
+
+was "featured." To manage this novel show
+
+business the services of James Redpath were called
+
+into requisition with great success. Redpath, famous
+
+as a friend and biographer of John Brown, as a
+
+Civil War correspondent, and as founder of the
+
+celebrated Redpath Lyceum Bureau in Boston, divided
+
+the country into territories, each section being leased
+
+for exhibition purposes on a basis of a percentage of
+
+the "gate money." To 203 Broadway from all over
+
+the Union flocked a swarm of showmen, cranks, and
+
+particularly of old operators, who, the seedier they
+
+were in appearance, the more insistent they were that
+
+"Tom" should give them, for the sake of "Auld lang
+
+syne," this chance to make a fortune for him and for
+
+themselves. At the top of the building was a floor
+
+on which these novices were graduated in the use and
+
+care of the machine, and then, with an equipment of
+
+tinfoil and other supplies, they were sent out on the
+
+road. It was a diverting experience while it lasted.
+
+The excitement over the phonograph was maintained
+
+for many months, until a large proportion of the
+
+inhabitants of the country had seen it; and then the
+
+show receipts declined and dwindled away. Many of
+
+the old operators, taken on out of good-nature, were
+
+poor exhibitors and worse accountants, and at last
+
+they and the machines with which they had been
+
+intrusted faded from sight. But in the mean time
+
+Edison had learned many lessons as to this practical
+
+side of development that were not forgotten when
+
+the renascence of the phonograph began a few years
+
+later, leading up to the present enormous and steady
+
+demand for both machines and records.
+
+
+
+It deserves to be pointed out that the phonograph
+
+has changed little in the intervening years from the
+
+first crude instruments of 1877-78. It has simply
+
+been refined and made more perfect in a mechanical
+
+sense. Edison was immensely impressed with its
+
+possibilities, and greatly inclined to work upon it,
+
+but the coming of the electric light compelled him to
+
+throw all his energies for a time into the vast new
+
+field awaiting conquest. The original phonograph,
+
+as briefly noted above, was rotated by hand, and the
+
+cylinder was fed slowly longitudinally by means of
+
+a nut engaging a screw thread on the cylinder shaft.
+
+Wrapped around the cylinder was a sheet of tinfoil,
+
+with which engaged a small chisel-like recording
+
+needle, connected adhesively with the centre of an
+
+iron diaphragm. Obviously, as the cylinder was
+
+turned, the needle followed a spiral path whose pitch
+
+depended upon that of the feed screw. Along this
+
+path a thread was cut in the cylinder so as to permit
+
+the needle to indent the foil readily as the diaphragm
+
+vibrated. By rotating the cylinder and by causing
+
+the diaphragm to vibrate under the effect of vocal
+
+or musical sounds, the needle-like point would form
+
+a series of indentations in the foil corresponding to
+
+and characteristic of the sound-waves. By now
+
+engaging the point with the beginning of the grooved
+
+record so formed, and by again rotating the cylinder,
+
+the undulations of the record would cause the needle
+
+and its attached diaphragm to vibrate so as to effect
+
+the reproduction. Such an apparatus was necessarily
+
+undeveloped, and was interesting only from a scientific
+
+point of view. It had many mechanical defects
+
+which prevented its use as a practical apparatus.
+
+Since the cylinder was rotated by hand, the speed
+
+at which the record was formed would vary
+
+considerably, even with the same manipulator, so that
+
+it would have been impossible to record and reproduce
+
+music satisfactorily; in doing which exact uniformity
+
+of speed is essential. The formation of the
+
+record in tinfoil was also objectionable from a practical
+
+standpoint, since such a record was faint and
+
+would be substantially obliterated after two or three
+
+reproductions. Furthermore, the foil could not be
+
+easily removed from and replaced upon the instrument,
+
+and consequently the reproduction had to follow
+
+the recording immediately, and the successive
+
+tinfoils were thrown away. The instrument was also
+
+heavy and bulky. Notwithstanding these objections
+
+the original phonograph created, as already remarked,
+
+an enormous popular excitement, and the exhibitions
+
+were considered by many sceptical persons as nothing
+
+more than clever ventriloquism. The possibilities
+
+of the instrument as a commercial apparatus
+
+were recognized from the very first, and some of the
+
+fields in which it was predicted that the phonograph
+
+would be used are now fully occupied. Some have
+
+not yet been realized. Writing in 1878 in the North
+
+American-Review, Mr. Edison thus summed up his
+
+own ideas as to the future applications of the new
+
+invention:
+
+
+
+
+
+"Among the many uses to which the phonograph will
+
+be applied are the following:
+
+
+
+1. Letter writing and all kinds of dictation without the
+
+aid of a stenographer.
+
+
+
+2. Phonographic books, which will speak to blind people
+
+without effort on their part.
+
+
+
+3. The teaching of elocution.
+
+
+
+4. Reproduction of music.
+
+
+
+5. The `Family Record'--a registry of sayings,
+
+reminiscences, etc., by members of a family in their own
+
+voices, and of the last words of dying persons.
+
+
+
+6. Music-boxes and toys.
+
+
+
+7. Clocks that should announce in articulate speech
+
+the time for going home, going to meals, etc.
+
+
+
+8. The preservation of languages by exact reproduction
+
+of the manner of pronouncing.
+
+
+
+9. Educational purposes; such as preserving the
+
+explanations made by a teacher, so that the pupil can refer
+
+to them at any moment, and spelling or other lessons
+
+placed upon the phonograph for convenience in committing
+
+to memory.
+
+
+
+10. Connection with the telephone, so as to make that
+
+instrument an auxiliary in the transmission of permanent
+
+and invaluable records, instead of being the recipient of
+
+momentary and fleeting communication."
+
+
+
+
+
+Of the above fields of usefulness in which it was
+
+expected that the phonograph might be applied, only
+
+three have been commercially realized--namely, the
+
+reproduction of musical, including vaudeville or talking
+
+selections, for which purpose a very large proportion
+
+of the phonographs now made is used; the employment
+
+of the machine as a mechanical stenographer,
+
+which field has been taken up actively only
+
+within the past few years; and the utilization of the
+
+device for the teaching of languages, for which purpose
+
+it has been successfully employed, for example,
+
+by the International Correspondence Schools of
+
+Scranton, Pennsylvania, for several years. The other
+
+uses, however, which were early predicted for the
+
+phonograph have not as yet been worked out practically,
+
+although the time seems not far distant when
+
+its general utility will be widely enlarged. Both dolls
+
+and clocks have been made, but thus far the world
+
+has not taken them seriously.
+
+
+
+The original phonograph, as invented by Edison,
+
+remained in its crude and immature state for almost
+
+ten years--still the object of philosophical interest,
+
+and as a convenient text-book illustration of the
+
+effect of sound vibration. It continued to be a theme
+
+of curious interest to the imaginative, and the subject
+
+of much fiction, while its neglected commercial
+
+possibilities were still more or less vaguely referred to.
+
+During this period of arrested development, Edison
+
+was continuously working on the invention and commercial
+
+exploitation of the incandescent lamp. In
+
+1887 his time was comparatively free, and the phonograph
+
+was then taken up with renewed energy, and
+
+the effort made to overcome its mechanical defects
+
+and to furnish a commercial instrument, so that its
+
+early promise might be realized. The important
+
+changes made from that time up to 1890 converted
+
+the phonograph from a scientific toy into a successful
+
+industrial apparatus. The idea of forming the record
+
+on tinfoil had been early abandoned, and in its stead
+
+was substituted a cylinder of wax-like material, in
+
+which the record was cut by a minute chisel-like gouging
+
+tool. Such a record or phonogram, as it was then
+
+called, could be removed from the machine or replaced
+
+at any time, many reproductions could be
+
+obtained without wearing out the record, and whenever
+
+desired the record could be shaved off by a
+
+turning-tool so as to present a fresh surface on which
+
+a new record could be formed, something like an
+
+ancient palimpsest. A wax cylinder having walls
+
+less than one-quarter of an inch in thickness could
+
+be used for receiving a large number of records, since
+
+the maximum depth of the record groove is hardly
+
+ever greater than one one-thousandth of an inch.
+
+Later on, and as the crowning achievement in the
+
+phonograph field, from a commercial point of view,
+
+came the duplication of records to the extent of many
+
+thousands from a single "master." This work was
+
+actively developed between the years 1890 and 1898,
+
+and its difficulties may be appreciated when the
+
+problem is stated; the copying from a single master
+
+of many millions of excessively minute sound-waves
+
+having a maximum width of one hundredth of an
+
+inch, and a maximum depth of one thousandth of
+
+an inch, or less than the thickness of a sheet of
+
+tissue-paper. Among the interesting developments of
+
+this process was the coating of the original or master
+
+record with a homogeneous film of gold so thin that
+
+three hundred thousand of these piled one on top of
+
+the other would present a thickness of only one inch!
+
+
+
+Another important change was in the nature of a
+
+reversal of the original arrangement, the cylinder or
+
+mandrel carrying the record being mounted in fixed
+
+bearings, and the recording or reproducing device
+
+being fed lengthwise, like the cutting-tool of a lathe,
+
+as the blank or record was rotated. It was early
+
+recognized that a single needle for forming the record
+
+and the reproduction therefrom was an undesirable
+
+arrangement, since the formation of the record required
+
+a very sharp cutting-tool, while satisfactory
+
+and repeated reproduction suggested the use of a
+
+stylus which would result in the minimum wear.
+
+After many experiments and the production of a
+
+number of types of machines, the present recorders
+
+and reproducers were evolved, the former consisting
+
+of a very small cylindrical gouging tool having a diameter
+
+of about forty thousandths of an inch, and the
+
+latter a ball or button-shaped stylus with a diameter
+
+of about thirty-five thousandths of an inch. By
+
+using an incisor of this sort, the record is formed of
+
+a series of connected gouges with rounded sides,
+
+varying in depth and width, and with which the
+
+reproducer automatically engages and maintains its
+
+engagement. Another difficulty encountered in the
+
+commercial development of the phonograph was the
+
+adjustment of the recording stylus so as to enter the
+
+wax-like surface to a very slight depth, and of the
+
+reproducer so as to engage exactly the record when
+
+formed. The earlier types of machines were provided
+
+with separate screws for effecting these adjustments;
+
+but considerable skill was required to
+
+obtain good results, and great difficulty was
+
+experienced in meeting the variations in the wax-like
+
+cylinders, due to the warping under atmospheric
+
+changes. Consequently, with the early types of commercial
+
+phonographs, it was first necessary to shave
+
+off the blank accurately before a record was formed
+
+thereon, in order that an absolutely true surface
+
+might be presented. To overcome these troubles,
+
+the very ingenious suggestion was then made and
+
+adopted, of connecting the recording and reproducing
+
+styluses to their respective diaphragms through the
+
+instrumentality of a compensating weight, which acted
+
+practically as a fixed support under the very rapid
+
+sound vibrations, but which yielded readily to distortions
+
+or variations in the wax-like cylinders. By
+
+reason of this improvement, it became possible to do
+
+away with all adjustments, the mass of the compensating
+
+weight causing the recorder to engage the
+
+blank automatically to the required depth, and to
+
+maintain the reproducing stylus always with the desired
+
+pressure on the record when formed. These
+
+automatic adjustments were maintained even though
+
+the blank or record might be so much out of true
+
+as an eighth of an inch, equal to more than two
+
+hundred times the maximum depth of the record
+
+groove.
+
+
+
+Another improvement that followed along the lines
+
+adopted by Edison for the commercial development
+
+of the phonograph was making the recording and reproducing
+
+styluses of sapphire, an extremely hard,
+
+non-oxidizable jewel, so that those tiny instruments
+
+would always retain their true form and effectively
+
+resist wear. Of course, in this work many other things
+
+were done that may still be found on the perfected
+
+phonograph as it stands to-day, and many other suggestions
+
+were made which were contemporaneously
+
+adopted, but which were later abandoned. For the
+
+curious-minded, reference is made to the records in
+
+the Patent Office, which will show that up to 1893
+
+Edison had obtained upward of sixty-five patents in
+
+this art, from which his line of thought can be very
+
+closely traced. The phonograph of to-day, except
+
+for the perfection of its mechanical features, in its
+
+beauty of manufacture and design, and in small details,
+
+may be considered identical with the machine
+
+of 1889, with the exception that with the latter the
+
+rotation of the record cylinder was effected by an
+
+electric motor.
+
+
+
+Its essential use as then contemplated was as a
+
+substitute for stenographers, and the most extravagant
+
+fancies were indulged in as to utility in that
+
+field. To exploit the device commercially, the patents
+
+were sold to Philadelphia capitalists, who organized
+
+the North American Phonograph Company, through
+
+which leases for limited periods were granted to local
+
+companies doing business in special territories, gen-
+
+erally within the confines of a single State. Under
+
+that plan, resembling the methods of 1878, the machines
+
+and blank cylinders were manufactured by the
+
+Edison Phonograph Works, which still retains its
+
+factories at Orange, New Jersey. The marketing
+
+enterprise was early doomed to failure, principally
+
+because the instruments were not well understood,
+
+and did not possess the necessary refinements that
+
+would fit them for the special field in which they were
+
+to be used. At first the instruments were leased;
+
+but it was found that the leases were seldom renewed.
+
+Efforts were then made to sell them, but the prices
+
+were high--from $100 to $150. In the midst of these
+
+difficulties, the chief promoter of the enterprise, Mr.
+
+Lippincott, died; and it was soon found that the
+
+roseate dreams of success entertained by the sanguine
+
+promoters were not to be realized. The North American
+
+Phonograph Company failed, its principal creditor
+
+being Mr. Edison, who, having acquired the
+
+assets of the defunct concern, organized the National
+
+Phonograph Company, to which he turned over the
+
+patents; and with characteristic energy he attempted
+
+again to build up a business with which his favorite
+
+and, to him, most interesting invention might be
+
+successfully identified. The National Phonograph
+
+Company from the very start determined to retire at
+
+least temporarily from the field of stenographic use,
+
+and to exploit the phonograph for musical purposes as
+
+a competitor of the music-box. Hence it was necessary
+
+that for such work the relatively heavy and expensive
+
+electric motor should be discarded, and a simple
+
+spring motor constructed with a sufficiently sensitive
+
+governor to permit accurate musical reproduction.
+
+Such a motor was designed, and is now used on all
+
+phonographs except on such special instruments as
+
+may be made with electric motors, as well as on the
+
+successful apparatus that has more recently been
+
+designed and introduced for stenographic use. Improved
+
+factory facilities were introduced; new tools
+
+were made, and various types of machines were designed
+
+so that phonographs can now be bought at
+
+prices ranging from $10 to $200. Even with the
+
+changes which were thus made in the two machines,
+
+the work of developing the business was slow, as a
+
+demand had to be created; and the early prejudice
+
+of the public against the phonograph, due to its failure
+
+as a stenographic apparatus, had to be overcome.
+
+The story of the phonograph as an industrial enterprise,
+
+from this point of departure, is itself full of
+
+interest, but embraces so many details that it is
+
+necessarily given in a separate later chapter. We must
+
+return to the days of 1878, when Edison, with at
+
+least three first-class inventions to his credit--the
+
+quadruplex, the carbon telephone, and the phonograph
+
+--had become a man of mark and a "world
+
+character."
+
+
+
+The invention of the phonograph was immediately
+
+followed, as usual, by the appearance of several other
+
+incidental and auxiliary devices, some patented, and
+
+others remaining simply the application of the principles
+
+of apparatus that had been worked out. One
+
+of these was the telephonograph, a combination of a
+
+telephone at a distant station with a phonograph.
+
+The diaphragm of the phonograph mouthpiece is
+
+actuated by an electromagnet in the same way as
+
+that of an ordinary telephone receiver, and in this
+
+manner a record of the message spoken from a distance
+
+can be obtained and turned into sound at will.
+
+Evidently such a process is reversible, and the
+
+phonograph can send a message to the distant receiver.
+
+
+
+This idea was brilliantly demonstrated in practice
+
+in February, 1889, by Mr. W. J. Hammer, one of
+
+Edison's earliest and most capable associates, who
+
+carried on telephonographic communication between
+
+New York and an audience in Philadelphia. The
+
+record made in New York on the Edison phonograph
+
+was repeated into an Edison carbon transmitter, sent
+
+over one hundred and three miles of circuit, including
+
+six miles of underground cable; received by an Edison
+
+motograph; repeated by that on to a phonograph;
+
+transferred from the phonograph to an Edison carbon
+
+transmitter, and by that delivered to the Edison
+
+motograph receiver in the enthusiastic lecture-hall,
+
+where every one could hear each sound and syllable
+
+distinctly. In real practice this spectacular playing
+
+with sound vibrations, as if they were lacrosse balls
+
+to toss around between the goals, could be materially
+
+simplified.
+
+
+
+The modern megaphone, now used universally in
+
+making announcements to large crowds, particularly
+
+at sporting events, is also due to this period as a
+
+perfection by Edison of many antecedent devices going
+
+back, perhaps, much further than the legendary
+
+funnels through which Alexander the Great is said
+
+to have sent commands to his outlying forces. The
+
+improved Edison megaphone for long-distance work
+
+comprised two horns of wood or metal about six feet
+
+long, tapering from a diameter of two feet six inches
+
+at the mouth to a small aperture provided with ear-
+
+tubes. These converging horns or funnels, with a
+
+large speaking-trumpet in between them, are mounted
+
+on a tripod, and the megaphone is complete.
+
+Conversation can be carried on with this megaphone
+
+at a distance of over two miles, as with a ship or
+
+the balloon. The modern megaphone now employs
+
+the receiver form thus introduced as its very effective
+
+transmitter, with which the old-fashioned speaking-
+
+trumpet cannot possibly compete; and the word
+
+"megaphone" is universally applied to the single,
+
+side-flaring horn.
+
+
+
+A further step in this line brought Edison to the
+
+"aerophone," around which the Figaro weaved its
+
+fanciful description. In the construction of the aerophone
+
+the same kind of tympanum is used as in the
+
+phonograph, but the imitation of the human voice,
+
+or the transmission of sound, is effected by the quick
+
+opening and closing of valves placed within a steam-
+
+whistle or an organ-pipe. The vibrations of the
+
+diaphragm communicated to the valves cause them
+
+to operate in synchronism, so that the vibrations are
+
+thrown upon the escaping air or steam; and the result
+
+is an instrument with a capacity of magnifying
+
+the sounds two hundred times, and of hurling them
+
+to great distances intelligibly, like a huge fog-siren,
+
+but with immense clearness and penetration. All
+
+this study of sound transmission over long distances
+
+without wires led up to the consideration and inven-
+
+tion of pioneer apparatus for wireless telegraphy--
+
+but that also is another chapter.
+
+
+
+Yet one more ingenious device of this period must
+
+be noted--Edison's vocal engine, the patent application
+
+for which was executed in August, 1878, the
+
+patent being granted the following December. Reference
+
+to this by Edison himself has already been
+
+quoted. The "voice-engine," or "phonomotor," converts
+
+the vibrations of the voice or of music, acting
+
+on the diaphragm, into motion which is utilized to
+
+drive some secondary appliance, whether as a toy
+
+or for some useful purpose. Thus a man can actually
+
+talk a hole through a board.
+
+
+
+Somewhat weary of all this work and excitement,
+
+and not having enjoyed any cessation from toil, or
+
+period of rest, for ten years, Edison jumped eagerly
+
+at the opportunity afforded him in the summer of
+
+1878 of making a westward trip. Just thirty years
+
+later, on a similar trip over the same ground, he
+
+jotted down for this volume some of his reminiscences.
+
+The lure of 1878 was the opportunity to try
+
+the ability of his delicate tasimeter during the total
+
+eclipse of the sun, July 29. His admiring friend, Prof.
+
+George F. Barker, of the University of Pennsylvania,
+
+with whom he had now been on terms of intimacy
+
+for some years, suggested the holiday, and was himself
+
+a member of the excursion party that made its
+
+rendezvous at Rawlins, Wyoming Territory. Edison
+
+had tested his tasimeter, and was satisfied that it
+
+would measure down to the millionth part of a
+
+degree Fahrenheit. It was just ten years since he
+
+had left the West in poverty and obscurity, a penni-
+
+less operator in search of a job; but now he was a
+
+great inventor and famous, a welcome addition to
+
+the band of astronomers and physicists assembled
+
+to observe the eclipse and the corona.
+
+
+
+"There were astronomers from nearly every nation,"
+
+says Mr. Edison. "We had a special car.
+
+The country at that time was rather new; game was
+
+in great abundance, and could be seen all day long
+
+from the car window, especially antelope. We arrived
+
+at Rawlins about 4 P.M. It had a small machine
+
+shop, and was the point where locomotives
+
+were changed for the next section. The hotel was a
+
+very small one, and by doubling up we were barely
+
+accommodated. My room-mate was Fox, the correspondent
+
+of the New York Herald. After we retired
+
+and were asleep a thundering knock on the door
+
+awakened us. Upon opening the door a tall, handsome
+
+man with flowing hair dressed in western style
+
+entered the room. His eyes were bloodshot, and he
+
+was somewhat inebriated. He introduced himself as
+
+`Texas Jack'--Joe Chromondo--and said he wanted
+
+to see Edison, as he had read about me in the newspapers.
+
+Both Fox and I were rather scared, and
+
+didn't know what was to be the result of the interview.
+
+The landlord requested him not to make so
+
+much noise, and was thrown out into the hall. Jack
+
+explained that he had just come in with a party
+
+which had been hunting, and that he felt fine. He
+
+explained, also, that he was the boss pistol-shot of
+
+the West; that it was he who taught the celebrated
+
+Doctor Carver how to shoot. Then suddenly pointing
+
+to a weather-vane on the freight depot, he pulled
+
+out a Colt revolver and fired through the window,
+
+hitting the vane. The shot awakened all the people,
+
+and they rushed in to see who was killed. It was
+
+only after I told him I was tired and would see him
+
+in the morning that he left. Both Fox and I were so
+
+nervous we didn't sleep any that night.
+
+
+
+"We were told in the morning that Jack was a
+
+pretty good fellow, and was not one of the `bad
+
+men,' of whom they had a good supply. They had
+
+one in the jail, and Fox and I went over to see him. A
+
+few days before he had held up a Union Pacific train
+
+and robbed all the passengers. In the jail also was a
+
+half-breed horse-thief. We interviewed the bad man
+
+through bars as big as railroad rails. He looked like
+
+a `bad man.' The rim of his ear all around came
+
+to a sharp edge and was serrated. His eyes were nearly
+
+white, and appeared as if made of glass and set in
+
+wrong, like the life-size figures of Indians in the
+
+Smithsonian Institution. His face was also extremely
+
+irregular. He wouldn't answer a single question.
+
+I learned afterward that he got seven years in prison,
+
+while the horse-thief was hanged. As horses ran
+
+wild, and there was no protection, it meant death
+
+to steal one."
+
+
+
+This was one interlude among others. "The first
+
+thing the astronomers did was to determine with
+
+precision their exact locality upon the earth. A number
+
+of observations were made, and Watson, of Michigan
+
+University, with two others, worked all night
+
+computing, until they agreed. They said they were
+
+not in error more than one hundred feet, and that
+
+the station was twelve miles out of the position given
+
+on the maps. It seemed to take an immense amount
+
+of mathematics. I preserved one of the sheets, which
+
+looked like the time-table of a Chinese railroad. The
+
+instruments of the various parties were then set up
+
+in different parts of the little town, and got ready
+
+for the eclipse which was to occur in three or four days.
+
+Two days before the event we all got together, and
+
+obtaining an engine and car, went twelve miles
+
+farther west to visit the United States Government
+
+astronomers at a place called Separation, the apex
+
+of the Great Divide, where the waters run east to the
+
+Mississippi and west to the Pacific. Fox and I took
+
+our Winchester rifles with an idea of doing a little
+
+shooting. After calling on the Government people
+
+we started to interview the telegraph operator at this
+
+most lonely and desolate spot. After talking over old
+
+acquaintances I asked him if there was any game
+
+around. He said, `Plenty of jack-rabbits.' These
+
+jack-rabbits are a very peculiar species. They have
+
+ears about six inches long and very slender legs,
+
+about three times as long as those of an ordinary
+
+rabbit, and travel at a great speed by a series of
+
+jumps, each about thirty feet long, as near as I could
+
+judge. The local people called them `narrow-gauge
+
+mules.' Asking the operator the best direction, he
+
+pointed west, and noticing a rabbit in a clear space
+
+in the sage bushes, I said, `There is one now.' I
+
+advanced cautiously to within one hundred feet and
+
+shot. The rabbit paid no attention. I then advanced
+
+to within ten feet and shot again--the rabbit
+
+was still immovable. On looking around, the whole
+
+crowd at the station were watching--and then I
+
+knew the rabbit was stuffed! However, we did shoot
+
+a number of live ones until Fox ran out of cartridges.
+
+On returning to the station I passed away the time
+
+shooting at cans set on a pile of tins. Finally the
+
+operator said to Fox: `I have a fine Springfield
+
+musket, suppose you try it!' So Fox took the
+
+musket and fired. It knocked him nearly over. It
+
+seems that the musket had been run over by a handcar,
+
+which slightly bent the long barrel, but not
+
+sufficiently for an amateur like Fox to notice. After
+
+Fox had his shoulder treated with arnica at the
+
+Government hospital tent, we returned to Rawlins."
+
+
+
+The eclipse was, however, the prime consideration,
+
+and Edison followed the example of his colleagues in
+
+making ready. The place which he secured for setting
+
+up his tasimeter was an enclosure hardly suitable
+
+for the purpose, and he describes the results as follows:
+
+
+
+"I had my apparatus in a small yard enclosed by
+
+a board fence six feet high, at one end there was a
+
+house for hens. I noticed that they all went to roost
+
+just before totality. At the same time a slight wind
+
+arose, and at the moment of totality the atmosphere
+
+was filled with thistle-down and other light articles.
+
+I noticed one feather, whose weight was at least one
+
+hundred and fifty milligrams, rise perpendicularly to
+
+the top of the fence, where it floated away on the
+
+wind. My apparatus was entirely too sensitive, and
+
+I got no results." It was found that the heat from
+
+the corona of the sun was ten times the index capacity
+
+of the instrument; but this result did not leave the
+
+value of the device in doubt. The Scientific American
+
+remarked;
+
+
+
+"Seeing that the tasimeter is affected by a wider range
+
+of etheric undulations than the eye can take cognizance
+
+of, and is withal far more acutely sensitive, the probabilities
+
+are that it will open up hitherto inaccessible
+
+regions of space, and possibly extend the range of aerial
+
+knowledge as far beyond the limit obtained by the telescope
+
+as that is beyond the narrow reach of unaided
+
+vision."
+
+
+
+
+
+The eclipse over, Edison, with Professor Barker,
+
+Major Thornberg, several soldiers, and a number of
+
+railroad officials, went hunting about one hundred
+
+miles south of the railroad in the Ute country. A
+
+few months later the Major and thirty soldiers were
+
+ambushed near the spot at which the hunting-party
+
+had camped, and all were killed. Through an introduction
+
+from Mr. Jay Gould, who then controlled the
+
+Union Pacific, Edison was allowed to ride on the
+
+cow-catchers of the locomotives. "The different
+
+engineers gave me a small cushion, and every day I
+
+rode in this manner, from Omaha to the Sacramento
+
+Valley, except through the snow-shed on the summit
+
+of the Sierras, without dust or anything else to
+
+obstruct the view. Only once was I in danger when
+
+the locomotive struck an animal about the size of
+
+a small cub bear--which I think was a badger. This
+
+animal struck the front of the locomotive just under
+
+the headlight with great violence, and was then
+
+thrown off by the rebound. I was sitting to one side
+
+grasping the angle brace, so no harm was done."
+
+
+
+This welcome vacation lasted nearly two months;
+
+but Edison was back in his laboratory and hard at
+
+work before the end of August, gathering up many
+
+loose ends, and trying out many thoughts and ideas
+
+that had accumulated on the trip. One hot afternoon
+
+--August 30th, as shown by the document in
+
+the case--Mr. Edison was found by one of the authors
+
+of this biography employed most busily in making
+
+a mysterious series of tests on paper, using for ink
+
+acids that corrugated and blistered the paper where
+
+written upon. When interrogated as to his object,
+
+he stated that the plan was to afford blind people
+
+the means of writing directly to each other, especially
+
+if they were also deaf and could not hear a message
+
+on the phonograph. The characters which he was
+
+thus forming on the paper were high enough in relief
+
+to be legible to the delicate touch of a blind man's
+
+fingers, and with simple apparatus letters could be
+
+thus written, sent, and read. There was certainly
+
+no question as to the result obtained at the moment,
+
+which was all that was asked; but the Edison autograph
+
+thus and then written now shows the paper
+
+eaten out by the acid used, although covered with
+
+glass for many years. Mr. Edison does not remember
+
+that he ever recurred to this very interesting test.
+
+
+
+He was, however, ready for anything new or novel,
+
+and no record can ever be made or presented that
+
+would do justice to a tithe of the thoughts and fancies
+
+daily and hourly put upon the rack. The famous
+
+note-books, to which reference will be made later,
+
+were not begun as a regular series, as it was only the
+
+profusion of these ideas that suggested the vital value
+
+of such systematic registration. Then as now, the
+
+propositions brought to Edison ranged over every
+
+conceivable subject, but the years have taught him
+
+caution in grappling with them. He tells an amusing
+
+story of one dilemma into which his good-nature led
+
+him at this period: "At Menlo Park one day, a farmer
+
+came in and asked if I knew any way to kill potato-
+
+bugs. He had twenty acres of potatoes, and the
+
+vines were being destroyed. I sent men out and
+
+culled two quarts of bugs, and tried every chemical
+
+I had to destroy them. Bisulphide of carbon was
+
+found to do it instantly. I got a drum and went over
+
+to the potato farm and sprinkled it on the vines with
+
+a pot. Every bug dropped dead. The next morning
+
+the farmer came in very excited and reported that
+
+the stuff had killed the vines as well. I had to pay
+
+$300 for not experimenting properly."
+
+
+
+During this year, 1878, the phonograph made its
+
+way also to Europe, and various sums of money were
+
+paid there to secure the rights to its manufacture and
+
+exploitation. In England, for example, the Microscopic
+
+Company paid $7500 down and agreed to a
+
+royalty, while arrangements were effected also in
+
+France, Russia, and other countries. In every instance,
+
+as in this country, the commercial development
+
+had to wait several years, for in the mean time
+
+another great art had been brought into existence,
+
+demanding exclusive attention and exhaustive toil.
+
+And when the work was done the reward was a new
+
+heaven and a new earth--in the art of illumination.
+
+
