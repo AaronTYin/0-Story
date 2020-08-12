@@ -1,0 +1,2 @@
+# S-Story
+Storys collect.
